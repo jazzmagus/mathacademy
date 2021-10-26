@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: forest
 day_night: true
-font: ''
-font_size: L
+font: 'Rose'
+font_size: M
 
 # SEO
 
@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
+email: diego.fantinelli@gmail.com
 phone: 888 888 88 88
 address:
   street: 450 Serra Mall
@@ -77,8 +77,8 @@ address_format: en-us
 highlight: true
 highlight_languages:
   - r
-math: false
-diagram: false
+math: true
+diagram: true
 privacy_pack: false
 edit_page:
   repo_url: ''

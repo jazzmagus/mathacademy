@@ -172,3 +172,25 @@ gallery_item:
 
 ---
 
+{{% callout note %}}
+This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+
+$$x^2 - 2x + 1$$
+
+Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+
+**To remove this section, delete `content/home/demo.md`.**
+{{% /callout %}}
+
+```mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Adding GANTT diagram to mermaid
+excludes weekdays 2014-01-10
+
+section A section
+Completed task            :done,    des1, 2014-01-06,2014-01-08
+Active task               :active,  des2, 2014-01-09, 3d
+Future task               :         des3, after des2, 5d
+Future task2               :         des4, after des3, 5d
+```

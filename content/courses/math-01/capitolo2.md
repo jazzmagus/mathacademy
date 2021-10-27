@@ -14,11 +14,14 @@ menu:
 weight: 20
 ---
 
+{{< toc >}}
+<!-- {{< toc hide_on="xl" >}} -->
+
 > ☆ **scadenza**: 30 ottobre 2021
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 2 Numeri razionali e numeri reali
+## Capitolo 2 - Numeri razionali e numeri reali
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
 
@@ -38,6 +41,6 @@ Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, sc
 
 ## percentuali
 
-## L’insieme  dei  numeri  reali
+## L’insieme  dei  numeri  reali $\mathbb{R}$
 
 ## Calcolo  approssimato

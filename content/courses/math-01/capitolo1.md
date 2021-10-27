@@ -15,7 +15,8 @@ menu:
 weight: 10
 ---
 
-{{< toc hide_on="xl" >}}
+{{< toc >}}
+<!-- {{< toc hide_on="xl" >}} -->
 
 > ☆ **scadenza**: 30 settembre 2021
 
@@ -417,7 +418,7 @@ Per determinare il mcm di due o più numeri naturali
 
 ## L’insieme  dei  numeri  interi  relativi $\mathbb{Z}$
 
-## 18. I numeri interi relativi
+### 18. I numeri interi relativi
 
 #### valore assoluto e numeri opposti
 

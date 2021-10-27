@@ -94,3 +94,5 @@ In the end, the simpleton wins the popular vote, because he is so confident abou
 >And in the end, if you persevere, you may be elevated to the ranks of Socrates, who, over 2000 years ago, left us with a quote of wisdom “I know that I am intelligent, because I know that I know nothing.”
 
 {{< youtube id="4FGnb2lgPBA" title="A New Hugo Site in Under Two Minutes" >}}
+
+{{% staticref "uploads/math00.html" "newtab" %}}presentation reveal{{% /staticref %}}

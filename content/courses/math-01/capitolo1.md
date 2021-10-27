@@ -1,7 +1,7 @@
 ---
 title: Numeri naturali e numeri interi relativi
 linktitle: Capitolo 1 numeri Naturali e Interi Relativi
-toc: false
+toc: true
 type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
@@ -14,6 +14,8 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 10
 ---
+
+{{< toc hide_on="xl" >}}
 
 > ☆ **scadenza**: 30 settembre 2021
 

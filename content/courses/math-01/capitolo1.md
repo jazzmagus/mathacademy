@@ -422,7 +422,7 @@ Per determinare il mcm di due o più numeri naturali
 
 #### valore assoluto e numeri opposti
 
-##### DEFINIZIONI:
+##### DEFINIZIONI
 
 - **VALORE ASSOLUTO DI UN NUMERO INTERO RELATIVO**: Il valore assoluto o modulo di un numero intero relativo, positivo o negativo, è il numero stesso privato del suo segno
 

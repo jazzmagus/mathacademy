@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: coffee
+theme: earth
 day_night: true
 font: 'Rose'
 font_size: L
@@ -50,10 +50,10 @@ contact_links:
   #  icon_pack: fab
   #  name: Chat on Keybase
   #  link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+  # - icon: comments
+  #  icon_pack: fas
+  #  name: Discuss on Forum
+  #  link: 'https://discourse.gohugo.io'
 
 # Site header
 

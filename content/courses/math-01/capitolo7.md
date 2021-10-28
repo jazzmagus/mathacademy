@@ -26,6 +26,9 @@ Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, sc
 
 ## Frazioni
 
+$\frac{1}{a^{2}-2 a b+b^{2}}-\frac{1}{a^{2}-a b}+\frac{1}{a b-b^{2}}-\frac{1}{a b}
+$
+
 ## L’insieme  dei  numeri  razionali
 
 ## operazioni  con  i  numeri  razionali

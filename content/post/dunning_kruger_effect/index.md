@@ -56,11 +56,10 @@ gallery_item:
 <!-- {{< toc hide_on="xl" >}} -->
 
 > “I know that I am intelligent, because I know that I know nothing.”
-> <br> &mdash; <cite>Socrate</cite>
+>
+> _Socrate_
 
 ![Dunning Kruger](https://thehrbpstory.files.wordpress.com/2017/11/dunning-kruger-0011-e1511849012667.jpg)
-
-# Dunning Kruger Effect
 
 ## Il fatto
 
@@ -68,26 +67,26 @@ gallery_item:
  convinto che il succo di limone rendesse il suo volto invisibile alle telecamere di sorveglianza.
 
 - Police broadcasted the security camera footage on the local eleven o’clock news and just after midnight, Arthur was arrested. Incredulously, he said “But I wore the juice...”.
+- La polizia visionò le videocamere di sicurezza ed entro la mezzanotte il sig. Arthur fu arrestato.
+  Incredibilmente disse: "ma indossavo il succo di limone...!".
 
-- Baffled by this reasoning, David Dunning and Justin Kruger, two Psychologists, studied Mr Wheeler and others like him . They came to the conclusion that people with low ability at a task tend to, paradoxically, overestimate themselves. This cognitive bias is known as The Dunning–Kruger effect.
+- Baffled by this reasoning, David Dunning and Justin Kruger, two Psychologists, studied Mr Wheeler and others like him. They came to the conclusion that people with low ability at a task tend to, paradoxically, overestimate themselves. This cognitive bias is known as The Dunning–Kruger effect.
 
-Let’s look at this graphically plotting one’s confidence in your ability against one’s actual knowledge in a field. 
-As we learn something new, we are often highly confident because we know so little that as soon as we do know a tiny bit, we think we know it all. Those who stop learning here maintain a false sense of mastery. Those who continue learning, realize things are more complex and often lose motivation. 
-And the more they increase their knowledge the lower their confidence becomes. 
-Many stop at this stage, thinking they’ve learned nothing. 
-Only if we keep going can we regain confidence while getting better. 
+Let’s look at this graphically plotting one’s confidence in your ability against one’s actual knowledge in a field.
+As we learn something new, we are often highly confident because we know so little that as soon as we do know a tiny bit, we think we know it all. Those who stop learning here maintain a false sense of mastery. Those who continue learning, realize things are more complex and often lose motivation.
+And the more they increase their knowledge the lower their confidence becomes.
+Many stop at this stage, thinking they’ve learned nothing.
+Only if we keep going can we regain confidence while getting better.
 And at the end, we will be full of knowledge and almost as confident in our ability as right after we started.
 
-- In other words, if a simpleton , a good student and a wise teacher were to have a public debate, this is how things could go down.
+- In other words, if a simpleton, a good student and a wise teacher were to have a public debate, this is how things could go down.
 
 The simpleton knows just a little bit, but is very confident and voices his opinions loud and without hesitations. The student knows more, but doesn’t realize it because she lacks confidence. She keeps quiet.  The teacher is confident, but understands how complex things really are. Hence voices his opinions with reservations.
 
-
 In the end, the simpleton wins the popular vote, because he is so confident about being right and people tend to trust certainty.
 
-- Research from North America, Europe and Japan suggests that culture plays a big role. 
+- Research from North America, Europe and Japan suggests that culture plays a big role.
 - From assessments of one's own ability to drive we know that 93% of Americans think they are better drivers than average, while “only" 69% of Swedish think so. In Japan on the other hand, people, in general, tend to underestimate their abilities as a strategy to see their underachievement as an opportunity to improve.
-
 
 - Setting out on a journey of learning can be a daunting experience. What starts off as a leisurely stroll soon changes to an intense battle of willpower between you and an intimidating amount of knowledge. Do not give up. The longer you fight, the more power you gain, up until the point you win.
 

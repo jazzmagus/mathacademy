@@ -66,8 +66,6 @@ gallery_item:
 >
 > _Socrate_
 
-![Dunning Kruger](https://thehrbpstory.files.wordpress.com/2017/11/dunning-kruger-0011-e1511849012667.jpg)
-
 ## Il fatto
 
 >Il 19 aprile 1995, il signor McArthur Wheeler, rapinò una banca con la faccia cosparsa di succo di limone,
@@ -79,8 +77,11 @@ gallery_item:
 
 - Diamo un'occhiata a questo tracciando graficamente la propria fiducia nelle proprie capacità rispetto alla propria conoscenza effettiva in un campo.
 
-  - Quando impariamo qualcosa di nuovo, spesso siamo molto fiduciosi perché sappiamo così poco che non appena ne sappiamo qualcosa, pensiamo di sapere tutto.
-  - Coloro che smettono di imparare qui mantengono un falso senso di padronanza. Chi continua a imparare, si rende conto che le cose sono più complesse e spesso perde la motivazione.
+![Dunning Kruger](https://thehrbpstory.files.wordpress.com/2017/11/dunning-kruger-0011-e1511849012667.jpg)
+
+> - Quando impariamo qualcosa di nuovo, spesso siamo molto fiduciosi perché sappiamo così poco che non appena ne sappiamo qualcosa, pensiamo di sapere tutto.
+>
+> - Coloro che smettono di imparare qui mantengono un falso senso di padronanza. Chi continua a imparare, si rende conto che le cose sono più complesse e spesso perde la motivazione.
 
 - E più aumentano la loro conoscenza, più diminuisce la loro fiducia.
 

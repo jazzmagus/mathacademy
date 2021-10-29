@@ -10,11 +10,11 @@ date: "2021-09-30T00:00:00Z"
 featured: true
 draft: false
 
-links:
-  - icon_pack: fab
-    icon: 
-    name: SLIDES
-    url: 'https://jazzmagus.github.io/reveal.js-magus/'
+# links:
+#  - icon_pack: fab
+#    icon: 
+#    name: SLIDES
+#    url: dunning_kruger_effect
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -24,6 +24,7 @@ image:
   focal_point: ""
   preview_only: false
 
+slides: dunning_kruger_effect
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.

@@ -10,6 +10,12 @@ date: "2021-09-30T00:00:00Z"
 featured: true
 draft: false
 
+links:
+  - icon_pack: fab
+    icon: 
+    name: SLIDES
+    url: 'https://jazzmagus.github.io/reveal.js-magus/'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
@@ -66,32 +72,27 @@ gallery_item:
 >Il 19 aprile 1995, il signor McArthur Wheeler, rapinò una banca con la faccia cosparsa di succo di limone,
  convinto che il succo di limone rendesse il suo volto invisibile alle telecamere di sorveglianza.
 
-- Police broadcasted the security camera footage on the local eleven o’clock news and just after midnight, Arthur was arrested. Incredulously, he said “But I wore the juice...”.
 - La polizia visionò le videocamere di sicurezza ed entro la mezzanotte il sig. Arthur fu arrestato.
   Incredibilmente disse: "ma indossavo il succo di limone...!".
 
-- Baffled by this reasoning, David Dunning and Justin Kruger, two Psychologists, studied Mr Wheeler and others like him. They came to the conclusion that people with low ability at a task tend to, paradoxically, overestimate themselves. This cognitive bias is known as The Dunning–Kruger effect.
+- Sconcertati da questo ragionamento, David Dunning e Justin Kruger, due psicologi, hanno studiato il signor Wheeler e altri come lui. Sono giunti alla conclusione che le persone con scarse capacità in un compito tendono, paradossalmente, a sopravvalutarsi. Questo pregiudizio cognitivo è noto come effetto Dunning-Kruger.
 
-Let’s look at this graphically plotting one’s confidence in your ability against one’s actual knowledge in a field.
-As we learn something new, we are often highly confident because we know so little that as soon as we do know a tiny bit, we think we know it all. Those who stop learning here maintain a false sense of mastery. Those who continue learning, realize things are more complex and often lose motivation.
-And the more they increase their knowledge the lower their confidence becomes.
-Many stop at this stage, thinking they’ve learned nothing.
-Only if we keep going can we regain confidence while getting better.
-And at the end, we will be full of knowledge and almost as confident in our ability as right after we started.
+Diamo un'occhiata a questo tracciando graficamente la propria fiducia nelle proprie capacità rispetto alla propria conoscenza effettiva in un campo.
+Quando impariamo qualcosa di nuovo, spesso siamo molto fiduciosi perché sappiamo così poco che non appena ne sappiamo qualcosa, pensiamo di sapere tutto. Coloro che smettono di imparare qui mantengono un falso senso di padronanza. Chi continua a imparare, si rende conto che le cose sono più complesse e spesso perde la motivazione.
+E più aumentano la loro conoscenza, più diminuisce la loro fiducia.
+Molti si fermano a questo punto, pensando di non aver imparato nulla.
+Solo se andiamo avanti possiamo ritrovare fiducia e migliorare.
+E alla fine, saremo pieni di conoscenza e fiduciosi nelle nostre capacità quasi come subito dopo aver iniziato.
 
-- In other words, if a simpleton, a good student and a wise teacher were to have a public debate, this is how things could go down.
+- In altre parole, se un sempliciotto, un bravo studente e un saggio insegnante avessero un dibattito pubblico, ecco come potrebbero andare le cose.
+  - Il sempliciotto ne sa poco, ma è molto sicuro di sé ed esprime le sue opinioni a voce alta e senza esitazioni. Lo studente ne sa di più, ma non se ne rende conto perché le manca la fiducia. Lei tace. L'insegnante è fiducioso, ma capisce quanto siano davvero complesse le cose. Quindi esprime le sue opinioni con riserve.
+  - Alla fine, il sempliciotto vince il voto popolare, perché è così sicuro di avere ragione e la gente tende a fidarsi della certezza.
 
-The simpleton knows just a little bit, but is very confident and voices his opinions loud and without hesitations. The student knows more, but doesn’t realize it because she lacks confidence. She keeps quiet.  The teacher is confident, but understands how complex things really are. Hence voices his opinions with reservations.
+- La ricerca dal Nord America, Europa e Giappone suggerisce che la cultura gioca un ruolo importante.
 
-In the end, the simpleton wins the popular vote, because he is so confident about being right and people tend to trust certainty.
+- Dalle valutazioni sulla propria capacità di guidare sappiamo che il 93% degli americani pensa di essere alla guida migliore della media, mentre “solo” il 69% degli svedesi la pensa così. In Giappone invece le persone, in generale, tendono a sottovalutare le loro capacità come una strategia per vedere il loro scarso rendimento come un'opportunità per migliorare.
 
-- Research from North America, Europe and Japan suggests that culture plays a big role.
-- From assessments of one's own ability to drive we know that 93% of Americans think they are better drivers than average, while “only" 69% of Swedish think so. In Japan on the other hand, people, in general, tend to underestimate their abilities as a strategy to see their underachievement as an opportunity to improve.
+- Intraprendere un viaggio di apprendimento può essere un'esperienza scoraggiante. Ciò che inizia come una piacevole passeggiata si trasforma presto in un'intensa battaglia di forza di volontà tra te e una quantità intimidatoria di conoscenza. Non arrenderti. Più a lungo combatti, più potere guadagni, fino al punto in cui vinci.
 
-- Setting out on a journey of learning can be a daunting experience. What starts off as a leisurely stroll soon changes to an intense battle of willpower between you and an intimidating amount of knowledge. Do not give up. The longer you fight, the more power you gain, up until the point you win.
-
->And in the end, if you persevere, you may be elevated to the ranks of Socrates, who, over 2000 years ago, left us with a quote of wisdom “I know that I am intelligent, because I know that I know nothing.”
-
+>E alla fine, se perseveri, potresti essere elevato ai ranghi di Socrate, che, oltre 2000 anni fa, ci ha lasciato con una citazione di saggezza “So di essere intelligente, perché so di non sapere nulla. "
 {{< youtube id="4FGnb2lgPBA" title="A New Hugo Site in Under Two Minutes" >}}
-
-{{% staticref "uploads/math00.html" "newtab" %}}presentation reveal{{% /staticref %}}

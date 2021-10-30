@@ -21,6 +21,8 @@ menu:
     weight: 10
 ---
 
+{{< toc >}}
+
 ## Introduzione al Corso
 
 >*"La **conoscenza** è ciò che ci rende **diversi**"*.
@@ -61,10 +63,6 @@ scrivere un numero decimale finito in notazione scientifica e determinarne l’`
 - Risolvere problemi su **proporzioni** e **percentuali**.
 Calcolare l’errore relativo di un’approssimazione conoscendo l’errore assoluto e viceversa e determinare il valore abbreviato e quello arrotondato di un numero decimale.
 
-{{% callout note %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
 ---
 
 ## competenze
@@ -72,31 +70,12 @@ A Markdown callout is useful for displaying notices, hints, or definitions to yo
 - Utilizzare le tecniche e le procedure del calcolo aritmetico ed algebrico, rappresentandole anche sottoforma grafica.
 - Analizzare dati e interpretarli sviluppando deduzioni e ragionamenti sugli stessi anche con l’ausilio dirappresentazioni grafiche, usando consapevolmente gli strumenti di calcolo e le potenzialità offerte da applicazioni specifiche di tipo informatico.
 
-{{% callout alert %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
 ---
 
 ## contenuti extra
 
 - [La bellezza dei numeri - la successione di Fibonacci](https://youtu.be/cCJU5By_b8U)
 
-{{% callout warning %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
 ---
 
 {{< youtube cCJU5By_b8U>}}
-
-```mermaid
-gantt
-  dateFormat  YYYY-MM-DD
-  section Section
-  A task           :a1, 2014-01-01, 30d
-  Another task     :after a1  , 20d
-  section Another
-  Task in sec      :2014-01-12  , 12d
-  another task      : 24d
-```

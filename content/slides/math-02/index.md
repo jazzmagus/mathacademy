@@ -14,7 +14,7 @@ slides:
   highlight_style: dracula
 ---
 
-## Le Frazioni algebriche
+## <font color="MidnightBlue">Le Frazioni algebriche</font>
 
 ### - *ripasso* -
 
@@ -25,19 +25,6 @@ slides:
 *ITIS "E. Fermi" - Bassano del Grappa*
 
 _data: **30 ottobre 2021**_
-
----
-
-### cos'è una **frazione algebrica**
-
-> Si tratta di una **divisione** tra polinomi, espressa sottoforma di frazione.
->
->_esempio:_ $\(x+1) : (x^2-1)$
-
-$$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
-
-- Il *dividendo* prende il nome di **numeratore**
-- Il *divisore* prende il nome di **denominatore**
 
 ---
 
@@ -53,7 +40,30 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 
 ---
 
-### Le tre cose da fare
+### <font color="brown">cos'è una **frazione algebrica**</font>
+
+> <font color="red">Si tratta di una **divisione** tra polinomi, espressa sottoforma di frazione.</font>
+>
+>_esempio:_ $\(x+1) : (x^2-1)$
+
+$$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
+
+- Il *dividendo* prende il nome di <font color="brown">**numeratore**</font>
+- Il *divisore* prende il nome di <font color="brown">**denominatore**</font>
+
+---
+
+## Condizioni di Esistenza
+
+- Esiste un **condizione** indispensabile per poter lavorare con le **frazioni algebriche**:
+
+- <font color="red">Il **denominatore** non può **mai** essere nullo</font>
+
+## $$\dfrac{N(x)}{D(x)} \Rightarrow D(x) \neq 0$$
+
+---
+
+## <font color="brown">Le tre cose da fare</font>
 
 1. Ridurla in **forma normale**, nel caso si trattasse di un'*espressione con frazioni algebriche*
    - fattorizzare tutti in denominatori
@@ -69,7 +79,7 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 
 ## Riduzione di frazioni algebriche allo stesso denominatore
 
->Per ridurre più frazioni allo stesso denominatore, bisogna trasformarle in frazioni **equivalenti** aventi tutte lo stesso denominatore (**M.C.D.** minimo comune denominatore).
+><font color="brown">Per ridurre più frazioni allo stesso denominatore, bisogna trasformarle in frazioni **equivalenti** aventi tutte lo stesso denominatore (**M.C.D.** minimo comune denominatore).</font>
 
 ---
 
@@ -139,9 +149,9 @@ $$D(X) \neq 0$$
 
 # Questions?
 
-#### prossima puntata
+**>>** prossima puntata:
 
-$\rightarrowtail$ **operazioni con le frazioni algebriche**
+**operazioni con le frazioni algebriche**
 
 ---
 

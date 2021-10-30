@@ -43,12 +43,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'frazioni_algebriche'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'frazioni_algebriche'
+url_slides: ''
 url_source: ''
 url_video: ''
 

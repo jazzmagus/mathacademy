@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Unità di Apprendimento - lezione simulata
 
-event: Wowchemy Conference
+event: Concorso Straordinario 2021
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Padova IT
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -24,8 +24,8 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Diego Fantinelli]
+tags: [concorso]
 
 # Is this a featured talk? (true/false)
 featured: false

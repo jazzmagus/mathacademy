@@ -66,6 +66,19 @@ I numeri $a$ e $b$ si chiamano **termini** della frazione; precisamente:
 
 - il numero $a$, che si trova al di sopra della linea di frazione, si chiama **numeratore**; 
 - il numero $b$, al di sotto della linea di frazione, si chiama **denominatore**
+  - Le *frazioni apparenti* sono casi particolari di frazioni improprie.
+
+#### frazioni apparenti
+
+- Se il **numeratore** è **multiplo** del **denominatore**, la frazione rappresenta il risultato di una divisione che si può eseguire nell’insieme dei **numeri interi**, $\mathbb{Z}$
+
+- Tali frazioni si dicono perciò **apparenti**.
+particolare, se il denominatore è uguale a $1$, *si usa scrivere il solo numeratore*.
+
+#### frazioni proprie e improprie
+
+- Se il numeratore di una frazione è **minore** del denominatore si dice che la frazione è **propria**; 
+- se invece il numeratore è **maggiore o uguale** al denominatore si parla di frazione **impropria**.
 
 ### Frazioni equivalenti
 

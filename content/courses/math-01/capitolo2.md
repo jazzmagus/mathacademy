@@ -28,13 +28,15 @@ weight: 20
 >
 > ― Albert **Einstein**
 
+---
+hugo
 ## Frazioni
 
 - Una frazione rappresenta il risultato di una divisione tra numeri interi.
 
 > **esempio**:
 > ![cake](../cake-1.png)
-> Supponiamo di dover dividere $2$ torte tra $6$ bambini. 
+> Supponiamo di dover dividere $2$ torte tra $6$ bambini.
 >
 > - Sappiamo che negli insiemi $\mathbb{N}$ e $\mathbb{Z}$ la divisione $2:6$ non si può eseguire, però possiamo tagliare ciascuna delle $2$ torte in $6$ fette uguali.
 > - Risulteranno $12$ fette che si potranno dividere tra i $6$ bambini, ciascuno dei quali avrà $2$ fette.
@@ -82,6 +84,20 @@ particolare, se il denominatore è uguale a $1$, *si usa scrivere il solo numera
 
 ### Frazioni equivalenti
 
+{{% callout note %}}
+**definizione**: due frazioni $\dfrac{a}{b}$ e $\dfrac{c}{d}$ si dicono **equivalenti** se:
+
+$$a \cdot d = b \cdot c$$
+
+cioè se il prodotto tra il *numeratore* dellaa prima frazione e il *denominatore* della seconda ì uguale al prodotto tra il *denominatore* della prima e il *numeratore* della seconda
+
+- I due prodotti che si devono confrontare per stabilire se due frazioni sono equivalenti sono detti anche **prodotti in croce**
+
+- ad esempio: le frazioni $\dfrac{4}{5}$ e $\dfrac{\cancel{24}}{30}$ sono equivalenti, infatti:
+
+$$a \cdot d = b \cdot c = 4 \cdot 30 = 24 \cdot 5$$
+{{% /callout %}}
+
 ---
 
 ## L’insieme  dei  numeri  razionali
@@ -93,6 +109,8 @@ Si definisce **numero razionale** l'insieme di tutte le frazioni equivalenti a u
 > Data una frazione, esistono infinite altre frazioni **equivalenti**
 > Ad esempio:
 > $$\dfrac{2}{3} = \dfrac{4}{6} = \dfrac{6}{9} = \dfrac{8}{10} = \dfrac{10}{15} = \dots$$
+
+---
 
 ## operazioni  con  i  numeri  razionali
 

@@ -95,7 +95,7 @@ cioè se il prodotto tra il *numeratore* dellaa prima frazione e il *denominator
 
 - ad esempio: le frazioni $\dfrac{4}{5}$ e $\dfrac{\cancel{24}}{30}$ sono equivalenti, infatti:
 
-$$a \cdot d = b \cdot c = 4 \cdot 30 = 24 \cdot 5$$
+$$a \cdot d = b \cdot c \Rightarrow 4 \cdot 30 = 24 \cdot 5 = 120$$
 {{% /callout %}}
 
 ---

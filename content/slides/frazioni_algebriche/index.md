@@ -135,6 +135,19 @@ $$D(X) \neq 0$$
 
 ---
 
+## errori gravi
+
+> Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+
+---
+
+- nella frazione $\dfrac{a+b}{b}$ non è possibile operare alcuna semplificazione; infatti $b$ è un fattore per il denominatore, ma è un addendo per il numeratore!
+- Analogamente, nella frazione $\dfrac{a+x}{a+y}$ non è possibile semplificare per $a$: infatti il monomio $a$ è un addendo per entrambi i termini della frazione, non un fattore
+
+$$\dfrac{3+5}{3} = \dfrac{5}{3} \neq \dfrac{\cancel{3}+5}{\cancel{3}}$$
+
+---
+
 ## Due regole d'oro
 
 ### 1. **fattorizzare** i **denominatori**

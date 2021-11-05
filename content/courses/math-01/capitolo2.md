@@ -93,7 +93,7 @@ cioè se il prodotto tra il *numeratore* dellaa prima frazione e il *denominator
 
 - I due prodotti che si devono confrontare per stabilire se due frazioni sono equivalenti sono detti anche **prodotti in croce**
 
-- ad esempio: le frazioni $\dfrac{4}{5}$ e $\dfrac{\cancel{24}}{30}$ sono equivalenti, infatti:
+- ad esempio: le frazioni $\dfrac{4}{5}$ e $\dfrac{24}{30}$ sono equivalenti, infatti:
 
 $$a \cdot d = b \cdot c \Rightarrow 4 \cdot 30 = 24 \cdot 5 = 120$$
 {{% /callout %}}

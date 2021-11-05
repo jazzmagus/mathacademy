@@ -178,9 +178,7 @@ $$P(x) = 0$$
 
 ---
 
-## Vi sblocco un ricordo...
-
-### Principi di equivalenza:
+### Vi sblocco un ricordo... Principi di equivalenza
 
 1. **primo principio**: afferma che AGGIUNGENDO ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione EQUIVALENTE a quella data.
 

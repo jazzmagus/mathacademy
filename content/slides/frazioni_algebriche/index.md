@@ -178,11 +178,13 @@ $$P(x) = 0$$
 
 ---
 
-### Vi sblocco un ricordo... Principi di equivalenza
+### Vi sblocco un ricordo...
 
-1. **primo principio**: afferma che AGGIUNGENDO ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione EQUIVALENTE a quella data.
+**Principi di equivalenza**
 
-2. **secondo principio**: moltiplicando o dividendo - o elevando a potenza, oppure estraendo la radice $n$-esima - di entrambi i membri di una uguaglianza per uno **stesso numero** *diverso da zero*, o per una **stessa espressione** che non possa annullarsi, si ottiene un'equazione **equivalente** a quella data.
+1. **primo principio**: afferma che **sommando algebricamente** ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione **equivalente** a quella data.
+
+2. **secondo principio**: moltiplicando o dividendo entrambi i membri di una uguaglianza per uno **stesso numero** *diverso da zero*, o per una **stessa espressione** che non possa annullarsi, si ottiene un'equazione **equivalente** a quella data.
 
 ---
 

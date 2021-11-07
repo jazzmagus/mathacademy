@@ -202,7 +202,7 @@ $$
 
 ---
 
-## esempio:
+## esempio
 
 $$\underbrace{25x^2 - 20x + 4}_{quadrato \\, di \\, binomio} = 0$$
 

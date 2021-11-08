@@ -216,6 +216,10 @@ $$\Rightarrow x = \dfrac{2}{5}$$
 
 ---
 
+![ss](schema_equazioni.png)
+
+---
+
 # Questions?
 
 **>>** prossima puntata:

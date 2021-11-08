@@ -216,7 +216,9 @@ $$\Rightarrow x = \dfrac{2}{5}$$
 
 ---
 
-![ss](schema_equazioni.png)
+#### equazioni/disequazioni mindmap
+
+![mindmap](equazioni_mindmap.png)
 
 ---
 

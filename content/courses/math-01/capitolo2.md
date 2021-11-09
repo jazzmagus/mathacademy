@@ -29,7 +29,7 @@ weight: 20
 > ― Albert **Einstein**
 
 ---
-hugo
+
 ## Frazioni
 
 - Una frazione rappresenta il risultato di una divisione tra numeri interi.

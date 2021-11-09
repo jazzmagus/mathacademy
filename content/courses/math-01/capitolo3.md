@@ -1,5 +1,5 @@
 ---
-title: Numeri razionali e numeri reali
+title: insiemi e Logica
 linktitle: Capitolo 3 Insiemi e Logica
 toc: true
 type: docs
@@ -18,7 +18,7 @@ weight: 30
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 3: Numeri razionali e numeri reali
+## Capitolo 3: Insiemi e Logica
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
 

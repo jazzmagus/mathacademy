@@ -1,5 +1,5 @@
 ---
-title: Numeri razionali e numeri reali
+title: Relazioni e Funzioni
 linktitle: Capitolo 4 Relazioni e Funzioni
 toc: true
 type: docs
@@ -18,7 +18,7 @@ weight: 40
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 4
+## Capitolo 4: Relazioni e Funzioni
 
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
 

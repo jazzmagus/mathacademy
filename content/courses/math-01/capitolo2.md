@@ -1,5 +1,5 @@
 ---
-title: Numeri razionali e numeri reali
+title: 2. Numeri razionali e numeri reali
 linktitle: Capitolo 2 numeri Razionali e numeri Reali
 toc: true
 type: docs
@@ -47,7 +47,7 @@ weight: 20
 
 ---
 
-### Il concetto di frazione
+### 1. Il concetto di frazione
 
 {{% callout alert %}}
 **definizione**:
@@ -70,7 +70,7 @@ I numeri $a$ e $b$ si chiamano **termini** della frazione; precisamente:
 - il numero $b$, al di sotto della linea di frazione, si chiama **denominatore**
   - Le *frazioni apparenti* sono casi particolari di frazioni improprie.
 
-#### frazioni apparenti
+#### 2. frazioni apparenti
 
 - Se il **numeratore** è **multiplo** del **denominatore**, la frazione rappresenta il risultato di una divisione che si può eseguire nell’insieme dei **numeri interi**, $\mathbb{Z}$
 
@@ -82,6 +82,8 @@ particolare, se il denominatore è uguale a $1$, *si usa scrivere il solo numera
 - Se il numeratore di una frazione è **minore** del denominatore si dice che la frazione è **propria**; 
 - se invece il numeratore è **maggiore o uguale** al denominatore si parla di frazione **impropria**.
 
+---
+
 ### Frazioni equivalenti
 
 {{% callout note %}}
@@ -89,7 +91,7 @@ particolare, se il denominatore è uguale a $1$, *si usa scrivere il solo numera
 
 $$a \cdot d = b \cdot c$$
 
-cioè se il prodotto tra il *numeratore* dellaa prima frazione e il *denominatore* della seconda ì uguale al prodotto tra il *denominatore* della prima e il *numeratore* della seconda
+cioè se il prodotto tra il *numeratore* della prima frazione e il *denominatore* della seconda è uguale al prodotto tra il *denominatore* della prima e il *numeratore* della seconda
 
 - I due prodotti che si devono confrontare per stabilire se due frazioni sono equivalenti sono detti anche **prodotti in croce**
 
@@ -112,10 +114,16 @@ Si definisce **numero razionale** l'insieme di tutte le frazioni equivalenti a u
 
 ### Segno di un numero razionale
 
->Due frazioni equivalenti hanno lo stesso segno. Quindi le frazioni, tutte equivalenti tra loro, il cui insieme costituisce un numero razionale, sono o tutte positive o tutte negative o tutte nulle. 
->Nel primo caso diremo che il numero razionale è positivo, nel secondo caso diremo che è negativo; nel terzo caso diremo che l’insieme delle frazioni nulle è il numero razionale $0$.
+>Due frazioni equivalenti hanno lo stesso segno.
+>
+>- Quindi le frazioni, tutte equivalenti tra loro, il cui insieme costituisce un numero razionale, sono o tutte positive o tutte negative o tutte nulle. 
+>   - Nel primo caso diremo che il numero razionale è positivo, 
+>   - nel secondo caso diremo che è negativo; 
+>   - nel terzo caso diremo che l’insieme delle frazioni nulle è il numero razionale $0$.
+>
 >Si possono estendere ai numeri razionali alcune definizioni già introdotte sui numeri interi.
->Ad esempio, due numeri razionali si dicono **concordi** se hanno lo stesso segno, **discordi** se hanno segni diversi.
+>
+> - Ad esempio, due numeri razionali si dicono **concordi** se hanno lo stesso segno, **discordi** se hanno segni diversi.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Capitolo 8 - Equazioni lineari
+title: 8. Equazioni lineari
 linktitle: Capitolo 8 | Equazioni lineari
-toc: false
+toc: true
 type: docs
 date: "2021-09-09T00:00:00+01:00"
 draft: false
@@ -18,7 +18,6 @@ weight: 10
 > ☆ **scadenza**: 20 ottobre 2021
 
 ![ex1_img](../majong_01.png)
-
 
 ## prerequisiti
 
@@ -208,4 +207,3 @@ $$\Rightarrow x = \dfrac{2}{5}$$
 **equazioni lineari frazionarie**
 
 ![zzz](https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg)
-

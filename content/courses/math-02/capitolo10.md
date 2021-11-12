@@ -1,5 +1,5 @@
 ---
-title: Statistica descrittiva
+title: 10. Statistica descrittiva
 linktitle: Capitolo 10 | Statistica descrittiva
 toc: true
 type: docs

@@ -1,5 +1,5 @@
 ---
-title: Quadrilateri notevoli
+title: 15. Quadrilateri notevoli
 linktitle: Capitolo 15 | Quadrilateri notevoli
 toc: true
 type: docs

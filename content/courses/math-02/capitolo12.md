@@ -1,5 +1,5 @@
 ---
-title: Congruenza
+title: 12. Congruenza
 linktitle: Capitolo 12 | Congruenza
 toc: true
 type: docs

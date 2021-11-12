@@ -1,5 +1,5 @@
 ---
-title: Numeri razionali e numeri reali
+title: 13. Triangoli
 linktitle: Capitolo 13 | Triangoli
 toc: true
 type: docs

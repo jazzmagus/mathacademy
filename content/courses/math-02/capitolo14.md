@@ -1,5 +1,5 @@
 ---
-title: Perpendicolarità e parallelismo
+title: 14. Perpendicolarità e parallelismo
 linktitle: Capitolo 14 | Perpendicolarità e parallelismo
 toc: true
 type: docs

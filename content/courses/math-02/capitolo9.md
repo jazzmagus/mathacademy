@@ -1,5 +1,5 @@
 ---
-title: Disequazioni lineari
+title: 9. Disequazioni lineari
 linktitle: Capitolo 9 | Disequazioni lineari
 toc: true
 type: docs
@@ -11,7 +11,7 @@ menu:
     weight: 20
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 20
+weight: 10
 ---
 
 > ☆ **scadenza**: 30 ottobre 2021

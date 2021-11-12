@@ -100,7 +100,7 @@ $$a \cdot d = b \cdot c \Rightarrow 4 \cdot 30 = 24 \cdot 5 = 120$$
 
 ---
 
-## L’insieme  dei  numeri  razionali
+## 6. L’insieme  dei  numeri  razionali
 
 {{% callout note %}}
 Si definisce **numero razionale** l'insieme di tutte le frazioni equivalenti a una data frazione.
@@ -109,6 +109,13 @@ Si definisce **numero razionale** l'insieme di tutte le frazioni equivalenti a u
 > Data una frazione, esistono infinite altre frazioni **equivalenti**
 > Ad esempio:
 > $$\dfrac{2}{3} = \dfrac{4}{6} = \dfrac{6}{9} = \dfrac{8}{10} = \dfrac{10}{15} = \dots$$
+
+### Segno di un numero razionale
+
+>Due frazioni equivalenti hanno lo stesso segno. Quindi le frazioni, tutte equivalenti tra loro, il cui insieme costituisce un numero razionale, sono o tutte positive o tutte negative o tutte nulle. 
+>Nel primo caso diremo che il numero razionale è positivo, nel secondo caso diremo che è negativo; nel terzo caso diremo che l’insieme delle frazioni nulle è il numero razionale $0$.
+>Si possono estendere ai numeri razionali alcune definizioni già introdotte sui numeri interi.
+>Ad esempio, due numeri razionali si dicono **concordi** se hanno lo stesso segno, **discordi** se hanno segni diversi.
 
 ---
 

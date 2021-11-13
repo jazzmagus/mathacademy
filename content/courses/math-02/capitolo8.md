@@ -77,7 +77,7 @@ I numeri che, sostituiti al posto dell’incognita, trasformano un’equazione i
 {{% /callout %}}
 
 - Risolvere un’equazione significa determinare tutte le sue soluzioni.
-  - L’insieme che ha per elementi tutte le soluzioni di un’equazione è l’insieme delle soluzioni e lo indicheremo sempre con $S( \text{S} \subseteq \mathbb{R})$.
+  - L’insieme che ha per elementi tutte le soluzioni di un’equazione è l’insieme delle soluzioni e lo indicheremo sempre con $$S= ( \text{S} \subseteq \mathbb{R})$$.
   - In altre parole, risolvere un’equazione significa determinarne l’**insieme delle soluzioni**.
 
 {{% callout warning %}}

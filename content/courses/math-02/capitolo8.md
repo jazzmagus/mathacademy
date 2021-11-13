@@ -102,9 +102,10 @@ $$S \subseteq D \subseteq \mathbb{R}$$
 >
 > - non è possibile assegnare a $x$ il valore $2$ perché si annullerebbe il denominatore della frazione al primo membro.
 > - Per ogni altro valore di $x$ l’equazione si trasformerà in un’uguaglianza vera o falsa.
-> - Quindi il dominio dell’equazione è: $D = \mathbb{R}-\\{2\\}$
+> - Quindi il dominio dell’equazione è: $$D = \mathbb{R}-\\{2\\}$$
 
 ### Equazioni **determinate**, **impossibili**, **indeterminate.**
+
 - Nella risoluzione di un’equazione si possono presentare i seguenti casi.
   - L’insieme delle soluzioni contiene un numero finito di elementi, cioè l’**equazione ha un numero finito di soluzioni**: diremo allora che l’equazione è **determinata.**
     - L’equazione $x^2=4$ è **determinata**, perché i numeri il cui quadrato è $4$ sono $2$ e $-2$ e quindi le soluzioni sono $2$ e $-2$:

@@ -21,6 +21,8 @@ weight: 10
 
 ## obiettivi
 
+<br>
+
 {{% callout note %}}
 
 - alla fine della lezione saremo - *dovremmo essere* - in grado di risolvere le seguenti equazioni lineari:
@@ -74,12 +76,12 @@ flowchart TD
 <font color="darkblue">**definizione**: **soluzioni di un'equazione**
 
 I numeri che, sostituiti al posto dell’incognita, trasformano un’equazione in un’uguaglianza vera si dicono **soluzioni**, o **radici**, dell’equazione data</font>
-{{% /callout %}}
 
+{{% /callout %}}
 - Risolvere un’equazione significa determinare tutte le sue soluzioni.
+  
   - L’insieme che ha per elementi tutte le soluzioni di un’equazione è l’insieme delle soluzioni e lo indicheremo sempre con $$S= ( \text{S} \subseteq \mathbb{R})$$.
   - In altre parole, risolvere un’equazione significa determinarne l’**insieme delle soluzioni**.
-
 {{% callout warning %}}
 
 <font color="brown">**definizione: DOMINIO DI UN’EQUAZIONE**
@@ -91,6 +93,8 @@ Si dice **dominio** di un’equazione l’insieme dei numeri reali che, sostitui
 
 $$S \subseteq D \subseteq \mathbb{R}$$
 {{% /callout %}}
+
+<br>
 
 >**ESEMPIO**:
 > nella seguente equazione frazionaria:

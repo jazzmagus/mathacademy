@@ -50,7 +50,7 @@ Un’**equazione** è un’uguaglianza tra due espressioni che contiene una o pi
 flowchart TD
     id1(EQUAZIONI)
 
-    id2([lineari intere <br> $3x + 2 = 7$])
+    id2([lineari intere])
     id3([lineari frazionarie])
     id4([numeriche])
     id5([letterali])

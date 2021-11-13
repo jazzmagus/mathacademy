@@ -34,14 +34,17 @@ $$\frac{x+3}{x-3}-\frac{2 x-1}{x^{2}-6 x+9}=\left(\frac{3}{x-3}+1\right)^{2}$$
 
 ---
 
-## 1. Le equazioni
+## Concetti fondamentali sulle equazioni
 
+### 1. Le equazioni
 
 {{% callout note %}}
 **definizione**:
 
 Un’**equazione** è un’uguaglianza tra due espressioni che contiene una o più lettere.
 {{% /callout %}}
+
+### 2. Classificazione delle equazioni
 
 ```mermaid
 flowchart TD
@@ -97,18 +100,59 @@ $$S \subseteq D \subseteq \mathbb{R}$$
 > - Per ogni altro valore di $x$ l’equazione si trasformerà in un’uguaglianza vera o falsa.
 > - Quindi il dominio dell’equazione è: $D = \mathbb{R}-\\{2\\}$
 
+### Equazioni **determinate**, **impossibili**, **indeterminate.**
+- Nella risoluzione di un’equazione si possono presentare i seguenti casi.
+  - L’insieme delle soluzioni contiene un numero finito di elementi, cioè l’**equazione ha un numero finito di soluzioni**: diremo allora che l’equazione è **determinata.**
+    - L’equazione $x^2=4$ è **determinata**, perché i numeri il cui quadrato è $4$ sono $2$ e $-2$ e quindi le soluzioni sono $2$ e $-2$:
+    $$S= \\{ -2; \\, 2\\}$$
+  - L’insieme delle soluzioni è vuoto $S= \\{\emptyset \\}$, cioè l’equazione **non ha soluzioni**: diremo allora che l’equazione è **impossibile.**
+    - L'equazione $x=x+5$ è **impossibile** $\Rightarrow S = \emptyset$
+  - L’insieme delle soluzioni contiene un numero infinito di elementi, cioè l’equazione ha **infinite soluzioni**: diremo allora che l’equazione è **indeterminata.**
+    - L'equazione: $$(x + 1)^2 = x^2 + 2x + 1$$ è verificata $\forall x \in \mathbb{R}$ e quindi è **indeterminata**: $S = \mathbb{R}$.
+    - L'equazione è una **identità** perché è sempre verificata nel suo dominio $D$
+
+---
 
 ## 4. Principi di equivalenza delle equazioni
 
-> - **_Un mattone pesa $1$ kg più mezzo mattone. Quanto pesa un mattone?_**
-
-### **primo** principio di equivalenza:
+### $\star$ **primo** principio di equivalenza:
 
 - *afferma che **sommando algebricamente** ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione **equivalente** a quella data.*
 
-### **secondo** principio di equivalenza:
+### $\star \star$ **secondo** principio di equivalenza:
 
 - *moltiplicando o dividendo entrambi i membri di una uguaglianza per uno **stesso numero** *diverso da zero*, o per una **stessa espressione** che non possa annullarsi, si ottiene un'equazione **equivalente** a quella data.*
+
+<br>
+
+> **ESEMPIO:**
+>
+> - _Un mattone pesa $1$ kg più mezzo mattone._
+> - _Quanto pesa un mattone?_
+>
+> Il calcolo letterale e le equazioni ci permettono di sviluppare dei `procedimenti` in modo simbolico e di pervenire rapidamente alla soluzione.
+>
+> - Nel nostro caso, indicando con $x$ il peso di un mattone (espresso in kg), la situazione può essere espressa in forma simbolica dall’equazione:
+>
+> $$x = 1 + \dfrac{1}{2} x$$
+>
+> - utilizzando in modo opportuno i due *principi di equivalenza* possiamo semplificare l'equazione:
+> $$x \textcolor{red}{- \dfrac{1}{2}x} = 1 + \cancel{\dfrac{1}{2} x} \textcolor{red}{- \cancel{\dfrac{1}{2}x}} \rightarrow x-\dfrac{1}{2} x=1 \quad \longrightarrow \quad \dfrac{1}{2} x=1$$
+> $$\textcolor{red}{2 \\; \cdot} \dfrac{1}{2} x = \textcolor{red}{2 \\; \cdot} 1$$
+> - semplificando otteniamo la soluzione:
+> $$\textcolor{darkorange}{x=2}$$
+
+---
+
+#### 5. Equazioni equivalenti
+
+<br>
+{{% callout note %}}
+
+<font color="darkblue">**definizione: EQUAZIONI EQUIVALENTI**
+
+Due equazioni si dicono **equivalenti** se hanno lo stesso **insieme delle soluzioni**.</font>
+{{% /callout %}}
 
 ---
 

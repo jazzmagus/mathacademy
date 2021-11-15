@@ -217,15 +217,69 @@ $$
 \end{cases}
 $$
 
+- con $a \in \mathbb{Q}$
+{{% /callout %}}
+
+---
+
+### 7. Rappresentazione dei numeri razionali su una retta orientata
+
+### 8. Confronto tra numeri razionali
+
+### 9. Proprietà dell’insieme dei numeri razionali
+
+- L’insieme dei numeri razionali gode delle seguenti proprietà:
+
+  - L’insieme dei numeri razionali è **infinito.**
+  - L’insieme dei numeri razionali **non ha un elemento minimo.**
+  - L’insieme dei numeri razionali **non ha un elemento massimo**.
+  - L’insieme $\mathbb{Q}$ è **denso**: tra due numeri razionali sono compresi infiniti numeri razionali.
+
+{{% callout note %}}
+<font color="darkgreen">
+Osserviamo che, rispetto alle proprietà degli insiemi dei numeri naturali e dei numeri interi, c’è un’importante  differenza: i concetti di «precedente» e  di «successivo», introdotti per gli insiemi discreti $\mathbb{N}$ e $\mathbb{Z}$, non hanno senso nell’insieme denso $\mathbb{Q}$.
+</font>
 {{% /callout %}}
 
 ---
 
 ## operazioni  con  i  numeri  razionali
 
+### 11. addizione
+
+### 12. addizione algebrica
+
+### 13. moltiplicazione
+
+### 14. divisione
+
+---
+
 ## potenze in $\mathbb{Q}$
 
+### 15. Potenza con esponente naturale
+
+### 16. Potenza con esponente intero negativo
+
+---
+
 ## Frazioni  e  numeri  decimali
+
+### 17. Numeri decimali e frazioni decimali
+
+### 18. Dalla frazione al numero decimale
+
+### 19. Dal numero decimale finito alla frazione
+
+### 20. Dal numero decimale periodico alla frazione
+
+### 21. Notazione esponenziale e notazione scientifica
+
+#### Notazione esponenziale
+
+#### Notazione scientifica
+
+---
 
 ## Proporzioni
 

@@ -76,7 +76,8 @@ Calcolare l’errore relativo di un’approssimazione conoscendo l’errore asso
 
 - [La bellezza dei numeri - la successione di Fibonacci](https://youtu.be/cCJU5By_b8U)
 
-<br>
 ---
 
 {{< youtube cCJU5By_b8U>}}
+
+<br>

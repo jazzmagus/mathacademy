@@ -1,5 +1,5 @@
 ---
-title: Fattorizzazione Polinomiale
+title: 6. Fattorizzazione Polinomiale
 linktitle: Capitolo 6 | Fattorizzazione polinomiale
 toc: true
 type: docs

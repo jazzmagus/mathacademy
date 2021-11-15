@@ -1,5 +1,5 @@
 ---
-title: insiemi e Logica
+title: 3. Insiemi e Logica
 linktitle: Capitolo 3 Insiemi e Logica
 toc: true
 type: docs

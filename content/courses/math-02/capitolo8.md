@@ -253,7 +253,6 @@ $$
 \frac{x+2}{x-1}-\frac{x}{x+2}=\frac{3 x}{(x-1)(x+2)}
 $$
 {{% /callout %}}
-</font>
 
 #### Le fasi del procedimento risolutivo
 

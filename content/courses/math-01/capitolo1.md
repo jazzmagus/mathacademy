@@ -1,5 +1,5 @@
 ---
-title: Numeri naturali e numeri interi relativi
+title: 1. Numeri naturali e numeri interi relativi
 linktitle: Capitolo 1 numeri Naturali e Interi Relativi
 toc: true
 type: docs

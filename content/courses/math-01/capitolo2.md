@@ -84,7 +84,7 @@ particolare, se il denominatore è uguale a $1$, *si usa scrivere il solo numera
 
 ---
 
-### Frazioni equivalenti
+### 2. Frazioni equivalenti
 
 {{% callout note %}}
 **definizione**: due frazioni $\dfrac{a}{b}$ e $\dfrac{c}{d}$ si dicono **equivalenti** se:
@@ -102,17 +102,83 @@ $$a \cdot d = b \cdot c \Rightarrow 4 \cdot 30 = 24 \cdot 5 = 120$$
 
 ---
 
-## 6. L’insieme  dei  numeri  razionali
+#### SEGNO DI UNA FRAZIONE
+
+---
+
+### 3. Proprietà invariantiva
+
+{{% callout note %}}
+
+**proprietà invariantiva delle frazioni**
+
+- Moltiplicando o dividendo entrambi i termini di una frazione per uno stesso numero diverso da zero, si ottiene una frazione equivalente alla frazione data:
+
+$$\dfrac{a}{b} = \dfrac{a \cdot c}{b \cdot c} = \dfrac{a : c}{b : c}$$
+
+con $a, b, c \in \mathbb{Z}, \qquad$ e con $b, c \neq 0$
+
+{{% /callout %}}
+
+---
+
+### 4. Riduzione ai minimi termini e semplificazione
+
+{{% callout note %}}
+
+definizione: **frazione ridotta ai minimi termini**
+
+- Una frazione si dice ridotta ai **minimi termini** o **irriducibile** se il **MCD** dei valori assoluti dei suoi termini è $1$
+
+<font color="brown">*In generale, per ridurre una frazione ai minimi termini si dividono sia il numeratore sia il denominatore per il **MCD** dei loro valori assoluti.*</font>
+
+{{% /callout %}}
+
+- Di solito quando si semplifica una frazione si conviene di dividere i suoi termini per il loro MCD, in modo che la frazione equivalente che si ottiene sia ridotta ai minimi termini
+
+$$$$
+
+---
+
+### 5. Riduzione al minimo comune denominatore
+
+{{% callout warning %}}
+
+- Per ridurre due o più frazioni al minimo comune denominatore, si procede così:
+
+1. si riducono le frazioni ai minimi termini, se possibile;
+2. si calcola il **mcm** dei denominatori delle frazioni ridotte: esso è il minimo comune denominatore;
+3. si moltiplica il numeratore di ciascuna frazione ridotta per il quoziente tra il minimo comune denominatore e il corrispondente denominatore; si ottiene così il numeratore di ciascuna nuova frazione.
+
+- Il denominatore sarà il minimo comune denominatore prima trovato.
+{{% /callout %}}
+
+> **esempio:**
+>
+> - Ridurre al **minimo comune denominatore** le seguenti frazioni:
+>
+> $$\dfrac{7}{15}, \dfrac{6}{20}, \dfrac{12}{18}$$
+
+---
+
+<br>
+
+## L’insieme  dei  numeri  razionali
+
+### 6. L’insieme  dei  numeri  razionali
+
+<br>
 
 {{% callout note %}}
 Si definisce **numero razionale** l'insieme di tutte le frazioni equivalenti a una data frazione.
 {{% /callout %}}
 
 > Data una frazione, esistono infinite altre frazioni **equivalenti**
+> 
 > Ad esempio:
 > $$\dfrac{2}{3} = \dfrac{4}{6} = \dfrac{6}{9} = \dfrac{8}{10} = \dfrac{10}{15} = \dots$$
 
-### Segno di un numero razionale
+#### Segno di un numero razionale
 
 >Due frazioni equivalenti hanno lo stesso segno.
 >
@@ -124,6 +190,34 @@ Si definisce **numero razionale** l'insieme di tutte le frazioni equivalenti a u
 >Si possono estendere ai numeri razionali alcune definizioni già introdotte sui numeri interi.
 >
 > - Ad esempio, due numeri razionali si dicono **concordi** se hanno lo stesso segno, **discordi** se hanno segni diversi.
+
+#### Opposto e valore assoluto di un numero razionale
+
+<br>
+
+{{% callout note %}}
+DEFINIZIONE: **OPPOSTO DI UN NUMERO RAZIONALE**
+
+- Si dice **opposto** di un numero razionale $a$, e si indica con $-a$, il numero razionale che si ottiene cambiando il segno di $a$
+
+{{% /callout %}}
+
+<br>
+
+{{% callout note %}}
+DEFINIZIONE: **VALORE ASSOLUTO DI UN NUMERO RAZIONALE**
+
+- Si dice valore assoluto o *modulo* di un numero razionale $a$, e si indica con $|a|$, il numero $a$ stesso se $a$ è **positivo** o **nullo**, il suo opposto $-a$ se $a$ è **negativo.**
+- In simboli:
+
+$$
+|a| = \begin{cases}
+  a \qquad \quad \text{se} \\; a \ge 0\\\\
+  -a \qquad \\, \text{se} \\, a < 0
+\end{cases}
+$$
+
+{{% /callout %}}
 
 ---
 

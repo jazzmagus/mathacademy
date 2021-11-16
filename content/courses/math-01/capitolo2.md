@@ -263,9 +263,20 @@ $$
 {{% callout note %}}
 <font color="darkgreen">
 Osserviamo che, rispetto alle proprietà degli insiemi dei numeri naturali e dei numeri interi, c’è un’importante  differenza: i concetti di «precedente» e  di «successivo», introdotti per gli insiemi discreti $\mathbb{N}$ e $\mathbb{Z}$, non hanno senso nell’insieme denso $\mathbb{Q}$.
-</font>
+
 {{% /callout %}}
 
+#### $\star$ analogico Vs digitale
+
+```mermaid
+flowchart TD
+    id1(denso)
+    id2([analogico])
+    id3(discreto)
+    id4([digitale])
+  id1 --> id2
+  id3 --> id4
+```
 ---
 
 ## operazioni  con  i  numeri  razionali

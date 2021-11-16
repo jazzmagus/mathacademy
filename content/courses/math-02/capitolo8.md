@@ -117,26 +117,7 @@ $$S \subseteq D \subseteq \mathbb{R}$$
     - L'equazione: $$(x + 1)^2 = x^2 + 2x + 1$$ è verificata $\forall x \in \mathbb{R}$ e quindi è **indeterminata**: $S = \mathbb{R}$.
     - L'equazione è una **identità** perché è sempre verificata nel suo dominio $D$
 
----
-
 <br>
-
-> **ESEMPIO:**
->
-> - _Un mattone pesa $1$ kg più mezzo mattone._
-> - _Quanto pesa un mattone?_
->
-> Il calcolo letterale e le equazioni ci permettono di sviluppare dei `procedimenti` in modo simbolico e di pervenire rapidamente alla soluzione.
->
-> - Nel nostro caso, indicando con $x$ il peso di un mattone (espresso in kg), la situazione può essere espressa in forma simbolica dall’equazione:
->
-> $$x = 1 + \dfrac{1}{2} x$$
->
-> - utilizzando in modo opportuno i due *principi di equivalenza* possiamo semplificare l'equazione:
-> $$x \textcolor{red}{- \dfrac{1}{2}x} = 1 + \cancel{\dfrac{1}{2} x} \textcolor{red}{- \cancel{\dfrac{1}{2}x}} \rightarrow x-\dfrac{1}{2} x=1 \quad \longrightarrow \quad \dfrac{1}{2} x=1$$
-> $$\textcolor{red}{2 \\; \cdot} \dfrac{1}{2} x = \textcolor{red}{2 \\; \cdot} 1$$
-> - semplificando otteniamo la soluzione:
-> $$\textcolor{darkorange}{x=2}$$
 
 ---
 
@@ -170,10 +151,9 @@ Due equazioni si dicono **equivalenti** se hanno lo stesso **insieme delle soluz
 
 > **ESEMPIO:**
 >
-> - _Un mattone pesa $1$ kg più mezzo mattone._
-> - _Quanto pesa un mattone?_
+> - _Un mattone pesa $1$ kg più mezzo mattone. Quanto pesa un mattone?_
 >
-> Il calcolo letterale e le equazioni ci permettono di sviluppare dei `procedimenti` in modo simbolico e di pervenire rapidamente alla soluzione.
+> Il calcolo letterale e le equazioni ci permettono di sviluppare dei *procedimenti* in modo simbolico e di pervenire rapidamente alla soluzione.
 >
 > - Nel nostro caso, indicando con $x$ il peso di un mattone (espresso in kg), la situazione può essere espressa in forma simbolica dall’equazione:
 >
@@ -233,12 +213,6 @@ $$\small{(3 x-1)^{3}+(3 x+1)(6 x-7)=(3 x+1)(3 x-1)^{2}}$$
 
 ### 10. Procedimento risolutivo delle equazioni frazionarie
 
-$$\frac{x+3}{x-3}-\frac{2 x-1}{x^{2}-6 x+9}=\left(\frac{3}{x-3}+1\right)^{2}$$
-
----
-
-<br>
-
 #### Condizioni di accettabilità
 
 - Poiché le soluzioni di un’equazione devono appartenere al suo dominio, in alternativa al dominio si possono indicare le condizioni a cui devono soddisfare le eventuali soluzioni.
@@ -246,23 +220,29 @@ Tali condizioni sono dettecondizioni di accettabilità. Useremo la notazione **C
 
 - Nel caso di equazioni frazionarie, le condizioni di accettabilità mettono in evidenza che la soluzione non può coincidere con i valori che annullano qualche denominatore al primo o al secondo membro.
 
-{{% callout note %}}
-Un **esempio**:
-
-$$
-\frac{x+2}{x-1}-\frac{x}{x+2}=\frac{3 x}{(x-1)(x+2)}
-$$
-{{% /callout %}}
-
 #### Le fasi del procedimento risolutivo
 
 Enunciamo ora il procedimento  per  risolvere  un’equazione  numerica  frazionaria.
 
 1. Se è possibile, si scompongono in fattori i denominatori che figurano nell’equazione.
-2. Si formulano le condizioni di accettabilità (oppure si esplicita il dominio dell’equazione).
+2. Si formulano le condizioni di accettabilità (oppure si esplicita il *dominio* dell’equazione).
 3. Si riducono entrambi i membri dell’equazione allo stesso denominatore.
 4. Si eliminano i denominatori, moltiplicando entrambi i membri per il denominatore comune.
 5. Si risolve l’equazione intera così ottenuta.
 6. Delle soluzioni ottenute si accettano solo quelle che soddisfano le condizionidi accettabilità (cioè solo quelle che appartengono al dominio).
 
-I passaggi indicati nei punti **5.** e **6.** sono giustificati dal secondo principio di equivalenza.
+- I passaggi indicati nei punti **5.** e **6.** sono giustificati dal secondo principio di equivalenza.
+
+{{% callout note %}}
+
+- **esempio 1**
+
+$$\frac{x+2}{x-1}-\frac{x}{x+2}=\frac{3 x}{x^2+x-2}$$
+
+- **esempio 2**
+
+$$\frac{x+3}{x-3}-\frac{2 x-1}{x^{2}-6 x+9}=\left(\frac{3}{x-3}+1\right)^{2}$$
+
+{{% /callout %}}
+
+<br>

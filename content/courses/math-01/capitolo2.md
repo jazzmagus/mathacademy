@@ -68,19 +68,21 @@ I numeri $a$ e $b$ si chiamano **termini** della frazione; precisamente:
 
 - il numero $a$, che si trova al di sopra della linea di frazione, si chiama **numeratore**; 
 - il numero $b$, al di sotto della linea di frazione, si chiama **denominatore**
-  - Le *frazioni apparenti* sono casi particolari di frazioni improprie.
 
-#### 2. frazioni apparenti
+#### frazioni proprie e improprie
+
+- Se il numeratore di una frazione è **minore** del denominatore si dice che la frazione è **propria**; 
+- se invece il numeratore è **maggiore o uguale** al denominatore si parla di frazione **impropria**.
+
+#### frazioni apparenti
 
 - Se il **numeratore** è **multiplo** del **denominatore**, la frazione rappresenta il risultato di una divisione che si può eseguire nell’insieme dei **numeri interi**, $\mathbb{Z}$
 
 - Tali frazioni si dicono perciò **apparenti**.
 particolare, se il denominatore è uguale a $1$, *si usa scrivere il solo numeratore*.
 
-#### frazioni proprie e improprie
-
-- Se il numeratore di una frazione è **minore** del denominatore si dice che la frazione è **propria**; 
-- se invece il numeratore è **maggiore o uguale** al denominatore si parla di frazione **impropria**.
+<br>
+  <font color="red">$\star$ Le <b>frazioni apparenti</b> sono casi particolari di frazioni improprie.</font>
 
 ---
 
@@ -134,9 +136,9 @@ definizione: **frazione ridotta ai minimi termini**
 
 {{% /callout %}}
 
-- Di solito quando si semplifica una frazione si conviene di dividere i suoi termini per il loro MCD, in modo che la frazione equivalente che si ottiene sia ridotta ai minimi termini
+- Di solito quando si semplifica una frazione si conviene di dividere i suoi termini per il loro MCD, in modo che la frazione equivalente che si ottiene sia ridotta ai minimi termini:
 
-$$$$
+$$\dfrac{12}{30} = \dfrac{12 : 6}{30 : 6} = \dfrac{2}{5}$$
 
 ---
 
@@ -224,7 +226,30 @@ $$
 
 ### 7. Rappresentazione dei numeri razionali su una retta orientata
 
+
 ### 8. Confronto tra numeri razionali
+
+- Per confrontare due numeri razionali, occorre innanzitutto esprimerli come frazioni con lo stesso denominatore positivo; 
+- si confrontano quindi i loro numeratori, considerando negativi i numeratori delle frazioni negative
+
+> **esempio:** confrontiamo i seguenti numeri razionali:
+> $$\dfrac{25}{12}, \\; \dfrac{20}{9}$$
+>
+> - calcoliamo il minimo comune denominatore:
+> - $m.c.m.(12; 9) = 36$
+> 
+> esprimiamo quindi i due numeri razionali come frazioni con lo stesso denominatore $36$
+> $$\dfrac{25}{12} = \dfrac{25 \cdot 3}{12 \cdot 3} = \dfrac{75}{36}$$
+> $$\dfrac{20}{9} = \dfrac{20 \cdot 4}{9 \cdot 4} = \dfrac{80}{36}$$
+>
+> - Confrontiamo ora i rispettivi **numeratori**:
+> $$75 < 80 \\; \Rightarrow \dfrac{25}{12} < \dfrac{20}{9}$$
+> 
+> ---
+> 
+> **esempio:** confrontiamo i seguenti numeri razionali:
+> 
+> $$-\dfrac{9}{20}, \\; -\dfrac{7}{15}; \qquad \qquad \dfrac{14}{9}, \\; -\dfrac{9}{14}$$
 
 ### 9. Proprietà dell’insieme dei numeri razionali
 

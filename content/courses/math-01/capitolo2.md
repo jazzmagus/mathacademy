@@ -263,6 +263,7 @@ $$
 {{% callout note %}}
 <font color="darkgreen">
 Osserviamo che, rispetto alle proprietà degli insiemi dei numeri naturali e dei numeri interi, c’è un’importante  differenza: i concetti di «precedente» e  di «successivo», introdotti per gli insiemi discreti $\mathbb{N}$ e $\mathbb{Z}$, non hanno senso nell’insieme denso $\mathbb{Q}$.
+</font>
 
 {{% /callout %}}
 
@@ -277,17 +278,121 @@ flowchart TD
   id1 --> id2
   id3 --> id4
 ```
+
 ---
 
 ## operazioni  con  i  numeri  razionali
 
-### 11. addizione
+> Le operazioni, nell’insieme $\mathbb{Q}$, godono delle stesse proprietà valide in $\mathbb{N}$ e in $\mathbb{Z}$: 
+>
+> - ad esempio, la proprietà commutativa dell’addizione e della moltiplicazione, la proprietà invariantiva della sottrazione e della divisione, e così via
+
+### 10. addizione
+
+{{% callout alert %}}
+
+**DEFINIZIONE**: SOMMA DI FRAZIONI
+
+- La somma di due frazioni con lo stesso denominatore positivo è la frazione che ha per denominatore lo stesso denominatore delle frazioni date e per numeratore la somma algebrica dei numeratori:
+<font color="red">
+$$\dfrac{a}{b} + \dfrac{c}{b} = \dfrac{a+c}{b} \qquad  b\neq 0$$
+</font>
+> Quando le frazioni addende non hanno lo stesso denominatore, si sceglie come denominatore comune il **minimo comune multiplo** dei denominatori, dopo averle eventualmente ridotte ai minimi termini.
+
+{{% /callout %}}
+
+### 11. sottrazione
+
+{{% callout alert %}}
+
+**DEFINIZIONE**: SOTTRAZIONE TRA FRAZIONI
+
+- La differenza di due frazioni è la somma della prima con l’opposta della seconda:
+<font color="red">
+$$\dfrac{a}{b} - \dfrac{c}{d} = \dfrac{a}{b} + \left( - \dfrac{c}{d} \right) \qquad  b,d \neq 0$$
+</font>
+> Quando le frazioni addende non hanno lo stesso denominatore, si sceglie come denominatore comune il **minimo comune multiplo** dei denominatori, dopo averle eventualmente ridotte ai minimi termini.
+
+{{% /callout %}}
 
 ### 12. addizione algebrica
 
+- Come abbiamo visto, una sottrazione tra numeri razionali si può ricondurre a un’addizione. 
+- Possiamo perciò estendere ai numeri razionali il concetto di **addizione algebrica**, introdotto per i numeri interi relativi
+
 ### 13. moltiplicazione
 
+{{% callout alert %}}
+
+**DEFINIZIONE**: PRODOTTO DI FRAZIONI
+
+- Il prodotto di due frazioni è la frazione che ha per numeratore il prodotto dei numeratori e per denominatore il prodotto dei denominatori:
+
+<font color="red">
+$$\dfrac{a}{b} \cdot \dfrac{c}{d} = \dfrac{a \cdot c}{b \cdot d} \qquad  b,d \neq 0$$
+</font>
+
+con $b, d \neq 0$, e $a, b, c, d \in \mathbb{Z}$
+
+> Quando le frazioni addende non hanno lo stesso denominatore, si sceglie come denominatore comune il **minimo comune multiplo** dei denominatori, dopo averle eventualmente ridotte ai minimi termini.
+
+{{% /callout %}}
+
+- Il segno del prodotto è determinato dalla consueta **regola dei segni**, che si può estendere al caso di tre o più fattori
+
+{{% callout note %}}
+
+**REGOLA**
+
+- Per calcolare il prodotto di due o più frazioni, si può procedere così:
+
+1. si riducono ai minimi termini quelle frazioni che eventualmente non lo siano;
+2. si determina il segno del prodotto con la regola dei segni: se il numero delle frazioni negative è **pari** il prodotto è **positivo**, se è **dispari** il prodotto è **negativo**; 
+   - la frazione prodotto ha per segno il segno così determinato, per numeratore il prodotto dei numeratori e per denominatore il prodotto dei denominatori;
+3. se possibile, si semplifica il risultato riducendolo ai minimi termini.
+
+{{% /callout %}}
+
+- Nella pratica è possibile, in molti casi, eseguire le **semplificazioni in croce** prima di calcolare il prodotto dei numeratori e quello dei denominatori.
+- In tal modo è possibile ottenere il risultato già ridotto ai minimi termini
+- Per moltiplicare un numero intero per una frazione si moltiplica il solo numeratore per quel numero intero:
+
+$$n \cdot \dfrac{p}{q} = \dfrac{n \cdot p}{q}$$
+
+{{% callout note %}}
+
+**DEFINIZIONE**: numeri razionali **reciproci**
+
+- Il prodotto di due frazioni è la frazione che ha per numeratore il prodotto dei numeratori e per denominatore il prodotto dei denominatori:
+
+<font color="red">
+$$ a \cdot b =1$$
+
+> Quando le frazioni addende non hanno lo stesso denominatore, si sceglie come denominatore comune il **minimo comune multiplo** dei denominatori, dopo averle eventualmente ridotte ai minimi termini.
+</font>
+
+{{% /callout %}}
+
 ### 14. divisione
+
+{{% callout note %}}
+
+**DEFINIZIONE**: DIVISIONE DI FRAZIONI
+
+- Il quoziente di due numeri razionali, il secondo dei quali diverso da zero, è il **prodotto** del primo per il **reciproco** del secondo:
+<font color="red">
+$$\dfrac{a}{b} : \dfrac{c}{d} = \dfrac{a}{b} \cdot \dfrac{d}{c} \qquad  b,d \neq 0$$
+</font>
+
+con $b \neq 0, \\; c \neq 0, \\; d \neq 0, \qquad$ e con $a, b, c, d \in \mathbb{Z}$
+
+> Il segno del risultato di una divisione si determina, come al solito, con la **regola dei segni**
+{{% /callout %}}
+
+- Anche in $\mathbb{Q}$ non è possibile dividere per $0$;
+- nell’insieme $\mathbb{Q}$  dei numeri razionali sono possibili tutte le divisioni con divisore diverso da $0$: 
+  - la divisione è un’operazione interna all’insieme $\mathbb{Q}$ dei numeri razionali diversi da zero.
+- Il quoziente di una divisione tra numeri interi può essere rappresentato da un numero razionale
 
 ---
 

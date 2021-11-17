@@ -21,6 +21,8 @@ weight: 10
 
 ## obiettivi
 
+{{% toc %}}
+
 <br>
 
 {{% callout note %}}
@@ -150,7 +152,7 @@ Due equazioni si dicono **equivalenti** se hanno lo stesso **insieme delle soluz
 <br>
 
 > **ESEMPIO:**
->
+> ![ex1_img](../mattoni.png)
 > - _Un mattone pesa $1$ kg più mezzo mattone. Quanto pesa un mattone?_
 >
 > Il calcolo letterale e le equazioni ci permettono di sviluppare dei *procedimenti* in modo simbolico e di pervenire rapidamente alla soluzione.

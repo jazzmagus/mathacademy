@@ -182,7 +182,7 @@ Due equazioni si dicono **equivalenti** se hanno lo stesso **insieme delle soluz
 - Se in un’equazione intera compaiono frazioni o termini con coefficienti frazionari, è possibile ridurre entrambi i membri allo stesso denominatore e poi eliminare il denominatore comune;
 
 - Si può cambiare il segno di entrambi i membri di un’equazione.
-  - Infatti cio`equivale amoltiplicare per1 entrambi i membri dell’equazione.
+  - Infatti ciò equivale amoltiplicare per1 entrambi i membri dell’equazione.
   - In particolare, se entrambi i membri sono polinomi, si può cambiare il segno di tutti i termini di entrambi i membri.
 
 ---
@@ -209,9 +209,33 @@ Data un’equazione nell’incognita $x$, scritta nella forma canonica $P(x) = 0
 - La forma canonica di un’equazione lineare nell’incognita $x$ è: $$mx + q = 0$$
   - dove $m$ e $q$ sono numeri reali, con $m \neq 0$
 
+## Equazioni Numeriche
+
 ### 9. Procedimento risolutivo delle equazioni intere
 
+Elenchiamo le operazioni da compiere per risolvere un’equazione numerica intera di primo grado (come al solito, indichiamo con $x$ l’incognita).
+
+1. Si eseguono le eventuali operazioni indicate e, se presenti, si eliminano i denominatori.
+2. Si trasportano tutti i monomi contenenti l’incognita al primo membro e tutti itermini noti al secondo membro, riducendo gli eventuali termini simili. 
+3. Dopo aver eseguito tali operazioni l’equazione risulterà scritta nella forma
+
+$$ax=b$$
+
+- si possono verificare i seguenti casi:
+
+1. $a \neq 0 \Rightarrow x=\dfrac{b}{a} \qquad \rightarrow$ equazione **determinata** $\Rightarrow S = \dfrac{b}{a}$ 
+2. $a = 0$
+
+   - $b=0 \qquad \rightarrow$ equazione **indeterminata** $\Rightarrow S = \mathbb{R}$
+   - $b \neq 0 \qquad \rightarrow$ equazione **impossibile** $\Rightarrow S = \emptyset$
+
+{{% callout note %}}
+
+**esempio**:
+
 $$\small{(3 x-1)^{3}+(3 x+1)(6 x-7)=(3 x+1)(3 x-1)^{2}}$$
+
+{{% /callout %}}
 
 ### 10. Procedimento risolutivo delle equazioni frazionarie
 

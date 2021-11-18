@@ -269,6 +269,88 @@ $$\frac{x+2}{x-1}-\frac{x}{x+2}=\frac{3 x}{x^2+x-2}$$
 
 $$\frac{x+3}{x-3}-\frac{2 x-1}{x^{2}-6 x+9}=\left(\frac{3}{x-3}+1\right)^{2}$$
 
+- **esempio 3**
+
+$$\dfrac{x^2}{x-1} - x = \dfrac{2x-1}{x - 1}$$
 {{% /callout %}}
 
 <br>
+
+---
+
+## Problemi di Primo Grado
+
+- In generale, le equazioni consentono di risolvere diverse specie di problemi.
+
+Le situazioni che si possono presentare sono dei tipi più svariati, perciò non è possibile formulare un metodo generale per la risoluzione di qualsiasi problema.
+Ci limitiamo quindi a fornire alcune indicazioni generali, che illustreremo con alcuni esempi.
+Per risolvere un problema occorre tradurlo in un’equazione che ne rappresenti il **modello matematico**.
+
+- A tal fine, dopo aver analizzato attentamente il problema individuando i dati noti, conviene procedere nel modo seguente.
+
+1. Si **individua l’incognita**, ossia una grandezza il cui valore numerico non è immediatamente deducibile, e si associa a essa una lettera (di solito la $x$) che sarà l’incognita dell’equazione.
+2. Si pongono le eventuali **condizioni di accettabilità (C.A.**) della soluzione, ossia si stabiliscono quelle limitazioni al valore dell’incognita che garantiscono la possibilità di dare un significato alle soluzioni che si troveranno.
+3. **Si scrive l’equazione**; a questo scopo si cerca di esprimere le relazioni tra lagrandezza rappresentata dall’incognita e le grandezze note mediante un’uguaglianza, che diventerà l’equazione da risolvere. In questa fase a volte è utile ragionare «come se» l’incognita fosse nota.
+4. **Si risolve l’equazione** così trovata.
+5. **Si confronta la soluzione trovata con le condizioni di accettabilità** poste, inmodo da escludere i valori che potrebbero non avere significato per il problema.
+6. **Si formula la soluzione del problema**, tenendo presente che non sempre la risoluzione di un problema termina con la risoluzione di un’equazione.
+
+**L’equazione** è il **modello matematico del problema**: la sua soluzione deve quindi essere interpretata in tale modello.
+
+<br>
+
+{{% callout note %}}
+**Esempio 3:**
+
+- Anna vuole acquistare un’auto che costa $13.900$€.
+- Se riuscisse a raddoppiare i risparmi che ha adesso, per comprare l’auto dovrebbe comunque trovare altri $3.400$€.
+- Quanti risparmi ha ora Anna?
+
+**soluzione**:
+
+- Chiamiamo $x$ l’importo dei risparmi che attualmente possiede Anna;
+- Traduco in matematichese il testo:
+
+$$2 \cdot x + 3.400 = 13.900 $$
+
+- *traduzione*: il doppio dei risparmi attuali più $3.400$€ sono pari al totale di $13.900$€ che deve spendere per comprare l’auto;
+- isoliamo l'incognita:
+
+$$
+\begin{align}
+2 \cdot x &= 13.900 - 3.400 \\\\
+x &= \dfrac{10.500}{2} \\\\
+x &= 5.250
+\end{align}$$
+
+{{% /callout %}}
+
+> <font color=brown>
+> Quando vi è solo un dato da trovare (o, come si dice, quando c’è solo una “incognita”),
+> allora è sufficiente avere a disposizione una sola equazione che mette in relazione fra loro i dati del problema;</font>
+
+---
+
+#### un modello molto famoso...
+
+![modelli non matematici](https://i.pinimg.com/originals/8a/e0/e2/8ae0e2d1005f7c6ea9eee5ff5d908dad.jpg)
+
+- $N:$ total population
+- $S(t):$ number of people susceptible on day t
+- $E(t):$ number of people exposed on day $t$
+- $I(t):$ number of people infected on day t
+- $\mathrm{R}(\mathrm{t}):$ number of people recovered on day $\mathrm{t}$
+- $D(t):$ number of people dead on day $t$
+- $\beta:$ expected amount of people an infected person infects per day
+- $D:$ number of days an infected person has and can spread the disease
+- $\gamma$ : the proportion of infected recovering per day $(\gamma=1 / \mathrm{D})$
+- $R_o:$ the total number of people an infected person infects (Ro $=\beta / \gamma$ )
+- $\delta:$ length of incubation period
+- $a:$ fatality rate
+- $\rho:$ rate at which people die $(=1 /$ days from infected until death $)$
+
+![equazioni](https://miro.medium.com/max/2000/1*s7xR9yUz14_8zw7sKBhljQ.png)
+
+![modello SIR](https://miro.medium.com/max/2000/1*YB71iX0vwxzZ82WI_dmqhA.png)
+
+---

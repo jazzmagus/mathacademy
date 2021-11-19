@@ -9,7 +9,7 @@ title: Matematica per le classi seconde
 date: "2021-09-09T00:00:00Z"
 lastmod: "2021-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 slides: math-02
@@ -30,7 +30,7 @@ menu:
 >
 >-- Piergiorgio Odifreddi
 
-![overview_img](startline.png)
+<!-- ![overview_img](startline.png) -->
 
 ---
 

@@ -325,13 +325,29 @@ x &= 5.250
 
 {{% /callout %}}
 
+{{% callout note %}}
+**Esempio 3:**
+
+- La somma di due numeri è $37$. Dividendo il più grande per il più piccolo si ottiene come quoziente $3$ e come resto $1$.
+- Quali sono i due numeri?
+
+- **primo numero**: $= x$
+- **secondo numero**: $= 37 - x$
+
+**soluzione**:
+
+- l'equazione risultante è la seguente: 
+$$37-x=3x+1$$
+
+{{% /callout %}}
+
 > <font color=brown>
 > Quando vi è solo un dato da trovare (o, come si dice, quando c’è solo una “incognita”),
 > allora è sufficiente avere a disposizione una sola equazione che mette in relazione fra loro i dati del problema;</font>
 
 ---
 
-#### un modello molto famoso...
+### un modello molto famoso...
 
 ![modelli non matematici](https://i.pinimg.com/originals/8a/e0/e2/8ae0e2d1005f7c6ea9eee5ff5d908dad.jpg)
 

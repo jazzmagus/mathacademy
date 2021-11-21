@@ -1,7 +1,7 @@
 ---
-title: Epitaffio di Diofanto
+title: Epitaffio di Diòfanto
 subtitle: _equazioni lineari intere di primo grado_
-summary: Diofanto d'Alessandria
+summary: Diòfanto d'Alessandria
 authors:
 - diego fantinelli
 tags: [itis, lesson, 2021]
@@ -115,9 +115,8 @@ $$
 \begin{align}
 \dfrac{14x + 7x + 12x +420 + 42x + 336}{84} = x\\\\
 \cancel{84} \cdot \dfrac{14x + 7x + 12x +420 + 42x + 336}{\cancel{84}} = 84x\\\\
--9x = -420\\\\
-x = \dfrac{420}{9}\\\\
-x =84
+-9x = -756\\\\
+\dfrac{-9x}{-9} = \dfrac{-756}{-9}\\\\
 \end{align}
 $$
 

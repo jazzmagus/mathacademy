@@ -351,7 +351,7 @@ $$37-x=3x+1$$
 
 ![modelli non matematici](https://i.pinimg.com/originals/8a/e0/e2/8ae0e2d1005f7c6ea9eee5ff5d908dad.jpg)
 
-### Il modello matematico SEIR per il monitoraggio pandemico
+### Il modello matematico SEIR (SIR) per il monitoraggio pandemico
 
 - $N:$ total population
 - $S(t):$ number of people susceptible on day t

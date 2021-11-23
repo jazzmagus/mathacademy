@@ -334,8 +334,6 @@ $$\dfrac{a}{b} \cdot \dfrac{c}{d} = \dfrac{a \cdot c}{b \cdot d} \qquad  b,d \ne
 
 con $b, d \neq 0$, e $a, b, c, d \in \mathbb{Z}$
 
-> Quando le frazioni addende non hanno lo stesso denominatore, si sceglie come denominatore comune il **minimo comune multiplo** dei denominatori, dopo averle eventualmente ridotte ai minimi termini.
-
 {{% /callout %}}
 
 - Il segno del prodotto è determinato dalla consueta **regola dei segni**, che si può estendere al caso di tre o più fattori
@@ -368,7 +366,6 @@ $$n \cdot \dfrac{p}{q} = \dfrac{n \cdot p}{q}$$
 <font color="red">
 $$ a \cdot b =1$$
 
-> Quando le frazioni addende non hanno lo stesso denominatore, si sceglie come denominatore comune il **minimo comune multiplo** dei denominatori, dopo averle eventualmente ridotte ai minimi termini.
 </font>
 
 {{% /callout %}}
@@ -398,9 +395,30 @@ con $b \neq 0, \\; c \neq 0, \\; d \neq 0, \qquad$ e con $a, b, c, d \in \mathbb
 
 ## potenze in $\mathbb{Q}$
 
+> E' indispensabile ripassare le proprietà delle potenze
+
 ### 15. Potenza con esponente naturale
 
+{{% callout note %}}
+
+**definizione**: POTENZA DI UN NUMERO RAZIONALE CON ESPONENTE NATURALE
+
+- La potenza che ha per base il numero razionale $a$ e per esponente il numero naturale $n$ si indica con $a^n$ ed è uguale al prodotto di $n$ fattori uguali ad $a$
+$$a^{n} = \underbrace{a \cdot a \cdot \dots \cdot a}_{n \\; fattori}$$
+
+{{% /callout %}}
+
 ### 16. Potenza con esponente intero negativo
+
+{{% callout note %}}
+
+**definizione**: POTENZA CON ESPONENTE INTERO NEGATIVO
+
+- La potenza che ha per base il numero razionale $a \neq 0$ e per esponente il numero intero negativo $-n$ è uguale al reciproco della potenza che ha per base $a$ e per esponente il numero naturale $n$:
+
+$$a^{-n} = \dfrac{1}{a^n} \qquad a \neq 0$$
+
+{{% /callout %}}
 
 ---
 

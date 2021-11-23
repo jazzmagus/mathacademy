@@ -282,9 +282,9 @@ $$\dfrac{x^2}{x-1} - x = \dfrac{2x-1}{x - 1}$$
 
 - In generale, le equazioni consentono di risolvere diverse specie di problemi.
 
-Le situazioni che si possono presentare sono dei tipi più svariati, perciò non è possibile formulare un metodo generale per la risoluzione di qualsiasi problema.
-Ci limitiamo quindi a fornire alcune indicazioni generali, che illustreremo con alcuni esempi.
-Per risolvere un problema occorre tradurlo in un’equazione che ne rappresenti il **modello matematico**.
+>Le situazioni che si possono presentare sono dei tipi più svariati, perciò non è possibile formulare un metodo generale per la risoluzione di qualsiasi problema.
+>Ci limitiamo quindi a fornire alcune indicazioni generali, che illustreremo con alcuni esempi.
+>Per risolvere un problema occorre tradurlo in un’equazione che ne rappresenti il **modello matematico**.
 
 - A tal fine, dopo aver analizzato attentamente il problema individuando i dati noti, conviene procedere nel modo seguente.
 

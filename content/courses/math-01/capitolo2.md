@@ -395,7 +395,16 @@ con $b \neq 0, \\; c \neq 0, \\; d \neq 0, \qquad$ e con $a, b, c, d \in \mathbb
 
 ## potenze in $\mathbb{Q}$
 
-> E' indispensabile ripassare le proprietà delle potenze
+{{% callout warning %}}
+
+**REGOLA**
+
+- La potenza di una frazione è la frazione i cui termini sono le potenze dei termini della base.
+  - Se la base ha segno $+$, anche la potenza ha segno $+$.
+  - Se la base ha segno $+$ e l’esponente è **pari**, la potenza ha segno $+$.
+  - Se  la base ha segno $-$ e l’esponente è **dispari**, la potenza ha segno $-$.
+
+{{% /callout %}}
 
 ### 15. Potenza con esponente naturale
 

@@ -372,3 +372,46 @@ $$37-x=3x+1$$
 ![modello SIR](https://miro.medium.com/max/2000/1*YB71iX0vwxzZ82WI_dmqhA.png)
 
 ---
+
+## esercizi proposti
+
+### equazioni lineari intere
+
+$$
+\begin{aligned}
+&\frac{1}{12} x+\frac{5}{8}-\frac{1}{4} x=\frac{3}{2}-\frac{1}{6} x-\frac{7}{8} \\\\
+&\frac{x-14}{12}-\frac{2 x-1}{18}=\frac{2}{9}(2 x-5) \\\\
+&\frac{4 x+3}{21}-\frac{6 x+11}{14}=\frac{5 x-1}{6} \\\\
+&\frac{2 x-3}{10}=\frac{6 x-2}{15}-\frac{1+x}{5} \\\\
+&\left(-\frac{1}{3} x+1\right)\left(\frac{3}{5} x-\frac{1}{2}\right)=\frac{1}{5} x\left(\frac{23}{6}-x\right)
+\end{aligned}
+$$
+
+$$
+\begin{aligned}
+&\left(2 x^{2}+x\right)^{2}-\left(2 x^{2}-x-3\right)^{2}-(2 x+1)^{3}=2 \\\\
+&(3 x-1)^{3}+(3 x+1)(6 x-7)=(3 x+1)(3 x-1)^{2} \\\\
+&\left(x^{2}-4 x+1\right)^{2}-\left(x^{2}+7\right)^{2}=(4 x-1)^{2}-(2 x+1)^{3} \\\\
+&(3 x+4)(3 x-4)-(3 x+2)^{2}=2(x+5)(2 x-3)-(2 x-3)^{2} \\\\
+&(2 x+1)(2 x-1)(2 x+3)-(2 x+1)^{3}=4(2 x+3)-2(2 x-1)
+\end{aligned}
+$$
+
+---
+
+### equazioni lineari frazionarie
+
+$$
+\begin{aligned}
+&\frac{1}{x-5}-\frac{2 x+1}{x^{2}-5 x}=\frac{2}{x} \\\\
+&\frac{2 x+1}{x^{2}+2 x+1}+\frac{x}{x+1}=1 \\\\
+&\frac{3 x-2}{2 x-1}-\frac{1}{8 x^{2}-8 x+2}=\frac{3}{2} \\\\
+&\frac{3 x+1}{x^{2}}+\frac{9 x}{9 x^{2}-12 x+4}=\frac{12 x-1}{3 x^{2}-2 x} \\\\
+&\frac{x+3}{x-3}-\frac{2 x-1}{x^{2}-6 x+9}=\left(\frac{3}{x-3}+1\right)^{2} \\\\
+&\frac{(3 x-4)^{2}}{4 x+8}=\left(4-\frac{x}{x+2}\right)\left(x+2-\frac{x}{4}\right) \\\\
+&\left(\frac{x}{x-1}-1\right)\left(\frac{x-1}{x}+1\right)-\frac{x+1}{x-1}+\frac{2 x-1}{x}=1 \\\\
+&\frac{x+6}{6 x^{2}+4 x}-\frac{1}{9 x^{2}-4}=\frac{2}{3 x}-\frac{3 x+2}{6 x^{2}-4 x} \\\\
+&\frac{x^{2}+2 x-4}{x^{3}-8}+\frac{1}{2}=\frac{x+2}{2 x-4}-\frac{x+2}{x^{2}+2 x+4} \\\\
+&\frac{3}{4 x+2}-\frac{3}{4 x^{2}+4 x+1}=\frac{3}{4 x-2}-1
+\end{aligned}
+$$

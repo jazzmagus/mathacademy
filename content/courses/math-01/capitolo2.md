@@ -14,7 +14,7 @@ menu:
 weight: 20
 ---
 
-{{< toc >}}
+{{% toc %}}
 <!-- {{< toc hide_on="xl" >}} -->
 
 > ☆ **scadenza**: 30 novembre 2021
@@ -456,3 +456,5 @@ $$a^{-n} = \dfrac{1}{a^n} \qquad a \neq 0$$
 ## L’insieme  dei  numeri  reali $\mathbb{R}$
 
 ## Calcolo  approssimato
+
+---

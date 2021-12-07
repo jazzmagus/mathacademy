@@ -437,9 +437,49 @@ $$a^{-n} = \dfrac{1}{a^n} \qquad a \neq 0$$
 
 ### 18. Dalla frazione al numero decimale
 
+{{% callout note %}}
+
+DEFINIZIONE: NUMERO DECIMALE PERIODICO
+
+Si dice che un numero decimale è **periodico** se le sue cifre decimali dopo la virgola si ripetono a gruppi a partire da una certa posizione.
+
+- Il gruppo di cifre che si ripetono si chiama **periodo**.
+- Se il periodo inizia subito dopo la virgola, la rappresentazione si dice **periodica semplice**; 
+- se invece inizia in una posizione successiva, la rappresentazione si dice **periodica mista** e il gruppo di cifre che seguono la virgola e precedono il periodo si chiama **antiperiodo**.
+
+{{% /callout %}}
+
 ### 19. Dal numero decimale finito alla frazione
 
+>**REGOLA**
+>
+>Per determinare la frazione generatrice di un numero decimale finito, al numeratore si scrivono le cifre del numero, senza la virgola, e al denominatore si scrive $1$ seguito da tanti zeri quante sono le cifre che seguono la virgola.
+
 ### 20. Dal numero decimale periodico alla frazione
+
+{{% callout note %}}
+
+**REGOLA**:
+La frazione generatrice di un numero decimale periodico è la frazione che ha:
+
+- al numeratore la differenza tra il numero dato, scritto senza virgola, e il numero formato dalle cifre che precedono il periodo, anch’esso scritto senzavirgola;
+- al denominatore tanti $9$ quante sono le cifre del periodo, seguiti da tanti zeri quante sono le eventuali cifre dell’antiperiodo.
+
+{{% /callout %}}
+
+#### Il periodo 9
+
+$$0, \overline{9}=\frac{9-0}{9}=1 \quad \longrightarrow \quad 1=0,9999 \ldots$$
+
+- Giungiamo così a un apparente paradosso: il numero intero $1$ è uguale a un numero decimale periodico, cioè a un numero decimale con infinite cifre dopo la virgola!
+
+{{% callout warnin%}}
+
+**REGOLA**
+
+- Un numero periodico con periodo $9$ è uguale al numero decimale finito che si ottiene da quello dato eliminando il periodo $9$ e aumentando di una unità l’ultima cifra che precede il periodo.
+
+{{% /callout %}}
 
 ### 21. Notazione esponenziale e notazione scientifica
 

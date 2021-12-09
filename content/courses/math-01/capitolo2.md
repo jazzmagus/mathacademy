@@ -435,6 +435,22 @@ $$a^{-n} = \dfrac{1}{a^n} \qquad a \neq 0$$
 
 ### 17. Numeri decimali e frazioni decimali
 
+>A tutti sono noti i numeri decimali, ossia quei numeri rappresentati mediante due successioni di cifre, separate da una virgola.
+>
+>La successione di cifre a sinistra della virgola si chiama **parte intera** del numero, quella a destra della virgola si chiama **parte frazionaria**.
+
+$$\underbrace{123,}_{parte \\, intera} \overbrace{4567}^{parte \\, frazionaria}$$
+
+Per comprendere pienamente tale tipo di rappresentazione, detta **rappresentazione decimale**, è necessario introdurre il concetto di frazione decimale.
+
+{{% callout note %}}
+
+**definizione**: FRAZIONE DECIMALE
+
+- Si dice **frazione decimale** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
+
+{{% /callout %}}
+
 ### 18. Dalla frazione al numero decimale
 
 {{% callout note %}}
@@ -451,9 +467,18 @@ Si dice che un numero decimale è **periodico** se le sue cifre decimali dopo la
 
 ### 19. Dal numero decimale finito alla frazione
 
->**REGOLA**
->
->Per determinare la frazione generatrice di un numero decimale finito, al numeratore si scrivono le cifre del numero, senza la virgola, e al denominatore si scrive $1$ seguito da tanti zeri quante sono le cifre che seguono la virgola.
+{{% callout warning %}}
+
+**REGOLA**
+
+- Per determinare la frazione generatrice di un numero decimale finito, al numeratore si scrivono le cifre del numero, senza la virgola, e al denominatore si scrive $1$ seguito da tanti zeri quante sono le cifre che seguono la virgola.
+
+Si può anche ricordare in un altro modo:
+
+- al numeratore si scrivono le cifre del numero, senza la virgola, e al denominatore si scrive la potenza di $10$ con esponente uguale al numero di cifre che compongono la **parte frazionaria**
+
+{{% /callout %}}
+
 
 ### 20. Dal numero decimale periodico alla frazione
 
@@ -473,7 +498,7 @@ $$0, \overline{9}=\frac{9-0}{9}=1 \quad \longrightarrow \quad 1=0,9999 \ldots$$
 
 - Giungiamo così a un apparente paradosso: il numero intero $1$ è uguale a un numero decimale periodico, cioè a un numero decimale con infinite cifre dopo la virgola!
 
-{{% callout warnin%}}
+{{% callout warning %}}
 
 **REGOLA**
 

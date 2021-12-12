@@ -18,11 +18,22 @@ weight: 10
 
 ![ex2_img](../ex2_img.png)
 
-## Capitolo 2: Numeri razionali e numeri reali
+## Capitolo 9. Disequazioni lineari
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
+<font color="red">
 
-Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+>DEFINIZIONE: **DISEQUAZIONE**
+>
+>- Una **disuguaglianza** tra due espressioni contenente una o più lettere si dice disequazione.
+</font>
+
+{{% callout warning%}}
+
+**AVVERTENZA:**
+
+- In questo capitolo ci occuperemo, d’ora in avanti, solo di disequazioni in **una incognita**
+
+{{% /callout %}}
 
 ## Frazioni
 

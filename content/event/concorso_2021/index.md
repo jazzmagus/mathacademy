@@ -41,10 +41,9 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://github.com/jazzmagus/mathacademy/blob/master/static/uploads/lezione_simulata.html"
+# url_slides: "https://github.com/jazzmagus/mathacademy/blob/master/static/uploads/lezione_simulata.html"
 # url_slides: "./lezione_simulata.html"
 url_video: ""
-
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

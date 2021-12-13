@@ -42,6 +42,7 @@ links:
 url_code: ""
 url_pdf: ""
 url_slides: "https://jazzmagus.github.io/reveal.js-magus/"
+# url_slides: "./lezione_simulata.html"
 url_video: ""
 
 # Markdown Slides (optional).

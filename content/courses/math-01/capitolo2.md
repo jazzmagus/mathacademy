@@ -506,6 +506,21 @@ $$0, \overline{9}=\frac{9-0}{9}=1 \quad \longrightarrow \quad 1=0,9999 \ldots$$
 
 {{% /callout %}}
 
+---
+
+> #### qualche esercizio
+>
+> - risolvere la seguente espressione con i **numeri razionali**:
+>$$\left\\{\dfrac{\left[-\dfrac{5}{8} \cdot\left(-4+\dfrac{1}{2}\right) \cdot(-7)^{-2}+(-2)^{-4}+\dfrac{3}{4} \cdot 7^{-1}\right] \cdot\left(-6-\dfrac{2}{3}\right)}{4^{-1} \cdot\left(\dfrac{1}{2}-\dfrac{1}{3}\right):(-5)^{-1}:\left[\left(-\dfrac{3}{2}\right)^{2}+(-2)^{-3}\right]}-\dfrac{109}{7}\right\\}^{19}$$
+>
+> - trasformare le seguenti frazioni in numeri decimali finiti, periodici semplici o misti:
+> $$\dfrac{11}{4}= \dots; \quad \dfrac{19}{11}= \dots; \quad \dfrac{37}{6}= \dots;$$
+>
+> - determinare la **frazione generatrice** dei seguenti numeri decimali:
+> 
+> $$2,008= \dots; \quad 0,0004= \dots; \quad 2,\overline{3}= \dots; \quad 2,3\overline{3}= \dots; \quad 5,\overline{367}= \dots $$
+---
+
 ### 21. Notazione esponenziale e notazione scientifica
 
 #### Notazione esponenziale
@@ -514,9 +529,26 @@ $$0, \overline{9}=\frac{9-0}{9}=1 \quad \longrightarrow \quad 1=0,9999 \ldots$$
 
 ---
 
-## Proporzioni
+### 22. Proporzioni
 
-## percentuali
+{{% callout note %}}
+
+#### definizione: proporzione
+
+Si definisce **proporzione** l'*uguaglianza* tra due **rapporti**:
+
+$$a:b = c: d \quad \text{con} \\; b \neq 0, \\; d \neq 0$$
+
+{{% /callout %}}
+
+#### proprietà delle proporzioni:
+
+> I quattro numeri che formano una proporzione si dicono **termini della proporzione**.
+>
+> - Il **primo** e il **quarto** termine si dicono **estremi**, il **secondo** e il **terzo** si dicono **medi**; 
+> - il **primo** e il **terzo** si dicono **antecedenti**, il **secondo** e il **quarto** si dicono **conseguenti.**
+
+### 23. Percentuali
 
 ## L’insieme  dei  numeri  reali $\mathbb{R}$
 

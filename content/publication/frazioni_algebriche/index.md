@@ -48,7 +48,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://jazzmagus.github.io/reveal.js-magus/'
 url_source: ''
 url_video: ''
 
@@ -72,7 +72,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: frazioni_algebriche
+slides: 
 ---
 
 {{% callout note %}}

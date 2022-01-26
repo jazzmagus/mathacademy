@@ -1,10 +1,11 @@
 ---
-title: 4. Relazioni e Funzioni
-linktitle: Capitolo 4 Relazioni e Funzioni
+title: Capitolo 4. Relazioni e Funzioni
+linktitle: Capitolo 4 - Relazioni e Funzioni
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
+slides: capitolo4
 menu:
   math-01:
     parent: 
@@ -14,23 +15,23 @@ menu:
 weight: 40
 ---
 
-> ☆ **scadenza**: 30 ottobre 2021
+> ☆ **scadenza**: 28 febbraio 2022
 
-![ex2_img](../ex2_img.png)
+![ex2_img](../banner4.jpg)
 
-## Capitolo 4: Relazioni e Funzioni
+## Relazioni tra due insiemi
 
->Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat.
+> Quando si parla di relazioni in matematica si intende
 
-Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+### 1. Definizioni
 
-## Frazioni
+{{% callout note %}}
 
-## L’insieme  dei  numeri  razionali
+**definizione**: Relazione
 
-## operazioni  con  i  numeri  razionali
+- Si dice **frazione decimale** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
 
-## potenze in $\mathbb{Q}$
+{{% /callout %}}
 
 ## Frazioni  e  numeri  decimali
 

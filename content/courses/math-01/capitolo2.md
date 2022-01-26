@@ -479,7 +479,6 @@ Si può anche ricordare in un altro modo:
 
 {{% /callout %}}
 
-
 ### 20. Dal numero decimale periodico alla frazione
 
 {{% callout note %}}

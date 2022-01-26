@@ -41,7 +41,7 @@ links:
 #  url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: "https://jazzmagus.github.io/stem_2022/"
+url_slides: "https://jazzmagus.github.io/stem_2022/$$"
 # url_slides: "./lezione_simulata.html"
 url_video: ""
 # Markdown Slides (optional).

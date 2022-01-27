@@ -27,7 +27,7 @@ weight: 40
 
 {{% callout note %}}
 
-**definizione**: Relazione $\mathcal{R}$
+**definizione**: Relazione $\mathcal{E}$
 
 - Si dice **frazione decimale** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
 

@@ -1,5 +1,5 @@
 ---
-title: Capitolo 4. Relazioni e Funzioni
+title: 4. Relazioni e Funzioni
 linktitle: Capitolo 4 - Relazioni e Funzioni
 toc: true
 type: docs

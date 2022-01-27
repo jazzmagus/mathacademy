@@ -1,233 +1,166 @@
 ---
-title: Relazioni e funzioni
-summary: 
-authors: [diego fantinelli]
-tags: [math, frazioni]
-categories: [post]
-date: "2020-02-05T00:00:00Z"
+title: Slides
+summary: An introduction to using Wowchemy's Slides feature.
+authors: []
+tags: []
+categories: []
+date: "2019-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: serif
-  transition: convex
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
 
-## <font color="MidnightBlue">Relazioni e Funzioni</font>
+# Create slides in Markdown with Wowchemy
 
-### - *ripasso* -
-
-<br>
-
-*prof. **diego fantinelli***
-
-*ITIS "E. Fermi" - Bassano del Grappa*
-
-_data: **30 ottobre 2021**_
+[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## prerequisiti
+## Features
 
-- **Fattorizzazione polinomiale**
-
-  - indispensabile per poter semplificare una *frazione algebrica*
-
-- **mcm** tra polinomi
-
-  - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
 
 ---
 
-### <font color="brown">cos'è una **frazione algebrica**</font>
+## Controls
 
-> <font color="red">Si tratta di una **divisione** tra polinomi, espressa sottoforma di frazione.</font>
->
->_esempio:_ $\(x+1) : (x^2-1)$
-
-$$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
-
-- Il *dividendo* prende il nome di <font color="brown">**numeratore**</font>
-- Il *divisore* prende il nome di <font color="brown">**denominatore**</font>
-
----
-
-## Condizioni di Esistenza
-
-- Esiste un **condizione** indispensabile per poter lavorare con le **frazioni algebriche**:
-
-- <font color="red">Il **denominatore** non può **mai** essere nullo</font>
-
-## $$\dfrac{N(x)}{D(x)} \Rightarrow D(x) \neq 0$$
+- Next: `Right Arrow` or `Space`
+- Previous: `Left Arrow`
+- Start: `Home`
+- Finish: `End`
+- Overview: `Esc`
+- Speaker notes: `S`
+- Fullscreen: `F`
+- Zoom: `Alt + Click`
+- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ---
 
-## <font color="brown">Le tre cose da fare</font>
+## Code Highlighting
 
-1. Ridurla in **forma normale**, nel caso si trattasse di un'*espressione con frazioni algebriche*
-   - fattorizzare tutti in denominatori
-   - denominatore comune
+Inline code: `variable`
 
-2. Determinare le **Condizioni di Esistenza**, C.E.
-
-3. fattorizzare il numeratore, se possibile
-
-4. semplificare, se possibile
-
----
-
-## Riduzione di frazioni algebriche allo stesso denominatore
-
-><font color="brown">Per ridurre più frazioni allo stesso denominatore, bisogna trasformarle in frazioni **equivalenti** aventi tutte lo stesso denominatore (**M.C.D.** minimo comune denominatore).</font>
+Code block:
+```python
+porridge = "blueberry"
+if porridge == "blueberry":
+    print("Eating...")
+```
 
 ---
 
-### Il procedimento
+## Math
 
-E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denominatore:
+In-line math: $x + y = z$
 
-1. si semplificano le frazioni date;
-2. le frazioni così ottenute sono quelle a cui si applicano direttamente i passaggi successivi;
-3. il denominatore comune cercato (*minimo comune denominatore*) è il **mcm** dei denominatori;
+Block math:
 
----
-
-### esempio 1
-
-- fattorizziamo e semplifichiamo:
-  - $\dfrac{(x+1)}{(x^2-1)} = \dfrac{(x+1)}{(x+1)(x-1)} = \color{red}{\dfrac{1}{(x-1)}}$
-
-- determiniamo le **condizioni di esistenza**, C.E.
-  - poniamo il denominatore **uguale a zero** determinare per quali valori di $x$ il **denominatore si annulla**:
-  - $D(x)=0 \rightarrow x - 1 = 0 \Rightarrow x=1$
+$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$
 
 ---
 
-### scriviamo correttamente la soluzione
+## Fragments
 
-- Condizioni di esistenza:
-  - $C.E.: x \neq 1$
+Make content appear incrementally
 
-- Insieme di Definizione:
-  - $IdD = \overbrace{\\{ \forall x \in \mathbb{R} : x \neq 1 \\}}^{insieme \\, di \\, definizione}$
+```
+{{%/* fragment */%}} One {{%/* /fragment */%}}
+{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
+{{%/* fragment */%}} Three {{%/* /fragment */%}}
+```
+
+Press `Space` to play!
+
+{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+
+---
+
+A fragment can accept two optional parameters:
+
+- `class`: use a custom style (requires definition in custom CSS)
+- `weight`: sets the order in which a fragment appears
+
+---
+
+## Speaker Notes
+
+Add speaker notes to your presentation
+
+```markdown
+{{%/* speaker_note */%}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{%/* /speaker_note */%}}
+```
+
+Press the `S` key to view the speaker notes!
 
 {{< speaker_note >}}
-
-- Mentre le CE rappresentano le soluzioni di un'equazione
-
-$$D(X) \neq 0$$
-
-- l'IdD rappresenta un **insieme** in futuro l'IdD verrà chiamato anche **Dominio**
+- Only the speaker can read these notes
+- Press `S` key to view
 {{< /speaker_note >}}
 
 ---
 
-### questi li facciamo alla lavagna...
+## Themes
 
-- $$\dfrac{3x+15}{x^2 - 25}$$
-
-- $$\dfrac{2 x^{4}-18}{(x-1)(2 x-3)-(x-2)(x-3)}$$
-
-- $$\dfrac{x}{x+2}-\dfrac{8}{x^{2}-4}+\dfrac{2}{x-2}$$
-
-- $$-\dfrac{10}{x-2}+\dfrac{x+2}{x}+\dfrac{2}{3 x^{2}-x}$$
+- black: Black background, white text, blue links (default)
+- white: White background, black text, blue links
+- league: Gray background, white text, blue links
+- beige: Beige background, dark text, brown links
+- sky: Blue background, thin dark text, blue links
 
 ---
 
-<section>
-
-## errori gravi
-
-> Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
-
----
-
-- nella frazione $\dfrac{a+b}{b}$ non è possibile operare alcuna semplificazione; infatti $b$ è un fattore per il denominatore, ma è un addendo per il numeratore!
-- Analogamente, nella frazione $\dfrac{a+x}{a+y}$ non è possibile semplificare per $a$: infatti il monomio $a$ è un addendo per entrambi i termini della frazione, non un fattore
-
-$$\dfrac{3+5}{3} \neq \dfrac{5}{3} \qquad  \dfrac{2x^2 -3y}{4x^4} \neq \dfrac{1 -3y}{2x^2}$$
-
---
-
-## Due regole d'oro
-
-### 1. **fattorizzare** i **denominatori**
-
-#### $\Rightarrow$ serve a calcolare il *minimo comun denominatore*
-
-### 2. **sviluppare** i **numeratori**
-
-#### $\Rightarrow$ serve a semplificare i monomi simili
-
-</section>
-
---
-
-<section>
-
-## Uno sguardo alle equazioni lineari intere
-
-- Sono del tipo:
-
-$$P(x) = 0$$
-
-- con $P(x)$ un Polinomio in $x$ di grado $n$
-
-### $$x^2 + 5x + 6 = 0$$
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
 
 ---
 
-### Vi sblocco un ricordo...
+{{< slide background-image="/media/boards.jpg" >}}
 
-**Principi di equivalenza**
+## Custom Slide
 
-1. **primo principio**: afferma che **sommando algebricamente** ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione **equivalente** a quella data.
+Customize the slide style and background
 
-2. **secondo principio**: moltiplicando o dividendo entrambi i membri di una uguaglianza per uno **stesso numero** *diverso da zero*, o per una **stessa espressione** che non possa annullarsi, si ottiene un'equazione **equivalente** a quella data.
-
----
-
-## uno strumento davvero efficace
-
-### L.A.P.: Legge di Annullamento del Prodotto
-
-$$
-P_1(x) \cdot P_2(x) \cdot P_3(x) = 0 \Rightarrow \begin{cases}
-  P_1(x) = 0 \\\\
-  P_2(x) = 0 \\\\
-  P_3(x) = 0
-\end{cases}
-$$
+```markdown
+{{</* slide background-image="/media/boards.jpg" */>}}
+{{</* slide background-color="#0000FF" */>}}
+{{</* slide class="my-style" */>}}
+```
 
 ---
 
-## esempio
+## Custom CSS Example
 
-$$\underbrace{25x^2 - 20x + 4}_{quadrato \\, di \\, binomio} = 0$$
+Let's make headers navy colored.
 
-$$\Rightarrow (5x - 2)^2= 0$$
+Create `assets/css/reveal_custom.css` with:
 
-$$\Rightarrow 5x - 2 = 0$$
-
-$$\Rightarrow x = \dfrac{2}{5}$$
-
-</section>
-
----
-
-#### equazioni/disequazioni mindmap
-
-![mindmap](equazioni_mindmap.png)
+```css
+.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+  color: navy;
+}
+```
 
 ---
 
 # Questions?
 
-**>>** prossima puntata:
+[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
 
-**equazioni lineari frazionarie**
-
----
-
-![zzz](https://res.cloudinary.com/teepublic/image/private/s--TQXt20Pc--/t_Resized%20Artwork/c_fit,g_north_west,h_954,w_954/co_000000,e_outline:48/co_000000,e_outline:inner_fill:48/co_ffffff,e_outline:48/co_ffffff,e_outline:inner_fill:48/co_bbbbbb,e_outline:3:1000/c_mpad,g_center,h_1260,w_1260/b_rgb:eeeeee/c_limit,f_auto,h_630,q_90,w_630/v1588675429/production/designs/9818088_0.jpg)
+[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)

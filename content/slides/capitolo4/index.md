@@ -23,7 +23,7 @@ slides:
 
 *prof. **diego fantinelli***
 
-*ITIS "E. Fermi" - Bassano del Grappa*
+ITIS "E. Fermi" - Bassano del Grappa
 
 _scadenza: **30 febbraio 2022**_
 
@@ -77,96 +77,9 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 
 ---
 
-### esempio 1
+### Vi sblocco un ricordo
 
-- fattorizziamo e semplifichiamo:
-  - $\dfrac{(x+1)}{(x^2-1)} = \dfrac{(x+1)}{(x+1)(x-1)} = \color{red}{\dfrac{1}{(x-1)}}$
-
-- determiniamo le **condizioni di esistenza**, C.E.
-  - poniamo il denominatore **uguale a zero** determinare per quali valori di $x$ il **denominatore si annulla**:
-  - $D(x)=0 \rightarrow x - 1 = 0 \Rightarrow x=1$
-
-</section>
-
----
-
-### scriviamo correttamente la soluzione
-
-- Condizioni di esistenza:
-  - $C.E.: x \neq 1$
-
-- Insieme di Definizione:
-  - $IdD = \overbrace{\\{ \forall x \in \mathbb{R} : x \neq 1 \\}}^{insieme \\, di \\, definizione}$
-
-{{< speaker_note >}}
-
-- Mentre le CE rappresentano le soluzioni di un'equazione
-
-$$D(X) \neq 0$$
-
-- l'IdD rappresenta un **insieme** in futuro l'IdD verrà chiamato anche **Dominio**
-{{< /speaker_note >}}
-
----
-
-### questi li facciamo alla lavagna...
-
-- $$\dfrac{3x+15}{x^2 - 25}$$
-
-- $$\dfrac{2 x^{4}-18}{(x-1)(2 x-3)-(x-2)(x-3)}$$
-
-- $$\dfrac{x}{x+2}-\dfrac{8}{x^{2}-4}+\dfrac{2}{x-2}$$
-
-- $$-\dfrac{10}{x-2}+\dfrac{x+2}{x}+\dfrac{2}{3 x^{2}-x}$$
-
----
-
-<section>
-
-## errori gravi
-
-> Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
-
----
-
-- nella frazione $\dfrac{a+b}{b}$ non è possibile operare alcuna semplificazione; infatti $b$ è un fattore per il denominatore, ma è un addendo per il numeratore!
-- Analogamente, nella frazione $\dfrac{a+x}{a+y}$ non è possibile semplificare per $a$: infatti il monomio $a$ è un addendo per entrambi i termini della frazione, non un fattore
-
-$$\dfrac{3+5}{3} \neq \dfrac{5}{3} \qquad  \dfrac{2x^2 -3y}{4x^4} \neq \dfrac{1 -3y}{2x^2}$$
-
---
-
-## Due regole d'oro
-
-### 1. **fattorizzare** i **denominatori**
-
-#### $\Rightarrow$ serve a calcolare il *minimo comun denominatore*
-
-### 2. **sviluppare** i **numeratori**
-
-#### $\Rightarrow$ serve a semplificare i monomi simili
-
-</section>
-
---
-
-<section>
-
-## Uno sguardo alle equazioni lineari intere
-
-- Sono del tipo:
-
-$$P(x) = 0$$
-
-- con $P(x)$ un Polinomio in $x$ di grado $n$
-
-### $$x^2 + 5x + 6 = 0$$
-
----
-
-### Vi sblocco un ricordo...
-
-**Principi di equivalenza**
+Principi di equivalenza
 
 1. **primo principio**: afferma che **sommando algebricamente** ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione **equivalente** a quella data.
 
@@ -202,9 +115,7 @@ $$\Rightarrow x = \dfrac{2}{5}$$
 
 ---
 
-#### equazioni/disequazioni mindmap
-
-![mindmap](equazioni_mindmap.png)
+### equazioni/disequazioni mindmap
 
 ---
 

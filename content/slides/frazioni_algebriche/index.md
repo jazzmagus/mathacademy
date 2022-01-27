@@ -13,6 +13,7 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+{{< slide transition= "convex" >}}
 
 ## <font color="MidnightBlue">Le Frazioni algebriche</font>
 

@@ -4,19 +4,20 @@ summary:
 authors: [diego fantinelli]
 tags: [math, frazioni]
 categories: [post]
-date: "2019-02-05T00:00:00Z"
+date: "2020-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: serif
-  transition: convex
+  transitions: convex
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
+{{< slide background-image="https://source.unsplash.com/1920x1080/?blurred" >}}
 
-## <font color="MidnightBlue">Le Frazioni algebriche</font>
+## <font color="MidnightBlue">Relazioni e Funzioni</font>
 
-### - *ripasso* -
+### - *Capitolo 4* -
 
 <br>
 
@@ -24,9 +25,10 @@ slides:
 
 *ITIS "E. Fermi" - Bassano del Grappa*
 
-_data: **30 ottobre 2021**_
+_data: **30 febbraio 2022**_
 
 ---
+{{< slide background-image="cap_4.jpg" >}}
 
 ## prerequisiti
 
@@ -39,29 +41,7 @@ _data: **30 ottobre 2021**_
   - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
 
 ---
-
-### <font color="brown">cos'è una **frazione algebrica**</font>
-
-> <font color="red">Si tratta di una **divisione** tra polinomi, espressa sottoforma di frazione.</font>
->
->_esempio:_ $\(x+1) : (x^2-1)$
-
-$$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
-
-- Il *dividendo* prende il nome di <font color="brown">**numeratore**</font>
-- Il *divisore* prende il nome di <font color="brown">**denominatore**</font>
-
----
-
-## Condizioni di Esistenza
-
-- Esiste un **condizione** indispensabile per poter lavorare con le **frazioni algebriche**:
-
-- <font color="red">Il **denominatore** non può **mai** essere nullo</font>
-
-## $$\dfrac{N(x)}{D(x)} \Rightarrow D(x) \neq 0$$
-
----
+{{< slide transition="convex" >}}
 
 ## <font color="brown">Le tre cose da fare</font>
 
@@ -76,12 +56,16 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 4. semplificare, se possibile
 
 ---
+{{< slide transition="convex" >}}
 
 ## Riduzione di frazioni algebriche allo stesso denominatore
 
 ><font color="brown">Per ridurre più frazioni allo stesso denominatore, bisogna trasformarle in frazioni **equivalenti** aventi tutte lo stesso denominatore (**M.C.D.** minimo comune denominatore).</font>
 
 ---
+{{< slide transition="convex" >}}
+
+<section>
 
 ### Il procedimento
 
@@ -101,6 +85,8 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 - determiniamo le **condizioni di esistenza**, C.E.
   - poniamo il denominatore **uguale a zero** determinare per quali valori di $x$ il **denominatore si annulla**:
   - $D(x)=0 \rightarrow x - 1 = 0 \Rightarrow x=1$
+
+</section>
 
 ---
 
@@ -148,7 +134,7 @@ $$D(X) \neq 0$$
 
 $$\dfrac{3+5}{3} \neq \dfrac{5}{3} \qquad  \dfrac{2x^2 -3y}{4x^4} \neq \dfrac{1 -3y}{2x^2}$$
 
----
+--
 
 ## Due regole d'oro
 
@@ -162,7 +148,7 @@ $$\dfrac{3+5}{3} \neq \dfrac{5}{3} \qquad  \dfrac{2x^2 -3y}{4x^4} \neq \dfrac{1 
 
 </section>
 
----
+--
 
 <section>
 

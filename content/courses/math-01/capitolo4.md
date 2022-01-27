@@ -27,18 +27,52 @@ weight: 40
 
 {{% callout note %}}
 
-**definizione**: Relazione
+**definizione**: Relazione $\mathcal{R}$
 
 - Si dice **frazione decimale** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
 
 {{% /callout %}}
 
-## Frazioni  e  numeri  decimali
+{{% callout note %}}
 
-## Proporzioni
+**definizione**: Dominio $\mathcal{R}$
 
-## percentuali
+- Si dice **Dominio** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
 
-## L’insieme  dei  numeri  reali
+{{% /callout %}}
 
-## Calcolo  approssimato
+{{% callout note %}}
+
+**definizione**: Codominio $\mathcal{R}$
+
+- Si dice **Codominio** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
+
+{{% /callout %}}
+
+### 2. Rappresentazione di una Relazione
+
+### 3. Relazione Inversa Proporzioni
+
+{{% callout alert %}}
+
+**definizione**: Codominio $\mathcal{R}$
+
+- Si dice **Codominio** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
+
+{{% /callout %}}
+
+## Relazioni in un insieme e loro proprietà
+
+### 4. Relazioni in un insieme
+
+{{% callout note %}}
+
+**definizione**: Codominio $\mathcal{R}$
+
+- Si dice **Codominio** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
+
+{{% /callout %}}
+
+### 5. Proprietà riflessiva, simmetrica e transitiva
+
+### 6. Proprietà antiriflessiva e antisimmetrica

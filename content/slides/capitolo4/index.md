@@ -13,22 +13,20 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
 ---
-{{< slide background-image="https://source.unsplash.com/1920x1080/?blurred" >}}
 
 ## <font color="MidnightBlue">Relazioni e Funzioni</font>
 
-### - *Capitolo 4* -
+### - *ripasso* -
 
 <br>
 
 *prof. **diego fantinelli***
 
-ITIS "E. Fermi" - Bassano del Grappa
+*ITIS "E. Fermi" - Bassano del Grappa*
 
-_scadenza: **30 febbraio 2022**_
+_data: **30 ottobre 2021**_
 
 ---
-{{< slide background-image="cap_4.jpg" >}}
 
 ## prerequisiti
 
@@ -41,7 +39,29 @@ _scadenza: **30 febbraio 2022**_
   - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
 
 ---
-{{< slide transition="convex" >}}
+
+### <font color="brown">cos'è una **frazione algebrica**</font>
+
+> <font color="red">Si tratta di una **divisione** tra polinomi, espressa sottoforma di frazione.</font>
+>
+>_esempio:_ $\(x+1) : (x^2-1)$
+
+$$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
+
+- Il *dividendo* prende il nome di <font color="brown">**numeratore**</font>
+- Il *divisore* prende il nome di <font color="brown">**denominatore**</font>
+
+---
+
+## Condizioni di Esistenza
+
+- Esiste un **condizione** indispensabile per poter lavorare con le **frazioni algebriche**:
+
+- <font color="red">Il **denominatore** non può **mai** essere nullo</font>
+
+## $$\dfrac{N(x)}{D(x)} \Rightarrow D(x) \neq 0$$
+
+---
 
 ## <font color="brown">Le tre cose da fare</font>
 
@@ -56,16 +76,12 @@ _scadenza: **30 febbraio 2022**_
 4. semplificare, se possibile
 
 ---
-{{< slide transition="convex" >}}
 
 ## Riduzione di frazioni algebriche allo stesso denominatore
 
 ><font color="brown">Per ridurre più frazioni allo stesso denominatore, bisogna trasformarle in frazioni **equivalenti** aventi tutte lo stesso denominatore (**M.C.D.** minimo comune denominatore).</font>
 
 ---
-{{< slide transition="convex" >}}
-
-<section>
 
 ### Il procedimento
 
@@ -74,6 +90,77 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 1. si semplificano le frazioni date;
 2. le frazioni così ottenute sono quelle a cui si applicano direttamente i passaggi successivi;
 3. il denominatore comune cercato (*minimo comune denominatore*) è il **mcm** dei denominatori;
+
+---
+
+### esempio 1
+
+- fattorizziamo e semplifichiamo:
+  - $\dfrac{(x+1)}{(x^2-1)} = \dfrac{(x+1)}{(x+1)(x-1)} = \color{red}{\dfrac{1}{(x-1)}}$
+
+- determiniamo le **condizioni di esistenza**, C.E.
+  - poniamo il denominatore **uguale a zero** determinare per quali valori di $x$ il **denominatore si annulla**:
+  - $D(x)=0 \rightarrow x - 1 = 0 \Rightarrow x=1$
+
+---
+
+### scriviamo correttamente la soluzione
+
+- Condizioni di esistenza:
+  - $C.E.: x \neq 1$
+
+- Insieme di Definizione:
+  - $IdD = \overbrace{\\{ \forall x \in \mathbb{R} : x \neq 1 \\}}^{insieme \\, di \\, definizione}$
+
+{{< speaker_note >}}
+
+- Mentre le CE rappresentano le soluzioni di un'equazione
+
+$$D(X) \neq 0$$
+
+- l'IdD rappresenta un **insieme** in futuro l'IdD verrà chiamato anche **Dominio**
+{{< /speaker_note >}}
+
+---
+
+### questi li facciamo alla lavagna...
+
+- $$\dfrac{3x+15}{x^2 - 25}$$
+
+- $$\dfrac{2 x^{4}-18}{(x-1)(2 x-3)-(x-2)(x-3)}$$
+
+- $$\dfrac{x}{x+2}-\dfrac{8}{x^{2}-4}+\dfrac{2}{x-2}$$
+
+- $$-\dfrac{10}{x-2}+\dfrac{x+2}{x}+\dfrac{2}{3 x^{2}-x}$$
+
+---
+
+<section>
+
+## errori gravi
+
+> Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+
+---
+
+- nella frazione $\dfrac{a+b}{b}$ non è possibile operare alcuna semplificazione; infatti $b$ è un fattore per il denominatore, ma è un addendo per il numeratore!
+- Analogamente, nella frazione $\dfrac{a+x}{a+y}$ non è possibile semplificare per $a$: infatti il monomio $a$ è un addendo per entrambi i termini della frazione, non un fattore
+
+$$\dfrac{3+5}{3} \neq \dfrac{5}{3} \qquad  \dfrac{2x^2 -3y}{4x^4} \neq \dfrac{1 -3y}{2x^2}$$
+
+--
+
+## Due regole d'oro
+
+### 1. **fattorizzare** i **denominatori**
+
+#### $\Rightarrow$ serve a calcolare il *minimo comun denominatore*
+
+### 2. **sviluppare** i **numeratori**
+
+#### $\Rightarrow$ serve a semplificare i monomi simili
+
+</section>
 
 --
 
@@ -91,9 +178,9 @@ $$P(x) = 0$$
 
 ---
 
-### Vi sblocco un ricordo
+### Vi sblocco un ricordo...
 
-Principi di equivalenza
+**Principi di equivalenza**
 
 1. **primo principio**: afferma che **sommando algebricamente** ad entrambi i membri di una equazione, uno **stesso numero** o una **stessa espressione contenente l'incognita**, otteniamo una equazione **equivalente** a quella data.
 

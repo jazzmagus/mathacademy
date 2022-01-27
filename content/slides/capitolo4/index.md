@@ -75,6 +75,20 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 2. le frazioni così ottenute sono quelle a cui si applicano direttamente i passaggi successivi;
 3. il denominatore comune cercato (*minimo comune denominatore*) è il **mcm** dei denominatori;
 
+--
+
+<section>
+
+## Uno sguardo alle equazioni lineari intere
+
+- Sono del tipo:
+
+$$P(x) = 0$$
+
+- con $P(x)$ un Polinomio in $x$ di grado $n$
+
+### $$x^2 + 5x + 6 = 0$$
+
 ---
 
 ### Vi sblocco un ricordo
@@ -115,7 +129,9 @@ $$\Rightarrow x = \dfrac{2}{5}$$
 
 ---
 
-### equazioni/disequazioni mindmap
+#### equazioni/disequazioni mindmap
+
+![mindmap](equazioni_mindmap.png)
 
 ---
 

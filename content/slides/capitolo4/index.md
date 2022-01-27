@@ -8,7 +8,7 @@ date: "2020-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: serif
-  transitions: convex
+  transition: convex
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
@@ -25,7 +25,7 @@ slides:
 
 *ITIS "E. Fermi" - Bassano del Grappa*
 
-_data: **30 febbraio 2022**_
+_scadenza: **30 febbraio 2022**_
 
 ---
 {{< slide background-image="cap_4.jpg" >}}

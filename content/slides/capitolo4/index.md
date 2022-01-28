@@ -91,11 +91,9 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 
 ---
 
-{{< slide background-image="heart_banner_black.jpeg" >}}
+{{< slide background-image="ekg-heart-rate.gif" >}}
 
 <h2 style="color:#8A4117" class="r-fit-text">esempi di funzione... nella realtà</h2>
-
-<img src="heart.png" width="400">
 
 </section>
 

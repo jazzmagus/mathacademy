@@ -18,8 +18,10 @@ slides:
 
 <section>
 
-<h2 style="color:#8A4117" class="r-fit-text">RELAZIONI e</h2>
+<h2 style="color:#3B2F2F" class="r-fit-text">RELAZIONI e</h2>
 <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
+
+<img src="gear.png" width="400">
 
 ---
 
@@ -29,15 +31,18 @@ slides:
 
 ## <font color="#8A4117">Relazioni e Funzioni</font>
 
-### - *Capitolo 4* -
+### - *Rif.: Capitolo 4* -
+
+<img class="fragment" src="gear.png" width="200">
 
 <br>
 
+<br>
+
+
 *prof. **diego fantinelli***
 
-*ITIS "E. Fermi" - Bassano del Grappa*
-
-_data: **30 ottobre 2021**_
+*ITIS "E. Fermi" - Bassano del Grappa - biennio*
 
 ---
 {{< slide transition= "convex" >}}
@@ -54,16 +59,22 @@ _data: **30 ottobre 2021**_
 
 ---
 
-### <font color="brown">cos'è una **frazione algebrica**</font>
+<section data-transition="convex">
 
-> <font color="red">Si tratta di una **divisione** tra polinomi, espressa sottoforma di frazione.</font>
->
->_esempio:_ $\(x+1) : (x^2-1)$
+<h2 style="color:#8A4117">cos'è una Relazione $\mathcal{R}$</h2>
+
+{{% callout warning %}}
+
+<h3 style="color:#8A4117">definizione:</h3>
+
+- Si dice **Codominio** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
 
 $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
 
-- Il *dividendo* prende il nome di <font color="brown">**numeratore**</font>
-- Il *divisore* prende il nome di <font color="brown">**denominatore**</font>
+{{% /callout %}}
+
+<h5 style="color:#8A4117" class="fragment"> - Il <b>dividendo</b> prende il nome di numeratore</h5>
+<h5 class="fragment" style="color:#8A4117"> - Il <b>divisore</b> prende il nome di denominatore</h5>
 
 ---
 
@@ -83,14 +94,13 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 
 ---
 
-### esempio 1
+<h2 style="color:#8A4117" class="r-fit-text">esempi di funzione... nella realtà</h2>
 
-- fattorizziamo e semplifichiamo:
-  - $\dfrac{(x+1)}{(x^2-1)} = \dfrac{(x+1)}{(x+1)(x-1)} = \color{red}{\dfrac{1}{(x-1)}}$
+<img src="heart_banner.png" width="100%">
 
-- determiniamo le **condizioni di esistenza**, C.E.
-  - poniamo il denominatore **uguale a zero** determinare per quali valori di $x$ il **denominatore si annulla**:
-  - $D(x)=0 \rightarrow x - 1 = 0 \Rightarrow x=1$
+<img src="heart.png" width="400">
+
+</section>
 
 ---
 
@@ -98,7 +108,9 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 
 ## errori gravi
 
-> Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+
+<img src="heart.png" style="color:" width="300">
 
 ---
 
@@ -115,10 +127,16 @@ $$P(x) = 0$$
 </section>
 
 ---
+
+<section data-transition="convex">
+
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <h2 style="color:#8A4117" class="r-fit-text">DOMANDE?</h2>
+
 <h2 style="color:#8A4117" class="fragment">Buon lavoro!</h2>
+
+</section>
 
 ---
 

@@ -16,12 +16,13 @@ slides:
 
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
-<section>
+<section data-transition="convex">
 
-<h2 style="color:#3B2F2F" class="r-fit-text">RELAZIONI e</h2>
+<h2 style="color:#3B2F2F" class="r-fit-text">RELAZIONI</h2>
+
 <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
 
-<img src="gear.png" width="400">
+<img src="gear.png" style="opacity:0.6;filter:alpha(opacity=40);" width="400">
 
 ---
 
@@ -33,16 +34,18 @@ slides:
 
 ### - *Rif.: Capitolo 4* -
 
-<img class="fragment" src="gear.png" width="200">
+<img class="fragment" src="gear.png" width="300">
 
 <br>
 
 <br>
 
+<br>
 
 *prof. **diego fantinelli***
 
-*ITIS "E. Fermi" - Bassano del Grappa - biennio*
+*ITI "Enrico Fermi" - Bassano del Grappa *<br>
+<font color="#8A4117">*matematica per il biennio*</font>
 
 ---
 {{< slide transition= "convex" >}}
@@ -61,7 +64,7 @@ slides:
 
 <section data-transition="convex">
 
-<h2 style="color:#8A4117">cos'è una Relazione $\mathcal{R}$</h2>
+<h2 style="color:#8A4117">Relazioni $\mathcal{R}$</h2>
 
 {{% callout warning %}}
 
@@ -128,7 +131,7 @@ $$P(x) = 0$$
 
 ---
 
-<section data-transition="convex">
+<section data-transition="zoom">
 
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 

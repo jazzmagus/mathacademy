@@ -38,10 +38,6 @@ slides:
 
 <br>
 
-<br>
-
-<br>
-
 *prof. **diego fantinelli***
 
 *ITI "Enrico Fermi" - Bassano del Grappa *<br>

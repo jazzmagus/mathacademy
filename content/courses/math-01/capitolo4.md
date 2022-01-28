@@ -17,7 +17,7 @@ weight: 40
 
 > ☆ **scadenza**: 28 febbraio 2022
 
-![ex2_img](heart_banner.jpg)
+![ex2_img](heart_banner.png)
 
 ## Relazioni tra due insiemi
 

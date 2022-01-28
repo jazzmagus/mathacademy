@@ -17,7 +17,7 @@ weight: 40
 
 > ☆ **scadenza**: 28 febbraio 2022
 
-![ex2_img](heart_banner.png)
+{{< figure src="../heart_banner_black.jpeg" caption="Figura 1. ECG - elettrocardiogramma" theme="dark" >}}
 
 ## Relazioni tra due insiemi
 

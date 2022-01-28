@@ -22,7 +22,7 @@ slides:
 
 <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
 
-<img src="gear.png" style="opacity:0.6;filter:alpha(opacity=40);" width="400">
+<img src="gear.png" style="opacity:0.6;filter:alpha(opacity=40);" width="200">
 
 ---
 
@@ -34,9 +34,7 @@ slides:
 
 ### - *Rif.: Capitolo 4* -
 
-<img class="fragment" src="gear.png" width="300">
-
-<br>
+<img class="fragment" src="gear.png" width="200">
 
 *prof. **diego fantinelli***
 
@@ -93,9 +91,9 @@ E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denomi
 
 ---
 
-<h2 style="color:#8A4117" class="r-fit-text">esempi di funzione... nella realtà</h2>
+{{< slide background-image="heart_banner_black.jpeg" >}}
 
-<img src="heart_banner.png" width="100%">
+<h2 style="color:#8A4117" class="r-fit-text">esempi di funzione... nella realtà</h2>
 
 <img src="heart.png" width="400">
 

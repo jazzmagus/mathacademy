@@ -81,13 +81,13 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 
 ---
 
-### Il procedimento
+### La funzione Happiness
 
 E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denominatore:
 
-1. si semplificano le frazioni date;
-2. le frazioni così ottenute sono quelle a cui si applicano direttamente i passaggi successivi;
-3. il denominatore comune cercato (*minimo comune denominatore*) è il **mcm** dei denominatori;
+<p class="r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
+
+<img class="fragment" src="ecg_01.png" width="400">
 
 ---
 

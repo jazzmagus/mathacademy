@@ -1,6 +1,6 @@
 ---
 title: Example Project
-summary: An example of using the in-built project page.
+summary: Lezione simulata per la C.d.c. A26 - MATEMATICA
 tags:
 - Deep Learning
 date: "2016-04-27T00:00:00Z"

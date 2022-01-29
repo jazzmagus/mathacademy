@@ -22,7 +22,7 @@ slides:
 
 <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
 
-<img src="gear.png" style="opacity:0.6;filter:alpha(opacity=40);" width="200">
+<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
 
 ---
 
@@ -75,43 +75,49 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 
 ---
 
-## Riduzione di frazioni algebriche allo stesso denominatore
+{{< slide background-image="calm_bkg.jpg" data-background-opacity="6">}}
 
-><font color="brown">Per ridurre più frazioni allo stesso denominatore, bisogna trasformarle in frazioni **equivalenti** aventi tutte lo stesso denominatore (**M.C.D.** minimo comune denominatore).</font>
-
----
-
-### La funzione Happiness
-
-E' analogo a quello usato per ridurre più frazioni numeriche allo stesso denominatore:
+## La funzione Happiness
 
 <p class="r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
 
-<img class="fragment" src="ecg_01.png" width="400">
-
----
-
-{{< slide background-image="heart_banner_black.jpeg" >}}
-
-<h2 style="color:#F3E5AB" class="r-fit-text">esempi di funzione</h2>
-
-<h2 style="color:#F3E5AB" class="r-fit-text">nella vita reale</h2>
+<p>
+<ul style="font-size:80%;">
+  <li>$t$; $w_0$, $w_1$, $w_2$ e $w_3$ sono costanti che indicano l’influenza dei diversi tipi di eventi;</li>
+  <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
+  <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
+  <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
+  <li>$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
+</ul>
+</p>
 
 </section>
 
----
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
+
+<h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
+
+<h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
+
+<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
+
+</section>
 
 <section data-transition="convex">
 
-## errori gravi
+## L'ECG - elettrocardiogramma
 
 Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
 
 <img src="heart.png" style="color:" width="300">
 
+</section>
+
 ---
 
-## Uno sguardo alle equazioni lineari intere
+<section data-background-video="ooo.mp4" data-background-opacity="0.7" data-transition="convex">
+
+## Destinatari: la classe
 
 - Sono del tipo:
 

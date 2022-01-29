@@ -15,9 +15,11 @@ menu:
 weight: 40
 ---
 
-> ☆ **scadenza**: 28 febbraio 2022
+<a href="../capitolo4.pdf">PDF</a>
 
-{{< figure src="../heart_banner_black.jpeg" caption="Figura 1. ECG - elettrocardiogramma" theme="dark" >}}
+> ☆ **scadenza**: 20 febbraio 2022 $\longrightarrow$ **verifica**
+
+{{< figure src="../ecg-gif.gif" caption="Figura 1. ECG - elettrocardiogramma" theme="dark" width="100%">}}
 
 ## Relazioni tra due insiemi
 

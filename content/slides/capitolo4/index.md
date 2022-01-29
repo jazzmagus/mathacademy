@@ -42,7 +42,8 @@ slides:
 <font color="#8A4117">*matematica per il biennio*</font>
 
 ---
-{{< slide transition= "convex" >}}
+
+<section data-transition="convex">
 
 ## prerequisiti
 
@@ -54,7 +55,7 @@ slides:
 
   - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
 
----
+</section>
 
 <section data-transition="convex">
 
@@ -100,6 +101,32 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 <h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
 
 <img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
+
+</section>
+
+<section>
+
+<table>
+  <tr>
+    <td><h3>Competenza</h3></td>
+    <td>Descrizione</td>
+  </tr>
+  <tr>
+    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
+    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
+  </tr>
+</table>
+
+</section>
+
+<section>
+
+<h2>Tabella Competenze</h2>
+
+<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
+<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
+<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
+<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
 
 </section>
 

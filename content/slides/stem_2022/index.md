@@ -17,21 +17,15 @@ slides:
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <section data-transition="convex">
-
-<img src="miur.png" width="200">
-
-<h2 style="color:#3B2F2F" class="r-fit-text">CONCORSO 2022</h2>
-
-<h2 style="color:#8A4117" class="r-fit-text">STEM A26</h2>
-
-<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="500">
-
+  <img src="miur.png" style="opacity:0.6;filter:alpha(opacity=60);" width="300">
+  <h2 style="color:#3B2F2F" class="r-fit-text">CONCORSO 2022</h2>
+  <h2 style="color:#8A4117" class="r-fit-text">STEM A26</h2>
 </section>
 
 <section data-transition="convex">
+<img src="miur.png" style="opacity:0.6;filter:alpha(opacity=60);" width="300">
 
 ## <font color="#8A4117">Relazioni e Funzioni</font>
-
 ### - *Rif.: Capitolo 4* -
 
 <img class="fragment" src="ecg_01.png" width="300">
@@ -39,10 +33,7 @@ slides:
 *prof. **diego fantinelli***
 
 <p>ITI "Enrico Fermi" - Bassano del Grappa</p>
-<br>
-
-<font color="#8A4117">*matematica per il biennio*</font>
-
+<p style="color:#8A4117"><em>matematica per il biennio</em></p>
 </section>
 
 ---
@@ -97,7 +88,7 @@ slides:
 
 ---
 
-<section data-background-image="https://source.unsplash.com/1920x1080/?white" data-background-opacity="0.5" data-transition="zoom">
+<section data-background-image="https://source.unsplash.com/1920x1080/?white" data-background-opacity="0.5" data-transition="zoom-in">
   <h2 style="color:#3B2F2F" class="r-fit-text">La lezione</h2>
   <h2 class="fragment zoom-in" style="color:#3B2F2F" class="r-fit-text">programmazione</h2>
 

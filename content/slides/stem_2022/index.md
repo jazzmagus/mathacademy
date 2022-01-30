@@ -20,9 +20,9 @@ slides:
 
 <img src="miur.png" width="200">
 
-<h2 style="color:#3B2F2F" class="r-fit-text">RELAZIONI</h2>
+<h2 style="color:#3B2F2F" class="r-fit-text">CONCORSO 2022</h2>
 
-<h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
+<h2 style="color:#8A4117" class="r-fit-text">STEM A26</h2>
 
 <img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="500">
 
@@ -38,7 +38,9 @@ slides:
 
 *prof. **diego fantinelli***
 
-*ITI "Enrico Fermi" - Bassano del Grappa *<br>
+<p>ITI "Enrico Fermi" - Bassano del Grappa</p>
+<br>
+
 <font color="#8A4117">*matematica per il biennio*</font>
 
 </section>
@@ -47,9 +49,14 @@ slides:
 
 <section data-background-video="ooo.mp4" data-background-opacity="0.7" data-transition="convex">
 
-## Destinatari: la classe
-
+<h2 style="color:#3B2F2F" class="r-fit-text">Destinatari:</h2>
+<h2 style="color:#3B2F2F">La classe</h2>
+<br>
 <table class="fragment fade-in">
+  <tr>
+    <td><b>cosa</b></td>
+    <td><b>descrizione</b></td>
+  </tr>
   <tr>
     <td><b>conoscenze</b></td>
     <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>

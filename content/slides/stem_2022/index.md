@@ -18,33 +18,109 @@ slides:
 
 <section data-transition="convex">
 
+<img src="miur.png" width="200">
+
 <h2 style="color:#3B2F2F" class="r-fit-text">RELAZIONI</h2>
 
 <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
 
-<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
-
----
+<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="500">
 
 </section>
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+<section data-transition="convex">
 
 ## <font color="#8A4117">Relazioni e Funzioni</font>
 
 ### - *Rif.: Capitolo 4* -
 
-<img class="fragment" src="gear.png" width="200">
+<img class="fragment" src="ecg_01.png" width="300">
 
 *prof. **diego fantinelli***
 
 *ITI "Enrico Fermi" - Bassano del Grappa *<br>
 <font color="#8A4117">*matematica per il biennio*</font>
 
----
-{{< slide transition= "convex" >}}
+</section>
 
-## prerequisiti
+---
+
+<section data-background-video="ooo.mp4" data-background-opacity="0.7" data-transition="convex">
+
+## Destinatari: la classe
+
+<table class="fragment fade-in">
+  <tr>
+    <td><b>conoscenze</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+   <tr>
+    <td><b>abilità</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+  <tr>
+    <td><b>competenze</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+</table>
+
+</section>
+
+<section data-auto-animate>
+
+<h2>Competenze</h2>
+
+<ul style="font-size:90%;">
+  <li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+  <li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+  <li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+  <li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+</ul>
+</section>
+
+<section data-auto-animate>
+<h2>Tabella Competenze</h2>
+<ul style="font-size:90%">
+  <li style="color:#C04000" font-size:90%>la gratificazione ottenuta dalla scelta su un processo $j$</li>
+  <li>la gratificazione ottenuta dalla scelta su un processo $j$</li>
+  <li style="color:#C04000">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+  <li>la gratificazione ottenuta dalla scelta su un processo $j$</li>
+</ul>
+</section>
+
+---
+
+<section data-background-image="https://source.unsplash.com/1920x1080/?white" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="color:#3B2F2F" class="r-fit-text">La lezione</h2>
+  <h2 class="fragment zoom-in" style="color:#3B2F2F" class="r-fit-text">programmazione</h2>
+
+<table class="fragment fade-in" style="font-size:85%">
+  <tr>
+    <td><b>tempi</b></td>
+    <td><b>attività</b></td>
+  </tr>
+  <tr>
+    <td><b>20 min</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+  <tr>
+    <td><b>2h</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+  <tr>
+    <td><b>1h</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+  <tr>
+    <td><b>competenze</b></td>
+    <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+  </tr>
+</table>
+</section>
+
+<section style="color:#E6BF83" data-transition="convex">
+
+<h2 style="color:#E6BF83">prerequisiti</h2>
 
 - **Fattorizzazione polinomiale**
 
@@ -53,6 +129,36 @@ slides:
 - **mcm** tra polinomi
 
   - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
+
+</section>
+
+<section style="color:#E6BF83" data-transition="convex">
+
+<h2 style="color:#E6BF83">introduzione</h2>
+
+- **Fattorizzazione polinomiale**
+
+  - indispensabile per poter semplificare una *frazione algebrica*
+
+- **mcm** tra polinomi
+
+  - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
+
+</section>
+
+<section style="color:#E6BF83" data-transition="convex">
+
+<h2 style="color:#E6BF83">Verifica delle competenze</h2>
+
+- **Fattorizzazione polinomiale**
+
+  - indispensabile per poter semplificare una *frazione algebrica*
+
+- **mcm** tra polinomi
+
+  - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
+
+</section>
 
 ---
 
@@ -75,68 +181,34 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 
 ---
 
-{{< slide background-image="calm_bkg.jpg" data-background-opacity="6">}}
+{{< slide background-image="calm_bkg.jpg" data-background-opacity="6" >}}
 
 ## La funzione Happiness
 
 <p class="r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
-
-<p>
-<ul style="font-size:80%;">
-  <li>$t$; $w_0$, $w_1$, $w_2$ e $w_3$ sono costanti che indicano l’influenza dei diversi tipi di eventi;</li>
-  <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
-  <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
-  <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
-  <li>$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
-</ul>
-</p>
-
+  <p>
+  <ul style="font-size:80%;">
+    <li>$t$; $w_0$, $w_1$, $w_2$ e $w_3$ sono costanti che indicano l’influenza dei diversi tipi di eventi;</li>
+    <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
+    <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
+    <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
+    <li>$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
+  </ul>
+  </p>
 </section>
 
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-
-<h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
-
-<h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
-
-<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
-
-</section>
-
-<section data-transition="convex">
-
-## L'ECG - elettrocardiogramma
-
-Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
-
-<img src="heart.png" style="color:" width="300">
-
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
+  <h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
+  <img class="fragment zoom-in" src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
 </section>
 
 ---
-
-<section data-background-video="ooo.mp4" data-background-opacity="0.7" data-transition="convex">
-
-## Destinatari: la classe
-
-- Sono del tipo:
-
-$$P(x) = 0$$
-
-- con $P(x)$ un Polinomio in $x$ di grado $n$
-
-### $$x^2 + 5x + 6 = 0$$
-
-</section>
-
----
+{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <section data-transition="zoom">
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
-
 <h2 style="color:#8A4117" class="r-fit-text">DOMANDE?</h2>
-
 <h2 style="color:#8A4117" class="fragment">Buon lavoro!</h2>
 
 </section>

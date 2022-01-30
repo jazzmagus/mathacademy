@@ -123,10 +123,14 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 
 <h2>Tabella Competenze</h2>
 
-<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
-<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
-<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
-<p class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</p>
+<p>
+<ul style="font-size:90%;">
+<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
+</ul>
+</p>
 
 </section>
 

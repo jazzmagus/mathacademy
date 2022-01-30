@@ -17,62 +17,105 @@ slides:
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <section data-transition="convex">
-
-<h2 style="color:#3B2F2F" class="r-fit-text">RELAZIONI</h2>
-
-<h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
-
-<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
-
----
-
+  <h2 style="color:#3B2F2F" class="r-fit-text">Relazioni</h2>
+  <h2 style="color:#3B2F2F">e</h2>
+  <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
 </section>
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+<section data-transition="convex">
+<h2 style="color:#3B2F2F" class="r-fit-text">Relazioni e Funzioni</h2>
+<h3 style="color:#3B2F2F"><em>- Rif.: Capitolo 4 -</em></h3>
 
-## <font color="#8A4117">Relazioni e Funzioni</font>
+<img src="ecg_01.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=100);" width="400">
 
-### - *Rif.: Capitolo 4* -
+<h4 style="color:#8A4117"><em>prof. diego fantinelli</em></h4>
 
-<img class="fragment" src="gear.png" width="200">
-
-*prof. **diego fantinelli***
-
-*ITI "Enrico Fermi" - Bassano del Grappa *<br>
-<font color="#8A4117">*matematica per il biennio*</font>
+<p>ITI "Enrico Fermi" - Bassano del Grappa</p>
+<p style="color:#8A4117"><em>matematica per il biennio</em></p>
+</section>
 
 ---
 
 <section data-transition="convex">
+  <h2 style="color:#3B2F2F" class="r-fit-text">Prerequisiti</h2>
 
-## prerequisiti
-
-- **Fattorizzazione polinomiale**
-
-  - indispensabile per poter semplificare una *frazione algebrica*
-
-- **mcm** tra polinomi
-
-  - per potersi riportare alla **forma normale** di una *frazione algebrica*: $\frac{N(x)}{D(x)}$
-
+  <ul class="fragment">
+  <li class="fragment"><h3 style="color:#8A4117">teoria degli insiemi</h3></li>
+    <ul class="fragment">
+      <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
+      <li>Prodotto Cartesiano: definizione e rappresentazione</li>
+    </ul>
+  <hr class="fragment" style="height:2px;border-width:0;color:gray;background-color:gray">
+  <li class="fragment"><h3 style="color:#8A4117">la gratificazione ottenuta dalla $j$</h3></li>
+    <ul class="fragment">
+      <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
+      <li>Prodotto Cartesiano: definizione e rappresentazione</li>
+    </ul>
+  </ul>
 </section>
 
+---
+
 <section data-transition="convex">
-
-<h2 style="color:#8A4117">Relazioni $\mathcal{R}$</h2>
-
-{{% callout warning %}}
-
+<h2 style="color:#8A4117" class="r-fit-text">Relazione $\mathcal{R}$</h2>
 <h3 style="color:#8A4117">definizione:</h3>
 
-- Si dice **Codominio** ogni frazione che ha per denominatore una potenza di $10$ con **esponente positivo**.
+<q class="fragment" style="color:#C04000">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
+<ul class="fragment">
+  <li>Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
+</ul>
+</q>
 
-$$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} \rightarrow \dfrac{x+1}{x^2 -1}$$
+<p class="fragment">In generale si scrive:
+$$\mathcal{R}: A \longrightarrow B$$
+$$\mathcal{R}: a \in A \longrightarrow b \in B$$
+</p>
+</section>
 
-{{% /callout %}}
+<section>
+<table>
+  <tr>
+    <td><h3>Competenza</h3></td>
+    <td>Descrizione</td>
+  </tr>
+  <tr>
+    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
+    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
+  </tr>
+</table>
+</section>
 
-<h5 style="color:#8A4117" class="fragment"> - Il <b>dividendo</b> prende il nome di numeratore</h5>
-<h5 class="fragment" style="color:#8A4117"> - Il <b>divisore</b> prende il nome di denominatore</h5>
+---
+
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+
+<h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
+<h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
+
+<img src="ecg_01.png" style="opacity:0.8;filter:alpha(opacity=40);" width="600">
+
+</section>
+
+<section data-transition="convex">
+
+<h2 style="background-color:powderblue;">l'elettrocardiogramma</h2>
+<q style="background-color:#F3E5AB;">Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+</q>
+
+<img src="heart.png" style="color:" width="300">
+
+</section>
+
+---
+
+<h2>About blockquote  element</h2>
+<p>Here is a quote from goodreads website:</p>
+<blockquote style="background-color:powderblue;">
+You've gotta dance like there's nobody watching,<br>
+Love like you'll never be hurt,<br>
+Sing like there's nobody listening,<br>
+And live like it's heaven on earth.<br>
+</blockquote>
 
 ---
 
@@ -91,74 +134,6 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
   <li>$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
 </ul>
 </p>
-
-</section>
-
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="convex">
-
-<h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
-
-<h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
-
-<img src="ecg_01.png" style="opacity:0.6;filter:alpha(opacity=40);" width="600">
-
-</section>
-
-<section>
-
-<table>
-  <tr>
-    <td><h3>Competenza</h3></td>
-    <td>Descrizione</td>
-  </tr>
-  <tr>
-    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
-    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
-  </tr>
-</table>
-
-</section>
-
-<section>
-
-<h2>Tabella Competenze</h2>
-
-<p>
-<ul style="font-size:90%;">
-<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
-<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
-<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
-<li class="fragment fade-in-then-semi-out">la gratificazione ottenuta dalla scelta su un processo $j$</li>
-</ul>
-</p>
-
-</section>
-
-<section data-transition="convex">
-
-## L'ECG - elettrocardiogramma
-
-Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
-
-<img src="heart.png" style="color:" width="300">
-
-</section>
-
----
-
-<section data-background-video="ooo.mp4" data-background-opacity="0.7" data-transition="convex">
-
-## Destinatari: la classe
-
-- Sono del tipo:
-
-$$P(x) = 0$$
-
-- con $P(x)$ un Polinomio in $x$ di grado $n$
-
-### $$x^2 + 5x + 6 = 0$$
-
-</section>
 
 ---
 

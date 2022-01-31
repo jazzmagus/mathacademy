@@ -36,6 +36,8 @@ slides:
 
 ---
 
+{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+
 <section data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">Prerequisiti</h2>
 
@@ -43,24 +45,33 @@ slides:
   <li class="fragment"><h3 style="color:#8A4117">teoria degli insiemi</h3></li>
     <ul class="fragment">
       <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
+      <li>Operazioni insiemistiche</li>
       <li>Prodotto Cartesiano: definizione e rappresentazione</li>
     </ul>
   <hr class="fragment" style="height:2px;border-width:0;color:gray;background-color:gray">
   <li class="fragment"><h3 style="color:#8A4117">la gratificazione ottenuta dalla $j$</h3></li>
     <ul class="fragment">
       <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
-      <li>Prodotto Cartesiano: definizione e rappresentazione</li>
     </ul>
   </ul>
 </section>
 
 ---
 
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+
+<h2 style="color:#3B2F2F" class="r-fit-text">La lezione</h2>
+<h2 style="color:#8A4117; font-size: 100px;" class="r-fit-text; fragment">Relazioni e FUNZIONI</h2>
+
+<img src="ecg_01.png" style="opacity:1;filter:alpha(opacity=40);" width="500">
+
+</section>
+
 <section data-transition="convex">
 <h2 style="color:#8A4117" class="r-fit-text">Relazione $\mathcal{R}$</h2>
-<h3 style="color:#8A4117">definizione:</h3>
+<h3 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h3>
 
-<q class="fragment" style="color:#C04000">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
+<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
 <ul class="fragment">
   <li>Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
 </ul>
@@ -70,6 +81,20 @@ slides:
 $$\mathcal{R}: A \longrightarrow B$$
 $$\mathcal{R}: a \in A \longrightarrow b \in B$$
 </p>
+</section>
+
+<section data-transition="convex">
+<h2 style="color:#8A4117" class="r-fit-text">FUNZIONE</h2>
+<h3 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h3>
+
+<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $X$ e $Y$, si dice **funzione** tra $X$ e $Y$, una **legge** che associa **ad ogni** elemento $x$ dell’insieme $X$ **uno e uno solo** elemento $y$ dell’insieme $Y$.</q>
+
+<p class="fragment">si scrive:
+$f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
+</p>
+<q class="fragment" style="color:#C04000;">Si legge: $f$ è una funzione che associa un elemento $x$ appartenente ad $X$ ad un elemento $y$ appartenente a $Y$.</q>
+<p class="fragment">oppure, nella forma più compatta:</p> 
+<p class="fragment" style="font-size:60px; color:#8A4117;">$y=f(x)$</p>
 </section>
 
 <section>
@@ -110,7 +135,7 @@ $$\mathcal{R}: a \in A \longrightarrow b \in B$$
 
 <h2>About blockquote  element</h2>
 <p>Here is a quote from goodreads website:</p>
-<blockquote style="background-color:powderblue;">
+<blockquote style="background-color:#F3E5AB;">
 You've gotta dance like there's nobody watching,<br>
 Love like you'll never be hurt,<br>
 Sing like there's nobody listening,<br>

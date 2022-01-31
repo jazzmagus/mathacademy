@@ -195,6 +195,43 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
   </p>
 </section>
 
+---
+
+<section data-auto-animate style="height: 600px">
+  <h2 style="opacity: 0.8; color:#3B2F2F; text-align:left; background: #FFFFCC;">teaching workflow</h2>
+  <h3 style="opacity: 0.8; color:#3B2F2F; text-align:left;">step 1: esposizione dei concetti chiave</h3>
+  <div data-id="1" style="background: #FFFFCC; position: absolute; top: 190px; left: 16%; width: 60px; height: 60px;"></div>
+  <div data-id="2" style="background: #FFFFCC; position: absolute; top: 190px; left: 36%; width: 60px; height: 60px;"></div>
+  <div data-id="3" style="background: #FFFFCC; position: absolute; top: 190px; left: 56%; width: 60px; height: 60px;"></div>
+  <div data-id="4" style="background: #FFFFCC; position: absolute; top: 190px; left: 76%; width: 60px; height: 60px;"></div>
+</section>
+<section data-auto-animate style="height: 600px">
+  <h3 style="font-size: 100px; opacity: 0.8; color:#3B2F2F; text-align:left; background: #FFFFCC;">teaching workflow: step 2</h3>
+  <h2 data-id="title" style="margin-top: 200px;">elaborazione dei concetti</h3>
+  <div data-id="1" style="background: #FFFFCC; position: absolute; bottom: 190px; left: 16%; width: 60px; height: 60px;"></div>
+  <div data-id="2" style="background: #C68E17; position: absolute; bottom: 190px; left: 36%; width: 60px; height: 160px;"></div>
+  <div data-id="3" style="background: #6F4E37; position: absolute; bottom: 190px; left: 56%; width: 60px; height: 260px;"></div>
+  <div data-id="4" style="background: #3B2F2F; position: absolute; bottom: 190px; left: 76%; width: 60px; height: 360px;"></div>
+</section>
+<section data-auto-animate style="height: 600px">
+  <h3 style="font-size: 100px; opacity: 0.8; color:#3B2F2F; text-align:left; background: #FFFFCC;">teaching workflow:: step 3</h3>
+  <h3 style="font-size: 120px; opacity: 0.6; color:#3B2F2F; margin-top: 100px;">step 3</h3>
+  <h2 data-id="title" style="margin-top: 200px;">unione dei concetti: esempi</h2>
+  <div data-id="1" style="background: #FFFFCC; position: absolute; top: 50%; left: 50%; width: 400px; height: 400px; margin: -200px 0 0 -200px; border-radius: 400px;"></div>
+  <div data-id="2" style="background: #C68E17; position: absolute; top: 50%; left: 50%; width: 300px; height: 300px; margin: -150px 0 0 -150px; border-radius: 400px;"></div>
+  <div data-id="3" style="background: #6F4E37; position: absolute; top: 50%; left: 50%; width: 200px; height: 200px; margin: -100px 0 0 -100px; border-radius: 400px;"></div>
+  <div data-id="4" style="background: #3B2F2F; position: absolute; top: 50%; left: 50%; width: 100px; height: 100px; margin: -50px 0 0 -50px; border-radius: 400px;"></div>
+</section>
+<section data-auto-animate style="height: 600px">
+  <h3 style="font-size: 100px; opacity: 0.8; color:#3B2F2F; text-align:left; background: #FFFFCC;">teaching workflow: step 4</h3>
+  <h3 style="font-size: 120px; opacity: 0.6; color:#3B2F2F; margin-top: 100px;">step 4</h3>
+  <h2 data-id="title" style="margin-top: 200px;">ridistribuzione delle competenze</h2>
+  <div data-id="1" style="background: #3B2F2F; position: absolute; top: 250px; left: 16%; width: 60px; height: 60px;"></div>
+  <div data-id="2" style="background: #6F4E37; position: absolute; top: 250px; left: 36%; width: 60px; height: 60px;"></div>
+  <div data-id="3" style="background: #C68E17; position: absolute; top: 250px; left: 56%; width: 60px; height: 60px;"></div>
+  <div data-id="4" style="background: #FFFFCC; position: absolute; top: 250px; left: 76%; width: 60px; height: 60px;"></div>
+</section>
+
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
   <h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>

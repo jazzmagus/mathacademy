@@ -196,7 +196,7 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 </section>
 
 ---
-
+<!--
 <section data-auto-animate style="height: 600px">
   <h2 style="opacity: 0.8; color:#3B2F2F; text-align:left; background: #FFFFCC;">teaching workflow</h2>
   <h3 style="opacity: 0.8; color:#3B2F2F; text-align:left;">step 1: esposizione dei concetti chiave</h3>
@@ -231,6 +231,7 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
   <div data-id="3" style="background: #C68E17; position: absolute; top: 250px; left: 56%; width: 60px; height: 60px;"></div>
   <div data-id="4" style="background: #FFFFCC; position: absolute; top: 250px; left: 76%; width: 60px; height: 60px;"></div>
 </section>
+-->
 
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>

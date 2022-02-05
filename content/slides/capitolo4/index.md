@@ -18,7 +18,7 @@ slides:
 
 <section data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">Relazioni</h2>
-  <h2 style="color:#3B2F2F">e</h2>
+  <img src="gear_00.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=50);" width="30%">
   <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
 </section>
 
@@ -26,7 +26,7 @@ slides:
 <h2 style="color:#3B2F2F" class="r-fit-text">Relazioni e Funzioni</h2>
 <h3 style="color:#3B2F2F"><em>- Rif.: Capitolo 4 -</em></h3>
 
-<img src="ecg_01.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=100);" width="400">
+<img src="ecg_01.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=100);" width="300">
 
 <h4 style="color:#8A4117"><em>prof. diego fantinelli</em></h4>
 
@@ -35,79 +35,145 @@ slides:
 </section>
 
 ---
-
+<!-- prerequisiti-->
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
-<section data-transition="convex">
+<section style="font-size:90%" data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">Prerequisiti</h2>
 
   <ul class="fragment">
+  <li class="fragment"><h3 style="color:#8A4117">insiemi numerici: </h3></li>
+    <ul class="fragment">
+      <li>Operazioni insiemistiche</li>
+      <li>Operazioni in $\mathbb{N}, \mathbb{Z}, \mathbb{Q}, \mathbb{R}$</li>
+    </ul>
+  <hr class="fragment" style="height:2px;border-width:0;color:gray;background-color:gray">
   <li class="fragment"><h3 style="color:#8A4117">teoria degli insiemi</h3></li>
     <ul class="fragment">
       <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
       <li>Operazioni insiemistiche</li>
       <li>Prodotto Cartesiano: definizione e rappresentazione</li>
     </ul>
-  <hr class="fragment" style="height:2px;border-width:0;color:gray;background-color:gray">
-  <li class="fragment"><h3 style="color:#8A4117">la gratificazione ottenuta dalla $j$</h3></li>
-    <ul class="fragment">
-      <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
-    </ul>
-  </ul>
 </section>
 
 ---
 
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-
-<h2 style="color:#3B2F2F" class="r-fit-text">La lezione</h2>
-<h2 style="color:#8A4117; font-size: 100px;" class="r-fit-text; fragment">Relazioni e FUNZIONI</h2>
-
-<img src="ecg_01.png" style="opacity:1;filter:alpha(opacity=40);" width="500">
-
+  <h2 style="color:#3B2F2F" class="r-fit-text">La lezione</h2>
+  <h2 style="color:#3B2F2F; font-size: 100px;" class="r-fit-text; fragment">Relazioni e FUNZIONI</h2>
+  <img src="ecg_01.png" style="opacity:0.6; filter:alpha(opacity=40);" width="300">
 </section>
 
-<section data-transition="convex">
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="zoom">
+<h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">una riflessione per iniziare...</h2>
+<blockquote class="fragment" style="font-size: 40px;">
+In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti. Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.<br>
+<em>(Giorgio Parisi)</em>
+</blockquote>
+
+</section> <!-- Relazione-->
+
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 <h2 style="color:#8A4117" class="r-fit-text">Relazione $\mathcal{R}$</h2>
 <h3 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h3>
 
-<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
+<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
 <ul class="fragment">
   <li>Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
 </ul>
 </q>
 
-<p class="fragment">In generale si scrive:
-$$\mathcal{R}: A \longrightarrow B$$
-$$\mathcal{R}: a \in A \longrightarrow b \in B$$
+<p class="fragment">In generale si scrive: $\mathcal{R}: A \longrightarrow B$<br>
+oppure: $\mathcal{R}: a \in A \longrightarrow b \in B$
 </p>
 </section>
 
-<section data-transition="convex">
-<h2 style="color:#8A4117" class="r-fit-text">FUNZIONE</h2>
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<h2 style="color:#8A4117" class="r-fit-text">proprietà delle relazioni:</h2>
+<ul class="fragment">
+  <li><h4>Simmetrica e antisimmetrica</h4</li>
+    <ul>
+      <li>una relazione si dice simmetrica</li>
+      <li>una relazione si dice simmetrica</li>
+    </ul>
+  <li><h4>Riflessiva e antiriflessiva</h4></li>
+    <ul>
+      <li>una relazione si dice simmetrica</li>
+      <li>una relazione si dice simmetrica</li>
+    </ul>
+</ul>
+</section>
+
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<h2 style="color:#8A4117">Relazioni di equivalenza</h2>
+<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
+<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
+</section>
+
+<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
+<h2 style="color:#8A4117">Relazioni di ordine</h2>
+<h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
+<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
+</section>
+
+---
+
+<section data-background-image="gear_00.png" data-background-opacity="0.4" data-transition="convex">
+<h2 style="color:#8A4117" class="r-fit-text">Funzioni</h2>
 <h3 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h3>
 
-<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $X$ e $Y$, si dice **funzione** tra $X$ e $Y$, una **legge** che associa **ad ogni** elemento $x$ dell’insieme $X$ **uno e uno solo** elemento $y$ dell’insieme $Y$.</q>
+<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $X$ e $Y$, si dice **funzione** tra $X$ e $Y$, una **legge** che associa **ad ogni** elemento $x$ dell’insieme $X$
+**uno e uno solo** elemento $y$ dell’insieme $Y$</q>
 
 <p class="fragment">si scrive:
 $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
 </p>
 <q class="fragment" style="color:#C04000;">Si legge: $f$ è una funzione che associa un elemento $x$ appartenente ad $X$ ad un elemento $y$ appartenente a $Y$.</q>
-<p class="fragment">oppure, nella forma più compatta:</p> 
-<p class="fragment" style="font-size:60px; color:#8A4117;">$y=f(x)$</p>
+<p class="fragment">oppure, nella forma più compatta: <font color="#C04000">$y=f(x)$</font></p> 
+</section>
+
+<section data-background-iframe="https://mathbrain.netlify.app"
+          data-background-interactive>
+  <h2>Iframe</h2>
 </section>
 
 <section>
-<table>
-  <tr>
-    <td><h3>Competenza</h3></td>
-    <td>Descrizione</td>
+<h2 style="color:#3B2F2F" class="r-fit-text">definizioni importanti</h2>
+
+<table style="font-size:85%">
+  <tr style="background-color:#F3E5AB;">
+    <td><em>Dominio</em></td>
+    <td>Descr$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;izione</td>
   </tr>
-  <tr>
+  <tr style="background-color:#F3E5AB;">
+    <td><em>Codominio</em></td>
     <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
+  </tr>
+  <tr style="background-color:#FFF0F5;">
+    <td><em>Immagine</em></td>
+    <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
+  </tr>
+  <tr style="background-color:#FFF0F5;">
+    <td><em>Controimmagine</em></td>
     <td>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</td>
   </tr>
 </table>
+</section>
+
+<section>
+<h2 style="color:#3B2F2F" class="r-fit-text">osservazioni</h2>
+
+<p class="r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
+
+<p>
+<ul style="font-size:80%;">
+  <li>In una funzione il **dominio** coincide - a meno di punti particolari - con l'insieme di partenza;</li>
+  <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
+  <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
+  <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
+  <li>$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
+</ul>
+</p>
 </section>
 
 ---
@@ -133,17 +199,6 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
 
 ---
 
-<h2>About blockquote  element</h2>
-<p>Here is a quote from goodreads website:</p>
-<blockquote style="background-color:#F3E5AB;">
-You've gotta dance like there's nobody watching,<br>
-Love like you'll never be hurt,<br>
-Sing like there's nobody listening,<br>
-And live like it's heaven on earth.<br>
-</blockquote>
-
----
-
 {{< slide background-image="calm_bkg.jpg" data-background-opacity="6">}}
 
 ## La funzione Happiness
@@ -162,9 +217,9 @@ And live like it's heaven on earth.<br>
 
 ---
 
-<section data-transition="zoom">
+{{< slide background-image="calm_bkg.jpg" data-background-opacity="6">}}
 
-{{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
+<section data-transition="zoom">
 
 <h2 style="color:#8A4117" class="r-fit-text">DOMANDE?</h2>
 

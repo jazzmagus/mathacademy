@@ -17,21 +17,12 @@ slides:
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <section data-transition="convex">
-  <h2 style="color:#3B2F2F" class="r-fit-text">Relazioni</h2>
-  <img src="gear_00.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=50);" width="30%">
-  <h2 style="color:#8A4117" class="r-fit-text">FUNZIONI</h2>
-</section>
-
-<section data-transition="convex">
-<h2 style="color:#3B2F2F" class="r-fit-text">Relazioni e Funzioni</h2>
-<h3 style="color:#3B2F2F"><em>- Rif.: Capitolo 4 -</em></h3>
-
-<img src="ecg_01.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=100);" width="300">
-
-<h4 style="color:#8A4117"><em>prof. diego fantinelli</em></h4>
-
-<p>ITI "Enrico Fermi" - Bassano del Grappa</p>
-<p style="color:#8A4117"><em>matematica per il biennio</em></p>
+  <h2 style="color:#3B2F2F" class="r-fit-text">Relazioni e Funzioni</h2>
+  <h3 class="fragment" style="color:#3B2F2F"><em>- Rif.: Capitolo 4 -</em></h3>
+  <img src="gear_00.png" class="fragment" style="opacity:0.8;filter:alpha(opacity=100);" width="100">
+  <h4 style="color:#8A4117"><em>prof. diego fantinelli</em></h4>
+  <p>ITI "Enrico Fermi" - Bassano del Grappa</p>
+  <p style="color:#8A4117"><em>matematica per il biennio &mdash; classi prime</em></p>
 </section>
 
 ---
@@ -39,7 +30,7 @@ slides:
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <section style="font-size:90%" data-transition="convex">
-  <h2 style="color:#3B2F2F" class="r-fit-text">Prerequisiti</h2>
+  <h2 style="color:#3B2F2F">Prerequisiti</h2>
 
   <ul class="fragment">
   <li class="fragment"><h3 style="color:#8A4117">insiemi numerici: </h3></li>
@@ -58,24 +49,21 @@ slides:
 
 ---
 
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="color:#3B2F2F" class="r-fit-text">La lezione</h2>
-  <h2 style="color:#3B2F2F; font-size: 100px;" class="r-fit-text; fragment">Relazioni e FUNZIONI</h2>
-  <img src="ecg_01.png" style="opacity:0.6; filter:alpha(opacity=40);" width="300">
+<section data-background-image="white_sky.jpeg" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="color:#3B2F2F">La lezione</h2>
+  <h2 style="color:#3B2F2F;" class="r-fit-text; fragment">Relazioni e FUNZIONI</h2>
+  <img src="gear_00.png" style="opacity:0.6; filter:alpha(opacity=40);" width="200">
 </section>
 
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="zoom">
-<h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">una riflessione per iniziare...</h2>
-<blockquote class="fragment" style="font-size: 40px;">
-In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti. Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.<br>
-<em>(Giorgio Parisi)</em>
-</blockquote>
+<section data-background-image="white_sky.jpeg" data-background-opacity="0.4" data-transition="zoom">
+<h3 class="fragment" style="color:#3B2F2F; font-size: 40px;"><em>In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
+<br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.<br>
+<br>&mdash; Giorgio Parisi</em></h3>
+</section>
 
-</section> <!-- Relazione-->
-
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
-<h2 style="color:#8A4117" class="r-fit-text">Relazione $\mathcal{R}$</h2>
-<h3 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h3>
+<section data-background-image="white_sky.jpeg" data-background-opacity="0.4" data-transition="convex">
+<h2 style="color:#3B2F2F" class="r-fit-text">Relazione $\mathscr{R}$</h2>
+<h3 class="fragment" style="text-align:left; color:#3B2F2F;">definizione:</h3>
 
 <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
 <ul class="fragment">
@@ -91,12 +79,12 @@ oppure: $\mathcal{R}: a \in A \longrightarrow b \in B$
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
 <h2 style="color:#8A4117" class="r-fit-text">proprietà delle relazioni:</h2>
 <ul class="fragment">
-  <li><h4>Simmetrica e antisimmetrica</h4</li>
+  <li><h3>Simmetrica e antisimmetrica</h3></li>
     <ul>
       <li>una relazione si dice simmetrica</li>
       <li>una relazione si dice simmetrica</li>
     </ul>
-  <li><h4>Riflessiva e antiriflessiva</h4></li>
+  <li><h3>Riflessiva e antiriflessiva</h3></li>
     <ul>
       <li>una relazione si dice simmetrica</li>
       <li>una relazione si dice simmetrica</li>
@@ -135,6 +123,15 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
 <section data-background-iframe="https://mathbrain.netlify.app"
           data-background-interactive>
   <h2>Iframe</h2>
+</section>
+
+<section>
+  <h2>The Lorenz Equations</h2>
+    \[\begin{aligned}
+    \dot{x} &amp; = \sigma(y-x) \\
+    \dot{y} &amp; = \rho x - y - xz \\
+    \dot{z} &amp; = -\beta z + xy
+    \end{aligned}\]
 </section>
 
 <section>
@@ -179,22 +176,37 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
 ---
 
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
+  <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
+  <h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
+  <img src="ecg_01.png" style="opacity:0.8;filter:alpha(opacity=40);" width="600">
+</section>
 
-<h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
-<h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
+<section data-background-image="brain_net.jpeg" data-background-opacity="0.4" data-transition="convex">
+<h2 style="color:#3B2F2F" class="r-fit-text">Albertino...</h2>
+<h2 style="background-color:powderblue; background-opacity:0.5;" class="r-fit-text">Creare connessioni...</h2>
+  <p class="fragment">si scrive:
+$f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
+</p>
+<q class="fragment" style="color:#C04000;">Si legge: $f$ è una funzione che associa un elemento $x$ appartenente ad $X$ ad un elemento $y$ appartenente a $Y$.</q>
+<p class="fragment">oppure, nella forma più compatta: <font color="#C04000">$y=f(x)$</font></p>
+</section>
 
-<img src="ecg_01.png" style="opacity:0.8;filter:alpha(opacity=40);" width="600">
+<section data-background-image="brain_net.jpeg" data-background-opacity="0.4" data-transition="convex">
+  <h2 style="background-color:powderblue;">l'elettrocardiogramma</h2>
+  <q style="background-color:#F3E5AB;">Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+  </q>
+<img src="heart.png" style="color:" width="400">
 
 </section>
 
-<section data-transition="convex">
+---
 
-<h2 style="background-color:powderblue;">l'elettrocardiogramma</h2>
-<q style="background-color:#F3E5AB;">Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
-</q>
+<section data-background-image="net_bkg.jpeg" data-background-opacity="0.6" data-transition="zoom">
 
-<img src="heart.png" style="color:" width="300">
-
+<img src="gear.png" width="200">
+<a href="#">
+  <img class="r-frame" src="gear.png" width="200">
+</a>
 </section>
 
 ---

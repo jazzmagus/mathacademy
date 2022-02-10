@@ -1,6 +1,6 @@
 ---
-title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Relazioni e Funzioni
+summary: Capitolo 4
 authors: []
 tags: []
 categories: []
@@ -42,7 +42,6 @@ slides:
   <li class="fragment"><h3 style="color:#8A4117">teoria degli insiemi</h3></li>
     <ul class="fragment">
       <li>Rappresentazioni: estensiva, intensiva e Diagrammi di Eulero-Venn</li>
-      <li>Operazioni insiemistiche</li>
       <li>Prodotto Cartesiano: definizione e rappresentazione</li>
     </ul>
 </section>
@@ -62,18 +61,28 @@ slides:
 </section>
 
 <section data-background-image="white_sky.jpeg" data-background-opacity="0.4" data-transition="convex">
-<h2 style="color:#3B2F2F" class="r-fit-text">Relazione $\mathscr{R}$</h2>
+<h2 style="color:#3B2F2F">Relazione $\mathscr{R}$</h2>
 <h3 class="fragment" style="text-align:left; color:#3B2F2F;">definizione:</h3>
 
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
+<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathscr{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.
 <ul class="fragment">
   <li>Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
 </ul>
 </q>
 
-<p class="fragment">In generale si scrive: $\mathcal{R}: A \longrightarrow B$<br>
-oppure: $\mathcal{R}: a \in A \longrightarrow b \in B$
+<p class="fragment">In generale si scrive: $\mathscr{R}: A \longrightarrow B$<br>
+oppure: $\mathscr{R}: a \in A \longrightarrow b \in B$
 </p>
+</section>
+
+<section>
+  <h2 style="color:#FFF0F5" class="r-fit-text">Dominio e Codominio</h2>
+  <h2 style="color:#FFF0F5" class="r-fit-text">Immagine e Controimmagine</h2>
+</section>
+
+<section data-background-video="archery.mp4" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="color:#ffffff" class="r-fit-text">Dominio e Codominio</h2>
+  <h2 style="color:#ffffff" class="r-fit-text">Immagine e Controimmagine</h2>
 </section>
 
 <section data-background-image="real_life_bkg.jpg" data-background-opacity="0.4" data-transition="convex">
@@ -109,7 +118,6 @@ oppure: $\mathcal{R}: a \in A \longrightarrow b \in B$
 <section data-background-image="gear_00.png" data-background-opacity="0.4" data-transition="convex">
 <h2 style="color:#8A4117" class="r-fit-text">Funzioni</h2>
 <h3 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h3>
-
 <q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $X$ e $Y$, si dice **funzione** tra $X$ e $Y$, una **legge** che associa **ad ogni** elemento $x$ dell’insieme $X$
 **uno e uno solo** elemento $y$ dell’insieme $Y$</q>
 
@@ -118,11 +126,6 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
 </p>
 <q class="fragment" style="color:#C04000;">Si legge: $f$ è una funzione che associa un elemento $x$ appartenente ad $X$ ad un elemento $y$ appartenente a $Y$.</q>
 <p class="fragment">oppure, nella forma più compatta: <font color="#C04000">$y=f(x)$</font></p> 
-</section>
-
-<section data-background-iframe="https://mathbrain.netlify.app"
-          data-background-interactive>
-  <h2>Iframe</h2>
 </section>
 
 <section>
@@ -181,14 +184,16 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
   <img src="ecg_01.png" style="opacity:0.8;filter:alpha(opacity=40);" width="600">
 </section>
 
-<section data-background-image="brain_net.jpeg" data-background-opacity="0.4" data-transition="convex">
-<h2 style="color:#3B2F2F" class="r-fit-text">Albertino...</h2>
-<h2 style="background-color:powderblue; background-opacity:0.5;" class="r-fit-text">Creare connessioni...</h2>
-  <p class="fragment">si scrive:
-$f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
-</p>
-<q class="fragment" style="color:#C04000;">Si legge: $f$ è una funzione che associa un elemento $x$ appartenente ad $X$ ad un elemento $y$ appartenente a $Y$.</q>
-<p class="fragment">oppure, nella forma più compatta: <font color="#C04000">$y=f(x)$</font></p>
+<section>
+  <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
+  <img src="trig_02.png" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
+  <a href="https://www.geogebra.org/classic/stvx3trg/">Geogebra</a>.
+</section>
+
+<section>
+  <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
+  <img src="dart.jpeg" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
+  <a href="https://www.geogebra.org/classic/stvx3trg/">Geogebra</a>.
 </section>
 
 <section data-background-image="brain_net.jpeg" data-background-opacity="0.4" data-transition="convex">
@@ -196,25 +201,29 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
   <q style="background-color:#F3E5AB;">Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
   </q>
 <img src="heart.png" style="color:" width="400">
-
 </section>
 
----
-
-<section data-background-image="net_bkg.jpeg" data-background-opacity="0.6" data-transition="zoom">
-
-<img src="gear.png" width="200">
-<a href="#">
-  <img class="r-frame" src="gear.png" width="200">
-</a>
+<section data-background-image="ecg_ped.jpeg" data-background-opacity="0.4" data-transition="convex">
+  <img src="ecg-gif.gif" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
+  <ul class="r-fit-text">
+    <li><em>Onda P</em>: piccola onda positiva, indica la depolarizzazione atriale (attivazione elettrica degli atri)</li>
+    <li><em>Intervallo PR</em>: distanza fra l’inizio dell’onda P e l’inizio del complesso QRS, rappresenta l’intervallo necessario perché la depolarizzazione atriale raggiunga i ventricoli</li>
+    <li><em>Complesso QRS</em>: rappresenta la depolarizzazione ventricolare</li>  
+    <li><em>Onda Q</em>: prima deflessione negativa</li>
+    <li><em>Onda R</em>: prima deflessione positiva</li>
+    <li><em>Onda S</em>: seconda deflessione negativa</li>
+    <li><em>Tratto ST</em>: distanza fra l’onda S e l’inizio dell’onda T, rappresenta l’intervallo fra la depolarizzazione ventricolare e l’inizio della ripolarizzazione ventricolare (ripristino delle condizioni elettriche di base)</li>
+    <li>**Onda T**: prima onda positiva successiva al complesso QRS, rappresenta la ripolarizzazione ventricolare</li>
+    <li>**Intervallo QT**: distanza fra l’inizio del QRS e la fine dell’onda T, rappresenta l’intera attività elettrica ventricolare</li>
+    <li>**Onda U**: onda positiva successiva all’onda T, non sempre presente, rappresenta la ripolarizzazione delle fibre del Purkinje</li>
+  </ul>
 </section>
 
 ---
 
 {{< slide background-image="calm_bkg.jpg" data-background-opacity="6">}}
 
-## La funzione Happiness
-
+<h3>La funzione Happiness</h3>
 <p class="r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
 
 <p>
@@ -232,11 +241,7 @@ $f: X \longrightarrow Y$ oppure $f: x \in X \longrightarrow y \in Y$
 {{< slide background-image="calm_bkg.jpg" data-background-opacity="6">}}
 
 <section data-transition="zoom">
-
-<h2 style="color:#8A4117" class="r-fit-text">DOMANDE?</h2>
-
-<h2 style="color:#8A4117" class="fragment">Buon lavoro!</h2>
-
+  <h2 style="color:#8A4117" class="r-fit-text">DOMANDE?</h2>
 </section>
 
 ---

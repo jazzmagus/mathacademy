@@ -19,7 +19,7 @@ weight: 40
 
 > ☆ **scadenza**: 20 febbraio 2022 $\longrightarrow$ **verifica**
 
-{{< figure src="../ecg-gif.gif" caption="Figura 1. ECG - elettrocardiogramma" theme="dark" width="100%">}}
+{{< figure src="../heart_01.gif" caption="Figura 1. ECG - elettrocardiogramma" theme="dark" width="100%">}}
 
 ## Relazioni tra due insiemi
 

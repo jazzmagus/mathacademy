@@ -50,23 +50,23 @@ slides:
 
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
-<section data-background-video="teaching.mp4" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="color:#3B2F2F;" class="r-fit-text">Relazioni e</h2>
-  <h2 style="color:#3B2F2F;" class="r-fit-text">FUNZIONI</h2>
+<section data-background-video="teaching.mp4" data-background-opacity="0.7" data-transition="zoom">
+  <h2 style="color:#FFFFFF;" class="r-fit-text">Relazioni e</h2>
+  <h2 style="color:#FFFFFF;" class="r-fit-text">FUNZIONI</h2>
 </section>
 
 <section>
-<h3 class="fragment" style="color:#3B2F2F; font-size: 40px;"><em>In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
-<br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano.<br>
+<h3 class="fragment" style="color:#3B2F2F; font-size: 60px;">una riflessione per iniziare...</h3>
+<h3 class="fragment" style="color:#3B2F2F; font-size: 40px;"><em>"In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
+<br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano".<br>
 <br>&mdash; Giorgio Parisi</em></h3>
 </section>
 
 <section>
 <h2 style="color:#3B2F2F">Relazione $\mathscr{R}$</h2>
 <h3 class="fragment" style="text-align:left; color:#3B2F2F;">definizione:</h3>
-
-<q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathscr{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-<ul>
+<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice <b>relazione</b> tra $A$ e $B$ - e si indica con $\mathscr{R}$ -, una <b>legge</b> che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
+<ul style="font-size:90%">
   <li class="fragment">Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
   <li class="fragment">In generale si scrive: $\mathscr{R}: A \longrightarrow B$ </li>
   <li class="fragment">oppure: $\mathscr{R}: a \in A \longrightarrow b \in B$</li>
@@ -74,15 +74,35 @@ slides:
 </section>
 
 <section data-background-video="archery.mp4" data-background-opacity="0.8" data-transition="convex">
-  <h2 class="r-fit-text" style="color:#FFF0F5">Definizioni</h2>
+  <h2 class="r-fit-text" style="color:#FFFFFF">Definizioni</h2>
 </section>
 
 <section>
-  <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Dominio e Codominio</h2>
-</section>
+  <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Dominio e Codominio $\mathscr{R}$</h2>
+  <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Dominio di una relazione $D$:</h4>
+  <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>dominio</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $A$ che sono associati ad <b>almeno un</b> elemento di $B$.</q>
+  <br>
+  <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Codominio di una relazione $C$:</h4>
+  <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>codominio</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che sono associati ad <b>almeno un</b> elemento di $A$.</q>
+</section>  
 
 <section>
   <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Immagine e Controimmagine</h2>
+  <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Immagine di una relazione (D):</h4>
+  <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>immagine</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $A$ che sono associati ad <b>almeno un</b> elemento di $B$.</q>
+  <br>
+  <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Controimmagine di una relazione (C):</h4>
+  <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>controimmagine</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che sono associati ad <b>almeno un</b> elemento di $A$.</q>
+</section>
+
+<section>
+  <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Dominio e Codominio $\mathscr{R}$</h2>
+  <h4 class="fragment" style="color:#3B2F2F" class="r-fit-text"><em>tramite le def. di <b>immagine</b> e <b>controimmagine</b></em></h4>
+  <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Dominio di una relazione (D):</h4>
+  <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>dominio</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $A$ che hanno <b>almeno una immagine</b> in $B$.</q>
+  <br>
+  <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Codominio di una relazione (C):</h4>
+  <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>codominio</b>di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che hanno <b>almeno una controimmagine</b> in $A$</q>
 </section>
 
 <section>
@@ -155,16 +175,28 @@ slides:
   <h2 style="color:#3B2F2F" class="r-fit-text">Proprietà delle <br> funzioni</h2>
 </section>
 
-<section>
+<section style="text-align:left;">
 <h2 style="color:#8A4117">Funzioni INIETTIVE</h2>
 <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
 <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
 </section>
 
 <section>
-<h2 style="color:#8A4117">Funzioni SURIETTIVE</h2>
+<h3 class="fragment" style="text-align:left">esempio</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
+</section>
+
+<section>
+<h3 style="color:#8A4117">Funzioni SURIETTIVE</h3>
 <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
 <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
+</section>
+
+<section>
+<h3 class="fragment" style="text-align:left">esempio</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
 </section>
 
 <section>
@@ -174,9 +206,21 @@ slides:
 </section>
 
 <section>
+<h3 class="fragment" style="text-align:left">esempio</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
+</section>
+
+<section>
 <h2 style="color:#8A4117">Funzioni invertibili</h2>
 <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
 <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
+</section>
+
+<section>
+<h3 class="fragment" style="text-align:left">esempio</h2>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
 </section>
 
 <section>
@@ -186,10 +230,16 @@ slides:
 </section>
 
 <section>
+<h3 class="fragment" style="text-align:left">esempio</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
+</section>
+
+<section>
 <h2 style="color:#3B2F2F" class="r-fit-text">osservazioni</h2>
 
 <ul style="font-size:80%;">
-  <li>In una funzione il **dominio** coincide - a meno di punti particolari - con l'insieme di partenza;</li>
+  <li>In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</li>
   <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
   <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
   <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
@@ -198,8 +248,36 @@ slides:
 
 ---
 
-<section>
+{{< slide background-image="happiness_bgk.jpg" data-background-opacity="6" >}}
+
+<section data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">Funzioni <br> notevoli</h2>
+  <h3 style="color:#3B2F2F" class="r-fit-text">e loro rappresentazioni grafiche</h3>
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">proporzionalità lineare</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">proporzionalità quadratica</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">proporzionalità inversa</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<p class="fragment">$$y=f(x)=x^2$$</p>
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">funzioni goniometriche</h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
+<img class="fragment" src="unit-circle.png" style="opacity:0.8;filter:alpha(opacity=40);" width="50%">
+<p class="fragment">$$y=f(x)=x^2$$</p>
 </section>
 
 ---

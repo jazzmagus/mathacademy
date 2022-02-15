@@ -48,6 +48,17 @@ slides:
 
 ---
 
+{{< slide background-image="https://source.unsplash.com/1920x1080/?black" >}}
+
+<section>
+  <h3 class="fragment" style="color:#FFFFFF; font-size: 60px;">una riflessione per iniziare...</h3>
+  <h3 class="fragment" style="color:#FFFFFF; font-size: 40px;"><em>"In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
+  <br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano".<br>
+  <br>&mdash; Giorgio Parisi, premio Nobel per la Fisica 2021</em></h3>
+</section>
+
+---
+
 {{< slide background-image="https://source.unsplash.com/1920x1080/?white" >}}
 
 <section data-background-video="teaching.mp4" data-background-opacity="0.7" data-transition="zoom">
@@ -56,28 +67,21 @@ slides:
 </section>
 
 <section>
-<h3 class="fragment" style="color:#3B2F2F; font-size: 60px;">una riflessione per iniziare...</h3>
-<h3 class="fragment" style="color:#3B2F2F; font-size: 40px;"><em>"In fisica e in matematica è impressionante la sproporzione tra lo sforzo per capire una cosa nuova per la prima volta e la semplicità e naturalezza del risultato una volta che i vari passaggi sono stati compiuti.
-<br>Nel prodotto finito, nelle scienze come in poesia, non c'è traccia della fatica del processo creativo e dei dubbi e delle esitazioni che lo accompagnano".<br>
-<br>&mdash; Giorgio Parisi</em></h3>
-</section>
-
-<section>
-<h2 style="color:#3B2F2F">Relazione $\mathscr{R}$</h2>
-<h3 class="fragment" style="text-align:left; color:#3B2F2F;">definizione:</h3>
-<q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice <b>relazione</b> tra $A$ e $B$ - e si indica con $\mathscr{R}$ -, una <b>legge</b> che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
-<ul style="font-size:90%">
-  <li class="fragment">Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
-  <li class="fragment">In generale si scrive: $\mathscr{R}: A \longrightarrow B$ </li>
-  <li class="fragment">oppure: $\mathscr{R}: a \in A \longrightarrow b \in B$</li>
-</ul>
+  <h2 style="color:#3B2F2F">Relazione $\mathscr{R}$</h2>
+  <h3 class="fragment" style="text-align:left; color:#3B2F2F;">definizione:</h3>
+  <q class="fragment" style="color:#C04000; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice <b>relazione</b> tra $A$ e $B$ - e si indica con $\mathscr{R}$ -, una <b>legge</b> che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
+  <ul style="font-size:90%">
+    <li class="fragment">Se una relazione opera tra un insieme $A$ e se stesso, si dice relazione nell’insieme $A$.</li>
+    <li class="fragment">In generale si scrive: $\mathscr{R}: A \longrightarrow B$ </li>
+    <li class="fragment">oppure: $\mathscr{R}: a \in A \longrightarrow b \in B$</li>
+  </ul>
 </section>
 
 <section data-background-video="archery.mp4" data-background-opacity="0.8" data-transition="convex">
   <h2 class="r-fit-text" style="color:#FFFFFF">Definizioni</h2>
 </section>
 
-<section>
+<section data-transition="convex">
   <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Dominio e Codominio $\mathscr{R}$</h2>
   <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Dominio di una relazione $D$:</h4>
   <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>dominio</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $A$ che sono associati ad <b>almeno un</b> elemento di $B$.</q>
@@ -86,7 +90,7 @@ slides:
   <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>codominio</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che sono associati ad <b>almeno un</b> elemento di $A$.</q>
 </section>  
 
-<section>
+<section data-transition="convex">
   <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Immagine e Controimmagine</h2>
   <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Immagine di una relazione (D):</h4>
   <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>immagine</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $A$ che sono associati ad <b>almeno un</b> elemento di $B$.</q>
@@ -95,7 +99,7 @@ slides:
   <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>controimmagine</b> di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che sono associati ad <b>almeno un</b> elemento di $A$.</q>
 </section>
 
-<section>
+<section data-transition="convex">
   <h2 class="fragment" style="color:#3B2F2F" class="r-fit-text">Dominio e Codominio $\mathscr{R}$</h2>
   <h4 class="fragment" style="color:#3B2F2F" class="r-fit-text"><em>tramite le def. di <b>immagine</b> e <b>controimmagine</b></em></h4>
   <h4 class="fragment" style="text-align:left; color:#3B2F2F;">Dominio di una relazione (D):</h4>
@@ -105,7 +109,7 @@ slides:
   <q class="fragment" style="color:#C04000; font-size:80%; background-color:#F3E5AB;">si dice <b>codominio</b>di una relazione $\mathscr{R}$ tra due insiemi $A$ e $B$ l'insieme degli elementi di $B$ che hanno <b>almeno una controimmagine</b> in $A$</q>
 </section>
 
-<section>
+<section data-transition="convex">
 <h2 style="color:#8A4117" class="r-fit-text">proprietà delle relazioni:</h2>
 <ul class="fragment">
   <li><h3>Simmetrica e antisimmetrica</h3></li>
@@ -121,13 +125,13 @@ slides:
 </ul>
 </section>
 
-<section>
+<section data-transition="convex">
 <h2 style="color:#8A4117">Relazioni di equivalenza</h2>
 <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
 <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
 </section>
 
-<section>
+<section data-transition="convex">
 <h2 style="color:#8A4117">Relazioni di ordine</h2>
 <h4 class="fragment" style="text-align:left; color:#8A4117;">definizione:</h4>
 <q class="fragment" style="color:#C04000; font-size:90%; background-color:#F3E5AB;">Dati due insiemi non vuoti $A$ e $B$, si dice **relazione** tra $A$ e $B$ - e si indica con $\mathcal{R}$ -, una **legge** che associa elementi dell’insieme $A$ con elementi dell’insieme $B$.</q>
@@ -161,10 +165,10 @@ slides:
 
 <section data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">definizioni importanti</h2>
-  <p class="fragment"><em><b>Dominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
-  <p class="fragment"><em><b>Co-Dominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
-  <p class="fragment"><em><b>Immagine:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
-  <p class="fragment"><em><b>Contro-Immagine:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
+  <p class="fragment" style="background-color:powderblue;"><em><b>Dominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
+  <p class="fragment" style="background-color:powderblue;"><em><b>Co-Dominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
+  <p class="fragment" style="background-color:powderblue;"><em><b>Immagine:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
+  <p class="fragment" style="background-color:powderblue;"><em><b>Contro-Immagine:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
 </section>
 
 ---
@@ -251,8 +255,13 @@ slides:
 {{< slide background-image="happiness_bgk.jpg" data-background-opacity="6" >}}
 
 <section data-transition="convex">
-  <h2 style="color:#3B2F2F" class="r-fit-text">Funzioni <br> notevoli</h2>
+  <h3 style="color:#3B2F2F" class="r-fit-text">Funzioni <br> notevoli</h3>
   <h3 style="color:#3B2F2F" class="r-fit-text">e loro rappresentazioni grafiche</h3>
+</section>
+
+<section data-transition="convex">
+  <h3 style="color:#3B2F2F" class="r-fit-text">Il Diagramma <br> cartesiano</h3>
+
 </section>
 
 <section data-transition="convex">
@@ -273,34 +282,58 @@ slides:
 <p class="fragment">$$y=f(x)=x^2$$</p>
 </section>
 
+---
+
+{{< slide background-image="book_bgk.jpg" data-background-opacity="6" >}}
+
+<section data-transition="convex" data-background-color="#E9EAE5">
+<h3 class="r-fit-text" style="text-align:left">funzioni goniometriche</h3>
+<img class="fragment" src="trig-fun02.png" style="opacity:0.8;filter:alpha(opacity=40);" width="100%">
+</section>
+
 <section data-transition="convex">
-<h3 class="fragment" style="text-align:left">funzioni goniometriche</h3>
-<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: </em></h4>
-<img class="fragment" src="unit-circle.png" style="opacity:0.8;filter:alpha(opacity=40);" width="50%">
-<p class="fragment">$$y=f(x)=x^2$$</p>
+<h3 class="r-fit-text" style="text-align:left">La circonferenza goniometrica</h3>
+<img class="fragment" src="trig.png" style="opacity:0.8;filter:alpha(opacity=40);" width="80%">
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">la funzione <em>seno</em></h3>
+<h4 class="fragment" style="text-align:left">❖ Consideriamo la seguente funzione: $y=\sin{x}$</h4>
+<img class="fragment" src="sin.png" style="opacity:0.8;filter:alpha(opacity=40);" width="120%">
+<p class="fragment">$$y=f(x)=sinx$$</p>
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">la funzione <em>coseno</em></h3>
+<h4 class="fragment" style="text-align:left">❖ Consideriamo la seguente funzione: $y=\cos{x}$</h4>
+<img class="fragment" src="cosx.png" style="opacity:0.8;filter:alpha(opacity=40);" width="120%">
+<p class="fragment">$$y=f(x)=sinx$$</p>
+</section>
+
+<section data-transition="convex">
+<h3 class="fragment" style="text-align:left">La funzione <em>tangente</em></h3>
+<h4 class="fragment" style="text-align:left">❖ <em>Consideriamo la seguente funzione: $y=\tan{x}$</em></h4>
+<img class="fragment" src="tgx.png" style="opacity:0.8;filter:alpha(opacity=40);" width="80%">
+<p class="fragment">$$y=f(x)=tanx$$</p>
 </section>
 
 ---
 
-<section data-background-image="real_life_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
-  <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
-  <h2 style="color:#3B2F2F" class="r-fit-text">nella vita reale</h2>
-</section>
-
-<section>
-  <h2 style="color:#3B2F2F" class="r-fit-text">esempi di funzione</h2>
-  <img src="trig_02.png" style="opacity:0.8;filter:alpha(opacity=40);" width="80%">
+<section data-background-image="heart_01.gif" data-background-opacity="0.5" data-transition="zoom">
+  <h2 class="fragment; r-fit-text" style="color:#FFFFFF">esempi di funzione</h2>
+  <h2 style="color:#FFFFFF" class="fragment r-fit-text">nella vita reale</h2>
 </section>
 
 <section data-background-image="heart_01.gif" data-background-opacity="0.4" data-transition="convex">
-  <h2 style="background-color:powderblue;">l'elettrocardiogramma</h2>
-  <q style="background-color:#F3E5AB;">Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
+  <h2 class="fragment" style="background-color:powderblue;">l'elettrocardiogramma</h2>
+  <q class="fragment" style="background-color:#F3E5AB;">Per evitare di commettere gravi errori devi ricordare che, in una frazione algebrica, puoi semplificare solo i fattori comuni al numeratore e al denominatore
   </q>
-<img src="heart.png" style="color:" width="400">
+<img class="fragment" src="heart.png" style="color:" width="350">
 </section>
 
 <section data-background-image="heart_01.gif" data-background-opacity="0.4" data-transition="convex">
-  <ul class="r-fit-text">
+  <h4 class="fragment" style="background-color:powderblue; text-align:left">le variabili coinvolte:</h4>
+  <ul class="fragment r-fit-text" style="font-size:70%">
     <li><em>Onda P</em>: piccola onda positiva, indica la depolarizzazione atriale (attivazione elettrica degli atri)</li>
     <li><em>Intervallo PR</em>: distanza fra l’inizio dell’onda P e l’inizio del complesso QRS, rappresenta l’intervallo necessario perché la depolarizzazione atriale raggiunga i ventricoli</li>
     <li><em>Complesso QRS</em>: rappresenta la depolarizzazione ventricolare</li>  
@@ -308,26 +341,35 @@ slides:
     <li><em>Onda R</em>: prima deflessione positiva</li>
     <li><em>Onda S</em>: seconda deflessione negativa</li>
     <li><em>Tratto ST</em>: distanza fra l’onda S e l’inizio dell’onda T, rappresenta l’intervallo fra la depolarizzazione ventricolare e l’inizio della ripolarizzazione ventricolare (ripristino delle condizioni elettriche di base)</li>
-    <li>**Onda T**: prima onda positiva successiva al complesso QRS, rappresenta la ripolarizzazione ventricolare</li>
-    <li>**Intervallo QT**: distanza fra l’inizio del QRS e la fine dell’onda T, rappresenta l’intera attività elettrica ventricolare</li>
-    <li>**Onda U**: onda positiva successiva all’onda T, non sempre presente, rappresenta la ripolarizzazione delle fibre del Purkinje</li>
+    <li><em>Onda T</em>: prima onda positiva successiva al complesso QRS, rappresenta la ripolarizzazione ventricolare</li>
+    <li><em>Intervallo QT:</em> distanza fra l’inizio del QRS e la fine dell’onda T, rappresenta l’intera attività elettrica ventricolare</li>
+    <li><em>Onda U:</em> onda positiva successiva all’onda T, non sempre presente, rappresenta la ripolarizzazione delle fibre del Purkinje</li>
   </ul>
+</section>
+
+<section data-background-image="heart_01.gif" data-background-opacity="0.4" data-transition="convex">
+  <h3 class="fragment; r-fit-text">matematicamente...</h3>
+  <ul>
+    <li class="fragment" style="font-size:80%">Attualmente la tecnica più utilizzata per il riconoscimento on line del complesso QRS è quella del filtraggio digitale.</li>
+    <li class="fragment" style="font-size:80%">Un filtro è una trasformazione lineare che al segnale $x_{t}$ associa un segnale $y_{t}$ definito da una funzione del tipo:</li>
+  </ul>
+  <h3 class="fragment" style="color:#FFFFFF;">$$ y_{t}=\sum_{k=1}^{n} f(k) y_{t-k}+\sum_{i=1}^{m} g(i) x_{t-i}$$</h3>
 </section>
 
 ---
 
 {{< slide background-image="happiness_bgk.jpg" data-background-opacity="6">}}
 
-<h3>La funzione Happiness</h3>
-<p class="r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
+<h3 class="fragment">La funzione Happiness</h3>
+<p class="fragment r-fit-text">$\textbf{Happiness(t)}=w_{0}+w_{1} \cdot\displaystyle{\sum_{j=1}^{t}} \gamma^{t-j} C R_{j}+w_{2} \cdot\sum_{j=1}^{t} \gamma^{t-j} E V_{j}+w_{3} \cdot\sum_{j=1}^{t} \gamma^{t-j} R P E_{j}$</p>
 
 <p>
 <ul style="font-size:80%;">
-  <li>$t$; $w_0$, $w_1$, $w_2$ e $w_3$ sono costanti che indicano l’influenza dei diversi tipi di eventi;</li>
-  <li>$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
-  <li>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
-  <li>$EVj$ è la valutazione del rischio su di un processo $j$;</li>
-  <li>$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
+  <li class="fragment">$t$; $w_0$, $w_1$, $w_2$ e $w_3$ sono costanti che indicano l’influenza dei diversi tipi di eventi;</li>
+  <li class="fragment">$\gamma$ è un “forgetting factor” (fattore dimenticando) che rende gli eventi degli studi più recenti più influenti rispetto a quelli precedenti;</li>
+  <li class="fragment">$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;</li>
+  <li class="fragment">$EVj$ è la valutazione del rischio su di un processo $j$;</li>
+  <li class="fragment">$RPEj$ rappresenta la differenza tra la ricompensa desiderata e quella effettivamente ottenuta dal processo $j$.</li>
 </ul>
 </p>
 

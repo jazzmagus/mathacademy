@@ -160,7 +160,7 @@ slides:
 <section data-transition="convex">
   <h2 style="color:#3B2F2F" class="r-fit-text">definizioni importanti</h2>
   <p class="fragment" style="background-color:powderblue;"><em><b>Dominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
-  <p class="fragment" style="background-color:powderblue;"><em><b>Co-Dominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
+  <p class="fragment" style="background-color:powderblue;"><em><b>Codominio:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
   <p class="fragment" style="background-color:powderblue;"><em><b>Immagine:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
   <p class="fragment" style="background-color:powderblue;"><em><b>Contro-Immagine:</b> In una funzione il <b>dominio</b> coincide - a meno di punti particolari - con l'insieme di partenza;</em></p>
 </section>

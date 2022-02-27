@@ -18,41 +18,33 @@ slides:
 
 <section data-transition="convex">
   <img src="miur.png" style="opacity:0.6;filter:alpha(opacity=60);" width="300">
-  <h2 style="color:#3B2F2F" class="r-fit-text">CONCORSO 2022</h2>
-  <h2 style="color:#8A4117" class="r-fit-text">STEM A26</h2>
-</section>
-
-<section data-transition="convex">
-  <h2 style="color:#3B2F2F">Lezione simulata</h2>
-  <h3 class="fragment" style="color:#3B2F2F"><em>La traccia nel dettaglio</em></h3>
+  <h3 style="color:#8A4117" class="r-fit-text">Relazioni e funzioni</h3>
+  <h3 style="color:#3B2F2F">CONCORSO STEM 2022</h3>
   <br>
-  <br>
-  <br>
-  <h4 style="color:#483C32">candidato:<em> diego fantinelli</em></h3>
+  <h4 style="color:#8A4117"><em><b>candidato: </b>Diego Fantinelli - A026</em></h4>
 </section>
 
 ---
 
-<section data-background-video="ooo.mp4" data-background-opacity="0.7" data-transition="convex">
-  <h2 style="color:#3B2F2F" class="r-fit-text">Destinatari:</h2>
-  <h2 style="color:#3B2F2F">La classe</h2>
+<section data-background-video="teaching.mp4" data-background-opacity="0.5" data-transition="convex">
+  <h2 style="color:#ffffff" class="r-fit-text">Contesto didattico</h2>
   <br>
-  <table class="fragment fade-in">
+  <table class="fragment" style="color:#ffffff" class="fragment fade-in">
     <tr>
-      <td><b>cosa</b></td>
-      <td><b>descrizione</b></td>
+      <td><b>scuola</b></td>
+      <td><b>Istituto Tecnico Industriale </b></td>
     </tr>
     <tr>
-      <td><b>conoscenze</b></td>
-      <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+      <td><b>classe</b></td>
+      <td style="font-size:90%"><i>seconda, indirizzo <b>meccatronica</b><i></td>
     </tr>
     <tr>
-      <td><b>abilità</b></td>
-      <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+      <td><b>alunni</b></td>
+      <td style="font-size:90%"><i>28 studenti: 13 maschi e 15 femmine<i></td>
     </tr>
     <tr>
-      <td><b>competenze</b></td>
-      <td style="font-size:90%"><i>$CRj$ è la gratificazione ottenuta dalla scelta su un processo $j$;<i></td>
+      <td><b>disabilità</b></td>
+      <td style="font-size:90%"><i>DSA, BES, DOP, ADHD, NAI, H.<i></td>
     </tr>
   </table>
 </section>
@@ -95,7 +87,7 @@ slides:
 
 ---
 
-<section data-background-image="white_sky.jpeg" data-background-opacity="0.5" data-transition="zoom">
+<section data-background-image="book_bkg.jpg" data-background-opacity="0.5" data-transition="zoom">
   <h2 style="color:#3B2F2F">La lezione</h2>
   <h2 style="color:#3B2F2F;" class="r-fit-text; fragment">Relazioni e FUNZIONI</h2>
   <img src="gear_00.png" style="opacity:0.6; filter:alpha(opacity=40);" width="200">
@@ -281,11 +273,6 @@ $$\dfrac{\text{numeratore}}{\text{denominatore}} \rightarrow \dfrac{N(x)}{D(x)} 
 <section data-background-video="digital.mp4" data-background-opacity="1" data-transition="convex">
 <h2 style="color:#ffffff" class="r-fit-text">Creare connessioni</h2>
 <q class="fragment" style="color:#ffffff;">Si legge: $f$ è una funzione che associa un elemento $x$ appartenente ad $X$ ad un elemento $y$ appartenente a $Y$.</q>
-<p class="fragment" style="color:#ffffff;">oppure, nella forma più compatta: <font color="#ffffff">$y=f(x)$</font></p> 
-</section>
-
-<section data-background-video="digital.mp4" data-background-opacity="1" data-transition="convex">
-<h2 style="color:#ffffff" class="r-fit-text">Creare connessioni</h2>
 <p class="fragment" style="color:#ffffff;">oppure, nella forma più compatta: <font color="#ffffff">$y=f(x)$</font></p> 
 </section>
 

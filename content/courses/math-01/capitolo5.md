@@ -1,10 +1,12 @@
 ---
 title: 5. Monomi e Polinomi
 linktitle: Capitolo 5 monomi e polinomi
+abstract: "Il calcolo letterale cambia cmpletamente la prospettiva con la quale guardiamo al calcolo..."
 toc: true
 type: docs
 date: "2019-05-05T00:00:00+01:00"
 draft: false
+slides: capitolo5
 menu:
   math-01:
     parent: 
